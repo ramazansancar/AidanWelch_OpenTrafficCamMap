@@ -7186,22 +7186,6 @@
         "format": "M3U8"
       },
       {
-        "description": "AKÇAY KORDON",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "url": "https://content.tvkur.com/l/cj69rf5052aveu3s8ls0/master.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      },
-      {
-        "description": "AKÇAY KORDON 2",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "url": "https://content.tvkur.com/l/cj69rut052aveu3s8ltg/master.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      },
-      {
         "description": "ALTINOLUK KORDON",
         "latitude": 0.0,
         "longitude": 0.0,
@@ -7258,10 +7242,34 @@
         "format": "M3U8"
       },
       {
-        "description": "DURSUNBEY SUÇIKTI",
+        "description": "DURSUNBEY SUÇIKTI 1",
         "latitude": 0.0,
         "longitude": 0.0,
         "url": "https://content.tvkur.com/l/cs7rf4um756c73a3ie7g/master.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "DURSUNBEY SUÇIKTI 2",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "url": "https://content.tvkur.com/l/csi8noem756c73a4m7p0/master.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "İVRİNDİ MEYDAN 1",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "url": "https://content.tvkur.com/l/csi7rpum756c73a4lkug/master.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "iVRİNDİ MEYDAN 2",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "url": "https://content.tvkur.com/l/csi7r0um756c73a4lk90/master.m3u8",
         "encoding": "H.264",
         "format": "M3U8"
       }
