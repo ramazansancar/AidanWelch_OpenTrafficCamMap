@@ -7210,14 +7210,6 @@
         "format": "M3U8"
       },
       {
-        "description": "Yat Limanı",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "url": "https://cdn-ipkamera.yayin.com.tr/marmarisbel/yatlimani/playlist.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      },
-      {
         "description": "Uzun Yalı",
         "latitude": 0.0,
         "longitude": 0.0,
@@ -7230,6 +7222,14 @@
         "latitude": 0.0,
         "longitude": 0.0,
         "url": "https://cdn-ipkamera.yayin.com.tr/marmarisbel/icmeler/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Atatürk Bulvarı",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "url": "https://cdn-ipkamera.yayin.com.tr/marmarisbel/ataturk/playlist.m3u8",
         "encoding": "H.264",
         "format": "M3U8"
       },
