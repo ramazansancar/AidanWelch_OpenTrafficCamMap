@@ -6923,186 +6923,6 @@
       }
     ]
   },
-  "Balıkesir": {
-    "Belediye": [
-      {
-        "description": "ALİ HİKMET PAŞA MEYDANI",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "url": "https://content.tvkur.com/l/cisjnt1aojt2lfp2k5q0/master.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      },
-      {
-        "description": "BANDIRMA SAHİL",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "url": "https://content.tvkur.com/l/ckoflql052aveu40cs4g/master.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      },
-      {
-        "description": "ZAĞNOS PAŞA CAMİ",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "url": "https://content.tvkur.com/l/cimks99aojt0t64593b0/master.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      },
-      {
-        "description": "ZAĞNOS PAŞA CAMİ MEYDANI",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "url": "https://content.tvkur.com/l/cio0ujpaojt0t645bgk0/master.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      },
-      {
-        "description": "ZAĞNOS PAŞA CAMİ MEYDANI 2",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "url": "https://content.tvkur.com/l/ciog451aojt0t645cddg/master.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      },
-      {
-        "description": "AVLU YAŞAM MERKEZİ",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "url": "https://content.tvkur.com/l/cin6vmhaojt0t6459qvg/master.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      },
-      {
-        "description": "TOPLU TAŞIMA MERKEZİ",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "url": "https://content.tvkur.com/l/cin7441aojt0t6459r40/master.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      },
-      {
-        "description": "ÇAMLIK",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "url": "https://content.tvkur.com/l/cin8279aojt0t6459te0/master.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      },
-      {
-        "description": "ATATÜRK PARKI",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "url": "https://content.tvkur.com/l/cin83spaojt0t6459tg0/master.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      },
-      {
-        "description": "ŞEHİTLER PARKI",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "url": "https://content.tvkur.com/l/cin84c1aojt0t6459thg/master.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      },
-      {
-        "description": "ALTINKUM PLAJI",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "url": "https://content.tvkur.com/l/cin6kl9aojt0t6459qmg/master.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      },
-      {
-        "description": "AKÇAY KORDON",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "url": "https://content.tvkur.com/l/cj69rf5052aveu3s8ls0/master.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      },
-      {
-        "description": "AKÇAY KORDON 2",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "url": "https://content.tvkur.com/l/cj69rut052aveu3s8ltg/master.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      },
-      {
-        "description": "GÖNEN MEYDAN",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "url": "https://content.tvkur.com/l/co2k95hpkpqs73d9ufjg/master.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      },
-      {
-        "description": "CUNDA LİMAN",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "url": "https://content.tvkur.com/l/cr1idn9pkpqs73a5re20/master.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      },
-      {
-        "description": "ALTINKUM SKATE PARK",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "url": "https://content.tvkur.com/l/cr1j8fhpkpqs73a5rgpg/master.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      },
-      {
-        "description": "ATATÜRK ANITI",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "url": "https://content.tvkur.com/l/crdaoa1pkpqs73a6dfd0/master.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      },
-      {
-        "description": "BİGADİÇ MEYDAN",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "url": "https://content.tvkur.com/l/crdeq61pkpqs73a6dmn0/master.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      },
-      {
-        "description": "DURSUNBEY SUÇIKTI 1",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "url": "https://content.tvkur.com/l/cs7rf4um756c73a3ie7g/master.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      },
-      {
-        "description": "DURSUNBEY SUÇIKTI 2",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "url": "https://content.tvkur.com/l/csi8noem756c73a4m7p0/master.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      },
-      {
-        "description": "İVRİNDİ MEYDAN 1",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "url": "https://content.tvkur.com/l/csi7rpum756c73a4lkug/master.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      },
-      {
-        "description": "iVRİNDİ MEYDAN 2",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "url": "https://content.tvkur.com/l/csi7r0um756c73a4lk90/master.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      }
-    ]
-  },
   "Trabzon": {
     "Belediye": [
       {
@@ -7254,6 +7074,202 @@
         "latitude": 0.0,
         "longitude": 0.0,
         "url": "https://cdn-ipkamera.yayin.com.tr/marmarisbel/kordon2/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      }
+    ]
+  },
+  "Balıkesir": {
+    "Belediye": [
+      {
+        "description": "ALİ HİKMET PAŞA MEYDANI",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "url": "https://content.tvkur.com/l/cisjnt1aojt2lfp2k5q0/master.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "BANDIRMA SAHİL",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "url": "https://content.tvkur.com/l/ckoflql052aveu40cs4g/master.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "ZAĞNOS PAŞA CAMİ",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "url": "https://content.tvkur.com/l/cimks99aojt0t64593b0/master.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "ZAĞNOS PAŞA CAMİ MEYDANI",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "url": "https://content.tvkur.com/l/cio0ujpaojt0t645bgk0/master.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "ZAĞNOS PAŞA CAMİ MEYDANI 2",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "url": "https://content.tvkur.com/l/ciog451aojt0t645cddg/master.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "AVLU YAŞAM MERKEZİ",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "url": "https://content.tvkur.com/l/cin6vmhaojt0t6459qvg/master.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "TOPLU TAŞIMA MERKEZİ",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "url": "https://content.tvkur.com/l/cin7441aojt0t6459r40/master.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "ÇAMLIK",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "url": "https://content.tvkur.com/l/cin8279aojt0t6459te0/master.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "ATATÜRK PARKI",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "url": "https://content.tvkur.com/l/cin83spaojt0t6459tg0/master.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "ŞEHİTLER PARKI",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "url": "https://content.tvkur.com/l/cin84c1aojt0t6459thg/master.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "ALTINKUM PLAJI",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "url": "https://content.tvkur.com/l/cin6kl9aojt0t6459qmg/master.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "AKÇAY KORDON",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "url": "https://content.tvkur.com/l/cj69rf5052aveu3s8ls0/master.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "AKÇAY KORDON 2",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "url": "https://content.tvkur.com/l/cj69rut052aveu3s8ltg/master.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "ALTINOLUK KORDON",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "url": "https://content.tvkur.com/l/cooanmhpkpqs73c1ui8g/master.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "ALTINOLUK KORDON 2",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "url": "https://content.tvkur.com/l/cj69tk5052aveu3s8m3g/master.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "GÖNEN MEYDAN",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "url": "https://content.tvkur.com/l/co2k95hpkpqs73d9ufjg/master.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "CUNDA LİMAN",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "url": "https://content.tvkur.com/l/cr1idn9pkpqs73a5re20/master.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "ALTINKUM SKATE PARK",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "url": "https://content.tvkur.com/l/cr1j8fhpkpqs73a5rgpg/master.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "ATATÜRK ANITI",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "url": "https://content.tvkur.com/l/crdaoa1pkpqs73a6dfd0/master.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "BİGADİÇ MEYDAN",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "url": "https://content.tvkur.com/l/crdeq61pkpqs73a6dmn0/master.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "DURSUNBEY SUÇIKTI 1",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "url": "https://content.tvkur.com/l/cs7rf4um756c73a3ie7g/master.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "DURSUNBEY SUÇIKTI 2",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "url": "https://content.tvkur.com/l/csi8noem756c73a4m7p0/master.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "İVRİNDİ MEYDAN 1",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "url": "https://content.tvkur.com/l/csi7rpum756c73a4lkug/master.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "iVRİNDİ MEYDAN 2",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "url": "https://content.tvkur.com/l/csi7r0um756c73a4lk90/master.m3u8",
         "encoding": "H.264",
         "format": "M3U8"
       }
