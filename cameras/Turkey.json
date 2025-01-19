@@ -6999,26 +6999,6 @@
       }
     ]
   },
-  "Çaycuma": {
-    "Belediye": [
-      {
-        "description": "Uğur Mumcu Caddesi",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "url": "https://cdn-ipkamera.yayin.com.tr/caycumabeltr/ugurmumcucad/playlist.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      },
-      {
-        "description": "Sarıkaş Yaya Köprüsü",
-        "latitude": 0.0,
-        "longitude": 0.0,
-        "url": "https://cdn-ipkamera.yayin.com.tr/caycumabeltr/sarikas/playlist.m3u8",
-        "encoding": "H.264",
-        "format": "M3U8"
-      }
-    ]
-  },
   "Marmaris": {
     "Belediye": [
       {
@@ -7270,6 +7250,26 @@
         "latitude": 0.0,
         "longitude": 0.0,
         "url": "https://content.tvkur.com/l/csi7r0um756c73a4lk90/master.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      }
+    ]
+  },
+  "Çaycuma": {
+    "Belediye": [
+      {
+        "description": "Uğur Mumcu Caddesi",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "url": "https://cdn-ipkamera.yayin.com.tr/caycumabeltr/ugurmumcucad/playlist.m3u8",
+        "encoding": "H.264",
+        "format": "M3U8"
+      },
+      {
+        "description": "Sarıkaş Yaya Köprüsü",
+        "latitude": 41.41569510000001,
+        "longitude": 32.0852305,
+        "url": "https://cdn-ipkamera.yayin.com.tr/caycumabeltr/sarikas/playlist.m3u8",
         "encoding": "H.264",
         "format": "M3U8"
       }
