@@ -7251,8 +7251,8 @@
       },
       {
         "description": "Tortum Meydan",
-        "latitude": 40.6574791,
-        "longitude": 41.6587412,
+        "latitude": 0.0,
+        "longitude": 0.0,
         "url": "https://cdn-ipkamera.yayin.com.tr/erzurumbeltr/Tortum_Meydan/playlist.m3u8",
         "encoding": "H.264",
         "format": "M3U8"
