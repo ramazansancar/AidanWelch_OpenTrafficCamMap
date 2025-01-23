@@ -60,7 +60,7 @@ class Balikesir:
             if not kamera_detay:
                 continue
 
-            latitude, longitude = await str2latlng(f"{kamera_adi}, Balıkesir")
+            latitude, longitude = await str2latlng(f"{kamera_adi}, Balıkesir, Türkiye")
 
             veri["Belediye"].append({
                 "description" : kamera_adi,
@@ -72,7 +72,6 @@ class Balikesir:
             })
 
         return veri
-        
 
 async def basla():
     belediye      = Balikesir()
@@ -86,7 +85,6 @@ async def basla():
     with open(turkey_json, "r", encoding="utf-8") as dosya:
         mevcut_veriler = load(dosya)
 
-
     if gelen_veriler == mevcut_veriler.get("Balıkesir"):
         konsol.log("[red][!] [Balikesir] Yeni Veri Yok")
         return
@@ -96,6 +94,6 @@ async def basla():
     mevcut_veriler["Balıkesir"] = gelen_veriler
 
     with open(turkey_json, "w", encoding="utf-8") as dosya:
-        dosya.write(dumps(mevcut_veriler, sort_keys=False, ensure_ascii=False, indent=2))
+        dosya.write(dumps(mevcut_veriler, sort_keys=True, ensure_ascii=False, indent=2))
 
     konsol.log(f"[green][Balikesir] [+] {len(gelen_veriler['Belediye'])} Adet Kamera Eklendi")

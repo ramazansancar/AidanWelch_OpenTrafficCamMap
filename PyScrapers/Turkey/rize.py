@@ -18,7 +18,7 @@ class Rize:
 
         veri = {"Belediye": []}
         for kamera_veri in kameralar.get("playlist", []):
-            latitude, longitude = await str2latlng(f"{kamera_veri['title']}, Rize")
+            latitude, longitude = await str2latlng(f"{kamera_veri['title']}, Rize, Türkiye")
 
             veri["Belediye"].append({
                 "description" : kamera_veri["title"],
@@ -44,7 +44,6 @@ async def basla():
     with open(turkey_json, "r", encoding="utf-8") as dosya:
         mevcut_veriler = load(dosya)
 
-
     if gelen_veriler == mevcut_veriler.get("Rize"):
         konsol.log("[red][Rize] [!] Yeni Veri Yok")
         return
@@ -54,6 +53,6 @@ async def basla():
     mevcut_veriler["Rize"] = gelen_veriler
 
     with open(turkey_json, "w", encoding="utf-8") as dosya:
-        dosya.write(dumps(mevcut_veriler, sort_keys=False, ensure_ascii=False, indent=2))
+        dosya.write(dumps(mevcut_veriler, sort_keys=True, ensure_ascii=False, indent=2))
 
     konsol.log(f"[green][Rize] [+] {len(gelen_veriler['Belediye'])} Adet Kamera Eklendi")
