@@ -7,11 +7,11 @@ import re
 async def str2latlng(str:str) -> tuple[float, float]:
     oturum  = AsyncClient(headers={"User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}, timeout=15)
     yer_adi = re.sub(r"\s*\d+$", "", unicode_tr(str).title())
-    istek   = await oturum.get(f"https://nominatim.openstreetmap.org/search?q={yer_adi}&format=json&accept-language=tr")
+    istek   = await oturum.get(f"https://publicapi.ramazansancar.com.tr/google/maps/names/{yer_adi}")
 
     try:
         lat = istek.json()[0]["lat"]
-        lng = istek.json()[0]["lat"]
+        lng = istek.json()[0]["lng"]
         print(yer_adi, lat, lng)
 
         return float(lat) , float(lng)
