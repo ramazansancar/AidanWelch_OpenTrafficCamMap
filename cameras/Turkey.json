@@ -5,24 +5,24 @@
         "description": "Rıhtım",
         "encoding": "H.264",
         "format": "M3U8",
-        "latitude": 36.5418232,
-        "longitude": 36.5418232,
+        "latitude": 0.0,
+        "longitude": 0.0,
         "url": "https://cdn-ipkamera.yayin.com.tr/alanyabeltr/rihtim/playlist.m3u8"
       },
       {
         "description": "Tosmur D-400",
         "encoding": "H.264",
         "format": "M3U8",
-        "latitude": 36.5278975,
-        "longitude": 36.5278975,
+        "latitude": 0.0,
+        "longitude": 0.0,
         "url": "https://cdn-ipkamera.yayin.com.tr/alanyabeltr/tosmurd400/playlist.m3u8"
       },
       {
         "description": "Oba Mah.",
         "encoding": "H.264",
         "format": "M3U8",
-        "latitude": 36.5427806,
-        "longitude": 36.5427806,
+        "latitude": 0.0,
+        "longitude": 0.0,
         "url": "https://cdn-ipkamera.yayin.com.tr/alanyabeltr/obamah/playlist.m3u8"
       },
       {
@@ -37,24 +37,24 @@
         "description": "Damlatas",
         "encoding": "H.264",
         "format": "M3U8",
-        "latitude": 36.5418683,
-        "longitude": 36.5418683,
+        "latitude": 0.0,
+        "longitude": 0.0,
         "url": "https://cdn-ipkamera.yayin.com.tr/alanyabeltr/damlatas/playlist.m3u8"
       },
       {
         "description": "Mahmutlar",
         "encoding": "H.264",
         "format": "M3U8",
-        "latitude": 36.4902361,
-        "longitude": 36.4902361,
+        "latitude": 0.0,
+        "longitude": 0.0,
         "url": "https://cdn-ipkamera.yayin.com.tr/alanyabeltr/mahmutlar/playlist.m3u8"
       },
       {
         "description": "dinek",
         "encoding": "H.264",
         "format": "M3U8",
-        "latitude": 36.5574081,
-        "longitude": 36.5574081,
+        "latitude": 0.0,
+        "longitude": 0.0,
         "url": "https://cdn-ipkamera.yayin.com.tr/alanyabeltr/dinek/playlist.m3u8"
       },
       {
@@ -69,24 +69,24 @@
         "description": "cleopatra",
         "encoding": "H.264",
         "format": "M3U8",
-        "latitude": 36.5441277,
-        "longitude": 36.5441277,
+        "latitude": 0.0,
+        "longitude": 0.0,
         "url": "https://cdn-ipkamera.yayin.com.tr/alanyabeltr/cleopatra/playlist.m3u8"
       },
       {
         "description": "iskele",
         "encoding": "H.264",
         "format": "M3U8",
-        "latitude": 36.58621805,
-        "longitude": 36.58621805,
+        "latitude": 0.0,
+        "longitude": 0.0,
         "url": "https://cdn-ipkamera.yayin.com.tr/alanyabeltr/iskele/playlist.m3u8"
       },
       {
         "description": "alantur",
         "encoding": "H.264",
         "format": "M3U8",
-        "latitude": 36.520374700000005,
-        "longitude": 36.520374700000005,
+        "latitude": 0.0,
+        "longitude": 0.0,
         "url": "https://cdn-ipkamera.yayin.com.tr/alanyabeltr/alantur/playlist.m3u8"
       },
       {
@@ -121,16 +121,16 @@
         "description": "BANDIRMA SAHİL",
         "encoding": "H.264",
         "format": "M3U8",
-        "latitude": 40.35895715,
-        "longitude": 40.35895715,
+        "latitude": 0.0,
+        "longitude": 0.0,
         "url": "https://content.tvkur.com/l/ckoflql052aveu40cs4g/master.m3u8"
       },
       {
         "description": "ZAĞNOS PAŞA CAMİ",
         "encoding": "H.264",
         "format": "M3U8",
-        "latitude": 39.6487607,
-        "longitude": 39.6487607,
+        "latitude": 0.0,
+        "longitude": 0.0,
         "url": "https://content.tvkur.com/l/cimks99aojt0t64593b0/master.m3u8"
       },
       {
@@ -161,40 +161,40 @@
         "description": "TOPLU TAŞIMA MERKEZİ",
         "encoding": "H.264",
         "format": "M3U8",
-        "latitude": 39.6485521,
-        "longitude": 39.6485521,
+        "latitude": 0.0,
+        "longitude": 0.0,
         "url": "https://content.tvkur.com/l/cin7441aojt0t6459r40/master.m3u8"
       },
       {
         "description": "ÇAMLIK",
         "encoding": "H.264",
         "format": "M3U8",
-        "latitude": 39.613907,
-        "longitude": 39.613907,
+        "latitude": 0.0,
+        "longitude": 0.0,
         "url": "https://content.tvkur.com/l/cin8279aojt0t6459te0/master.m3u8"
       },
       {
         "description": "ATATÜRK PARKI",
         "encoding": "H.264",
         "format": "M3U8",
-        "latitude": 39.64315325,
-        "longitude": 39.64315325,
+        "latitude": 0.0,
+        "longitude": 0.0,
         "url": "https://content.tvkur.com/l/cin83spaojt0t6459tg0/master.m3u8"
       },
       {
         "description": "ŞEHİTLER PARKI",
         "encoding": "H.264",
         "format": "M3U8",
-        "latitude": 39.65970835,
-        "longitude": 39.65970835,
+        "latitude": 0.0,
+        "longitude": 0.0,
         "url": "https://content.tvkur.com/l/cin84c1aojt0t6459thg/master.m3u8"
       },
       {
         "description": "ALTINKUM PLAJI",
         "encoding": "H.264",
         "format": "M3U8",
-        "latitude": 40.48805915,
-        "longitude": 40.48805915,
+        "latitude": 0.0,
+        "longitude": 0.0,
         "url": "https://content.tvkur.com/l/cin6kl9aojt0t6459qmg/master.m3u8"
       },
       {
@@ -257,8 +257,8 @@
         "description": "ATATÜRK ANITI",
         "encoding": "H.264",
         "format": "M3U8",
-        "latitude": 39.6492203,
-        "longitude": 39.6492203,
+        "latitude": 0.0,
+        "longitude": 0.0,
         "url": "https://content.tvkur.com/l/crdaoa1pkpqs73a6dfd0/master.m3u8"
       },
       {
@@ -353,8 +353,8 @@
         "description": "Giresun Kalesi",
         "encoding": "H.264",
         "format": "M3U8",
-        "latitude": 40.9214767,
-        "longitude": 40.9214767,
+        "latitude": 0.0,
+        "longitude": 0.0,
         "url": "https://cdn-ipkamera.yayin.com.tr/giresunbel/kale/playlist.m3u8"
       },
       {
@@ -369,8 +369,8 @@
         "description": "Balık pazarı",
         "encoding": "H.264",
         "format": "M3U8",
-        "latitude": 41.0082054,
-        "longitude": 41.0082054,
+        "latitude": 0.0,
+        "longitude": 0.0,
         "url": "https://cdn-ipkamera.yayin.com.tr/giresunbel/balikcibarinak/playlist.m3u8"
       }
     ]
@@ -381,8 +381,8 @@
         "description": "Meydan",
         "encoding": "H.264",
         "format": "M3U8",
-        "latitude": 36.8433267,
-        "longitude": 36.8433267,
+        "latitude": 0.0,
+        "longitude": 0.0,
         "url": "https://cdn-ipkamera.yayin.com.tr/marmarisbel/meydan/playlist.m3u8"
       },
       {
@@ -405,8 +405,8 @@
         "description": "İçmeler",
         "encoding": "H.264",
         "format": "M3U8",
-        "latitude": 36.8013283,
-        "longitude": 36.8013283,
+        "latitude": 0.0,
+        "longitude": 0.0,
         "url": "https://cdn-ipkamera.yayin.com.tr/marmarisbel/icmeler/playlist.m3u8"
       },
       {
@@ -421,24 +421,24 @@
         "description": "Bozburun",
         "encoding": "H.264",
         "format": "M3U8",
-        "latitude": 36.6927783,
-        "longitude": 36.6927783,
+        "latitude": 0.0,
+        "longitude": 0.0,
         "url": "https://cdn-ipkamera.yayin.com.tr/marmarisbel/bozburun/playlist.m3u8"
       },
       {
         "description": "Kordon Caddesi 1",
         "encoding": "H.264",
         "format": "M3U8",
-        "latitude": 36.85237928142112,
-        "longitude": 36.85237928142112,
+        "latitude": 0.0,
+        "longitude": 0.0,
         "url": "https://cdn-ipkamera.yayin.com.tr/marmarisbel/kordon1/playlist.m3u8"
       },
       {
         "description": "Kordon Caddesi 2",
         "encoding": "H.264",
         "format": "M3U8",
-        "latitude": 36.8524445,
-        "longitude": 36.8524445,
+        "latitude": 0.0,
+        "longitude": 0.0,
         "url": "https://cdn-ipkamera.yayin.com.tr/marmarisbel/kordon2/playlist.m3u8"
       }
     ]
@@ -457,40 +457,40 @@
         "description": "Devlet Hastanesi",
         "encoding": "H.264",
         "format": "M3U8",
-        "latitude": 41.0282948,
-        "longitude": 41.0282948,
+        "latitude": 0.0,
+        "longitude": 0.0,
         "url": "https://cdn-ipkamera.yayin.com.tr/rizebel/devlet_hastanesi/playlist.m3u8"
       },
       {
         "description": "Kale",
         "encoding": "H.264",
         "format": "M3U8",
-        "latitude": 40.81667,
-        "longitude": 40.81667,
+        "latitude": 0.0,
+        "longitude": 0.0,
         "url": "https://cdn-ipkamera.yayin.com.tr/rizebel/kale/playlist.m3u8"
       },
       {
         "description": "Menderes Bulvarı",
         "encoding": "H.264",
         "format": "M3U8",
-        "latitude": 41.03350698234801,
-        "longitude": 41.03350698234801,
+        "latitude": 0.0,
+        "longitude": 0.0,
         "url": "https://cdn-ipkamera.yayin.com.tr/rizebel/menderes_bulvari/playlist.m3u8"
       },
       {
         "description": "Meydan",
         "encoding": "H.264",
         "format": "M3U8",
-        "latitude": 40.8914842,
-        "longitude": 40.8914842,
+        "latitude": 0.0,
+        "longitude": 0.0,
         "url": "https://cdn-ipkamera.yayin.com.tr/rizebel/meydan/playlist.m3u8"
       },
       {
         "description": "Sahil Cami",
         "encoding": "H.264",
         "format": "M3U8",
-        "latitude": 41.02462155,
-        "longitude": 41.02462155,
+        "latitude": 0.0,
+        "longitude": 0.0,
         "url": "https://cdn-ipkamera.yayin.com.tr/rizebel/sahil_cami/playlist.m3u8"
       },
       {
@@ -505,16 +505,16 @@
         "description": "Ziraat",
         "encoding": "H.264",
         "format": "M3U8",
-        "latitude": 41.020987399999996,
-        "longitude": 41.020987399999996,
+        "latitude": 0.0,
+        "longitude": 0.0,
         "url": "https://cdn-ipkamera.yayin.com.tr/rizebel/ziraat/playlist.m3u8"
       },
       {
         "description": "Dağbaşı",
         "encoding": "H.264",
         "format": "M3U8",
-        "latitude": 40.6096614,
-        "longitude": 40.6096614,
+        "latitude": 0.0,
+        "longitude": 0.0,
         "url": "https://cdn-ipkamera.yayin.com.tr/rizebel/dagbasi/playlist.m3u8"
       }
     ]
@@ -537,8 +537,8 @@
         "description": "Değirmendere",
         "encoding": "H.264",
         "format": "M3U8",
-        "latitude": 40.9981086,
-        "longitude": 40.9981086,
+        "latitude": 0.0,
+        "longitude": 0.0,
         "url": "https://cdn-ipkamera.yayin.com.tr/trabzonbeltr/degirmendere/playlist.m3u8"
       },
       {
@@ -561,48 +561,48 @@
         "description": "Uzungöl",
         "encoding": "H.264",
         "format": "M3U8",
-        "latitude": 40.619101900000004,
-        "longitude": 40.619101900000004,
+        "latitude": 0.0,
+        "longitude": 0.0,
         "url": "https://cdn-ipkamera.yayin.com.tr/trabzonbeltr/uzungol/playlist.m3u8"
       },
       {
         "description": "Atatürk Köşkü",
         "encoding": "H.264",
         "format": "M3U8",
-        "latitude": 40.97978475,
-        "longitude": 40.97978475,
+        "latitude": 0.0,
+        "longitude": 0.0,
         "url": "https://cdn-ipkamera.yayin.com.tr/trabzonbeltr/AtaturkKosku/playlist.m3u8"
       },
       {
         "description": "Akyazı",
         "encoding": "H.264",
         "format": "M3U8",
-        "latitude": 40.9865926,
-        "longitude": 40.9865926,
+        "latitude": 0.0,
+        "longitude": 0.0,
         "url": "https://cdn-ipkamera.yayin.com.tr/trabzonbeltr/akyazi/playlist.m3u8"
       },
       {
         "description": "Oyuncakistan",
         "encoding": "H.264",
         "format": "M3U8",
-        "latitude": 41.003600649999996,
-        "longitude": 41.003600649999996,
+        "latitude": 0.0,
+        "longitude": 0.0,
         "url": "https://cdn-ipkamera.yayin.com.tr/trabzonbeltr/oyuncakistan/playlist.m3u8"
       },
       {
         "description": "Kanuni Evi",
         "encoding": "H.264",
         "format": "M3U8",
-        "latitude": 41.004823,
-        "longitude": 41.004823,
+        "latitude": 0.0,
+        "longitude": 0.0,
         "url": "https://cdn-ipkamera.yayin.com.tr/trabzonbeltr/kanunievi/playlist.m3u8"
       },
       {
         "description": "Ayasofya",
         "encoding": "H.264",
         "format": "M3U8",
-        "latitude": 41.002194,
-        "longitude": 41.002194,
+        "latitude": 0.0,
+        "longitude": 0.0,
         "url": "https://cdn-ipkamera.yayin.com.tr/trabzonbeltr/ayasofya/playlist.m3u8"
       }
     ]
@@ -613,8 +613,8 @@
         "description": "Uğur Mumcu Caddesi",
         "encoding": "H.264",
         "format": "M3U8",
-        "latitude": 41.55916351710453,
-        "longitude": 41.55916351710453,
+        "latitude": 0.0,
+        "longitude": 0.0,
         "url": "https://cdn-ipkamera.yayin.com.tr/caycumabeltr/ugurmumcucad/playlist.m3u8"
       },
       {
