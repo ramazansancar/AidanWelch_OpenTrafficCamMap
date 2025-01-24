@@ -10,8 +10,8 @@ async def str2latlng(str:str) -> tuple[float, float]:
     istek   = await oturum.get(f"https://publicapi.ramazansancar.com.tr/google/maps/names/{yer_adi}")
 
     try:
-        lat = istek.json()[0]["lat"]
-        lng = istek.json()[0]["lng"]
+        lat = istek.json()["data"][0]["geometry"]["location"]["lat"]
+        lng = istek.json()["data"][0]["geometry"]["location"]["lng"]
         print(yer_adi, lat, lng)
 
         return float(lat) , float(lng)
