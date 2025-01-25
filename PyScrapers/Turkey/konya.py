@@ -7,9 +7,10 @@ from re        import search
 from json      import load, dumps
 from helpers   import str2latlng
 
-class Balikesir:
+class Konya:
     def __init__(self):
-        self.belediye_url = "https://sehirkamera.balikesir.bel.tr"
+        self.base_url = "https://www.konyabuyuksehir.tv"
+        self.belediye_url = "https://www.konyabuyuksehir.tv/canliyayin_kameralar_tum/"
         self.oturum       = AsyncClient(timeout=Timeout(10, connect=10, read=5*60, write=10))
 
     async def kameralar(self) -> dict[str, str]:
@@ -17,31 +18,16 @@ class Balikesir:
         secici = Selector(istek.text)
 
         return {
-            kamera.css("div.kesfet_kutu_baslik::text").get() : self.belediye_url + kamera.css("a::attr(href)").get()
-                for kamera in secici.css("div#kesfet_kutu_1")
+            kamera.css("div.video-content h5::text").get() : self.base_url + kamera.css("a::attr(href)").get()
+                for kamera in secici.css("div.video-item-card")
         }
 
     async def kamera_detay(self, kamera_url:str) -> dict | None:
         istek  = await self.oturum.get(kamera_url)
         secici = Selector(istek.text)
 
-        # harita_link      = secici.css("a[href*='maps.google']::attr(href)").get()
-        # enlem_boylam     = search(r"loc:@(.*?)&z", harita_link).group(1)
-        # lat_str, lon_str = enlem_boylam.split(",")
-        # if not lat_str or not lon_str:
-        #     return None
-
-        # latitude_parts = lat_str.split(".")
-        # latitude = float(f"{latitude_parts[0]}." + "".join(latitude_parts[1:]))
-
-        # longitude_parts = lon_str.split(".")
-        # longitude = float(f"{longitude_parts[0]}." + "".join(longitude_parts[1:]))
-
         return {
-            "ilce"        : secici.css("div.card-body span:nth-of-type(2)::text").get(),
-            # "harita_link" : harita_link,
-            # "latitude"    : latitude,
-            # "longitude"   : longitude,
+            "ilce"        : secici.css("span.pl-10::text").get(),
             "hls"         : await self.iframe2hls(secici.css("iframe::attr(src)").get())
         }
 
@@ -60,7 +46,7 @@ class Balikesir:
             if not kamera_detay:
                 continue
 
-            latitude, longitude = await str2latlng(f"{search(r"(.+?)\s*\d*$", kamera_adi).group(1)}, Balıkesir, Türkiye")
+            latitude, longitude = await str2latlng(f"{search(r"(.+?)\s*\d*$", kamera_adi).group(1)}, Konya, Türkiye")
 
             veri["Belediye"].append({
                 "description" : kamera_adi,
@@ -74,11 +60,11 @@ class Balikesir:
         return veri
 
 async def basla():
-    belediye      = Balikesir()
+    belediye      = Konya()
     gelen_veriler = await belediye.getir()
 
     konsol.print(gelen_veriler)
-    konsol.log(f"[yellow][Balikesir] [+] {len(gelen_veriler['Belediye'])} Adet Kamera Bulundu")
+    konsol.log(f"[yellow][Konya] [+] {len(gelen_veriler['Belediye'])} Adet Kamera Bulundu")
 
     turkey_json = "../cameras/Turkey.json"
 
@@ -86,14 +72,14 @@ async def basla():
         mevcut_veriler = load(dosya)
 
     if gelen_veriler == mevcut_veriler.get("Balıkesir"):
-        konsol.log("[red][!] [Balikesir] Yeni Veri Yok")
+        konsol.log("[red][!] [Konya] Yeni Veri Yok")
         return
 
-    if mevcut_veriler.get("Balıkesir"):
-        del mevcut_veriler["Balıkesir"]
-    mevcut_veriler["Balıkesir"] = gelen_veriler
+    if mevcut_veriler.get("Konya"):
+        del mevcut_veriler["Konya"]
+    mevcut_veriler["Konya"] = gelen_veriler
 
     with open(turkey_json, "w", encoding="utf-8") as dosya:
         dosya.write(dumps(mevcut_veriler, sort_keys=True, ensure_ascii=False, indent=2))
 
-    konsol.log(f"[green][Balikesir] [+] {len(gelen_veriler['Belediye'])} Adet Kamera Eklendi")
+    konsol.log(f"[green][Konya] [+] {len(gelen_veriler['Belediye'])} Adet Kamera Eklendi")

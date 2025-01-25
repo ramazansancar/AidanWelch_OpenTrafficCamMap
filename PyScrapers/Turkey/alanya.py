@@ -2,6 +2,7 @@
 
 from Kekik.cli import konsol
 from httpx     import AsyncClient, Timeout
+from re        import search
 from json      import load, dumps
 from helpers   import str2latlng
 
@@ -18,7 +19,8 @@ class Alanya:
 
         veri = {"Belediye": []}
         for kamera_veri in kameralar.get("playlist", []):
-            latitude, longitude = await str2latlng(f"{kamera_veri['title']}, Alanya, Antalya, Türkiye")
+            
+            latitude, longitude = await str2latlng(f"{search(r"(.+?)\s*\d*$", kamera_veri['title']).group(1)}, Alanya, Antalya, Türkiye")
 
             veri["Belediye"].append({
                 "description" : kamera_veri["title"],
