@@ -467,6 +467,130 @@
       }
     ]
   },
+  "Kahramanmaras": {
+    "Belediye": [
+      {
+        "description": "Boğaziçi Kavşağı",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.5819144,
+        "longitude": 36.8670632,
+        "url": "https://camstream.kahramanmaras.bel.tr/live/bogazici.stream/playlist.m3u8"
+      },
+      {
+        "description": "Malik Ejder",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.551149,
+        "longitude": 36.9057288,
+        "url": "https://camstream.kahramanmaras.bel.tr/live/malik-ejder.stream/playlist.m3u8"
+      },
+      {
+        "description": "Şelale Kavşağı",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.5769093,
+        "longitude": 36.9310405,
+        "url": "https://camstream.kahramanmaras.bel.tr/live/selale.stream/playlist.m3u8"
+      },
+      {
+        "description": "Ulucami",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.5844729,
+        "longitude": 36.9269161,
+        "url": "https://camstream.kahramanmaras.bel.tr/live/ulucami.stream/playlist.m3u8"
+      },
+      {
+        "description": "TAVŞANTEPE KAVŞAĞI",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.597767,
+        "longitude": 36.898244,
+        "url": "https://camstream.kahramanmaras.bel.tr/live/tavsantepe.stream/playlist.m3u8"
+      },
+      {
+        "description": "EXPO",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.6046241,
+        "longitude": 36.7837829,
+        "url": "https://camstream.kahramanmaras.bel.tr/live/expo.stream/playlist.m3u8"
+      },
+      {
+        "description": "AFŞİN",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 38.243802,
+        "longitude": 36.914722,
+        "url": "https://camstream.kahramanmaras.bel.tr/live/afsin.stream/playlist.m3u8"
+      },
+      {
+        "description": "ANDIRIN",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.57571799999999,
+        "longitude": 36.349767,
+        "url": "https://camstream.kahramanmaras.bel.tr/live/andirin.stream/playlist.m3u8"
+      },
+      {
+        "description": "ÇAĞLAYANCERİT",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.750164,
+        "longitude": 37.293208,
+        "url": "https://camstream.kahramanmaras.bel.tr/live/caglayan-cerit.stream/playlist.m3u8"
+      },
+      {
+        "description": "ELBİSTAN BELEDİYE",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 38.206537,
+        "longitude": 37.193076,
+        "url": "https://camstream.kahramanmaras.bel.tr/live/elbistan-belediye.stream/playlist.m3u8"
+      },
+      {
+        "description": "EKİNÖZÜ",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 38.059322,
+        "longitude": 37.188692,
+        "url": "https://camstream.kahramanmaras.bel.tr/live/ekinozu.stream/playlist.m3u8"
+      },
+      {
+        "description": "GÖKSUN MEYDAN",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 38.1271756,
+        "longitude": 36.5229641,
+        "url": "https://camstream.kahramanmaras.bel.tr/live/goksun.stream/playlist.m3u8"
+      },
+      {
+        "description": "NURHAK",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.9656329,
+        "longitude": 37.44744499999999,
+        "url": "https://camstream.kahramanmaras.bel.tr/live/nurhak.stream/playlist.m3u8"
+      },
+      {
+        "description": "PAZARCIK MEYDAN",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.489462,
+        "longitude": 37.293574,
+        "url": "https://camstream.kahramanmaras.bel.tr/live/pazarcik.stream/playlist.m3u8"
+      },
+      {
+        "description": "TÜRKOĞLU",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.384751,
+        "longitude": 36.846238,
+        "url": "https://camstream.kahramanmaras.bel.tr/live/turkoglu.stream/playlist.m3u8"
+      }
+    ]
+  },
   "Konya": {
     "Belediye": [
       {

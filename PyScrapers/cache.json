@@ -3,6 +3,10 @@
     37.7732796,
     29.0868879
   ],
+  "Afşin, Kahramanmaraş, Türkiye": [
+    38.243802,
+    36.914722
+  ],
   "Akyazı, Trabzon, Türkiye": [
     40.992178,
     39.6331289
@@ -38,6 +42,10 @@
   "Altınoluk Kordon, Balıkesir, Türkiye": [
     39.566041,
     26.747277
+  ],
+  "Andırın, Kahramanmaraş, Türkiye": [
+    37.57571799999999,
+    36.349767
   ],
   "Araştırma Yolu, Rize, Türkiye": [
     41.025511,
@@ -103,6 +111,10 @@
     40.9965616,
     39.7327862
   ],
+  "Boğaziçi Kavşağı, Kahramanmaraş, Türkiye": [
+    37.5819144,
+    36.8670632
+  ],
   "Cadde Kamera, Giresun, Türkiye": [
     40.9123759,
     38.398668
@@ -143,9 +155,21 @@
     39.5975694,
     28.625831
   ],
+  "Ekinözü, Kahramanmaraş, Türkiye": [
+    38.059322,
+    37.188692
+  ],
+  "Elbistan Belediye, Kahramanmaraş, Türkiye": [
+    38.206537,
+    37.193076
+  ],
   "Eski Garaj, Konya, Türkiye": [
     37.8650786,
     32.5031778
+  ],
+  "Expo, Kahramanmaraş, Türkiye": [
+    37.6046241,
+    36.7837829
   ],
   "Galericiler Kavşağı, Konya, Türkiye": [
     37.9031455,
@@ -154,6 +178,10 @@
   "Giresun Kalesi, Giresun, Türkiye": [
     40.92162570000001,
     38.389149
+  ],
+  "Göksun Meydan, Kahramanmaraş, Türkiye": [
+    38.1271756,
+    36.5229641
   ],
   "Gönen Meydan, Balıkesir, Türkiye": [
     40.108504,
@@ -215,6 +243,10 @@
     36.4816517,
     32.1084376
   ],
+  "Malik Ejder, Kahramanmaraş, Türkiye": [
+    37.551149,
+    36.9057288
+  ],
   "Menderes Bulvarı, Rize, Türkiye": [
     41.0258043,
     40.5300346
@@ -263,6 +295,10 @@
     36.5437269,
     32.001958
   ],
+  "Nurhak, Kahramanmaraş, Türkiye": [
+    37.9656329,
+    37.44744499999999
+  ],
   "Oba Mah., Alanya, Antalya, Türkiye": [
     36.55003,
     32.059148
@@ -274,6 +310,10 @@
   "Oyuncakistan, Trabzon, Türkiye": [
     41.0036429,
     39.695121
+  ],
+  "Pazarcık Meydan, Kahramanmaraş, Türkiye": [
+    37.489462,
+    37.293574
   ],
   "Rıhtım, Alanya, Antalya, Türkiye": [
     36.5366001,
@@ -306,6 +346,10 @@
   "Sille Kavşağı, Konya, Türkiye": [
     37.89245,
     32.4770292
+  ],
+  "Tavşantepe Kavşağı, Kahramanmaraş, Türkiye": [
+    37.597767,
+    36.898244
   ],
   "Teleferik, Denizli, Türkiye": [
     37.7215076,
@@ -346,6 +390,14 @@
   "Türk Yıldızları Parkı, Konya, Türkiye": [
     37.9574915,
     32.5591157
+  ],
+  "Türkoğlu, Kahramanmaraş, Türkiye": [
+    37.384751,
+    36.846238
+  ],
+  "Ulucami, Kahramanmaraş, Türkiye": [
+    37.5844729,
+    36.9269161
   ],
   "Uzun Yalı, Marmaris, Muğla, Türkiye": [
     36.8516581,
@@ -403,6 +455,10 @@
     39.646468,
     27.8737268
   ],
+  "Çağlayancerit, Kahramanmaraş, Türkiye": [
+    37.750164,
+    37.293208
+  ],
   "Üçgen Meydanı, Denizli, Türkiye": [
     37.7842298,
     29.08408549999999
@@ -442,6 +498,10 @@
   "Şehitler Parkı, Balıkesir, Türkiye": [
     39.6595362,
     27.8948738
+  ],
+  "Şelale Kavşağı, Kahramanmaraş, Türkiye": [
+    37.5769093,
+    36.9310405
   ],
   "Şerafettin Camii, Konya, Türkiye": [
     37.8733606,
