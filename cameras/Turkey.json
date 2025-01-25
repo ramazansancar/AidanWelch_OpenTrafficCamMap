@@ -1,6 +1,6 @@
 {
-  "Alanya": {
-    "Belediye": [
+  "Antalya": {
+    "Alanya": [
       {
         "description": "Rıhtım",
         "encoding": "H.264",
@@ -303,6 +303,98 @@
       }
     ]
   },
+  "Denizli": {
+    "Belediye": [
+      {
+        "description": "15 Temmuz Delikliçınar Şehitler Meydanı-1",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.7732796,
+        "longitude": 29.0868879,
+        "url": "http://212.175.207.19:1935/canliyayin/dbbBelediye2.stream/playlist.m3u8"
+      },
+      {
+        "description": "15 Temmuz Delikliçınar Şehitler Meydanı-2",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.7732796,
+        "longitude": 29.0868879,
+        "url": "http://212.175.207.19:1935/canliyayin/dbbBelediye1.stream/playlist.m3u8"
+      },
+      {
+        "description": "Teleferik",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.7215076,
+        "longitude": 29.1398636,
+        "url": "http://212.175.207.19:1935/canliyayin/dbbTeleferik.stream/playlist.m3u8"
+      },
+      {
+        "description": "Bağbaşı Yaylası",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.6968506,
+        "longitude": 29.1435095,
+        "url": "http://212.175.207.19:1935/canliyayin/dbbYayla.stream/playlist.m3u8"
+      },
+      {
+        "description": "Laodikeia",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.8367423,
+        "longitude": 29.1087807,
+        "url": "http://212.175.207.19:1935/canliyayin/dbbLaodikya.stream/playlist.m3u8"
+      },
+      {
+        "description": "Çamlık Parkı",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.7420844,
+        "longitude": 29.0893722,
+        "url": "http://212.175.207.19:1935/canliyayin/dbbCamlik.stream/playlist.m3u8"
+      },
+      {
+        "description": "İncilipınar Parkı",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.7608167,
+        "longitude": 29.0978362,
+        "url": "http://212.175.207.19:1935/canliyayin/dbbIncilipinar.stream/playlist.m3u8"
+      },
+      {
+        "description": "Üçgen Meydanı",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.7842298,
+        "longitude": 29.08408549999999,
+        "url": "http://212.175.207.19:1935/canliyayin/dbbOtogar.stream/playlist.m3u8"
+      },
+      {
+        "description": "Denizli Kayak Merkezi - M1 Alt İstasyon",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.3152133,
+        "longitude": 29.1895167,
+        "url": "http://212.175.207.19:1935/canliyayin/dbbBozdag.stream/playlist.m3u8"
+      },
+      {
+        "description": "Denizli Kayak Merkezi - Sosyal Tesisler",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.3152133,
+        "longitude": 29.1895167,
+        "url": "http://212.175.207.19:1935/canliyayin/dbbBozdag2.stream/playlist.m3u8"
+      },
+      {
+        "description": "Denizli Kayak Merkezi - M2 Üst İstasyon",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.3152133,
+        "longitude": 29.1895167,
+        "url": "http://212.175.207.19:1935/canliyayin/dbbBozdagUst.stream/playlist.m3u8"
+      }
+    ]
+  },
   "Erzurum": {
     "Belediye": [
       {
@@ -421,8 +513,8 @@
         "description": "MİLLET BAHÇESİ",
         "encoding": "H.264",
         "format": "M3U8",
-        "latitude": 37.867033,
-        "longitude": 32.4827,
+        "latitude": 37.8666122,
+        "longitude": 32.4835756,
         "url": "https://content.tvkur.com/l/cei99ovmm25sdv36p5c0/master.m3u8"
       },
       {
@@ -613,8 +705,8 @@
         "description": "MOBİLYACILAR KAVŞAĞI",
         "encoding": "H.264",
         "format": "M3U8",
-        "latitude": 37.91604359999999,
-        "longitude": 32.5106964,
+        "latitude": 37.9165083,
+        "longitude": 32.507375,
         "url": "https://content.tvkur.com/l/c77i96b84cnrb6mljia0/master.m3u8"
       },
       {
@@ -699,8 +791,8 @@
       }
     ]
   },
-  "Marmaris": {
-    "Belediye": [
+  "Mugla": {
+    "Marmaris": [
       {
         "description": "Meydan",
         "encoding": "H.264",
@@ -931,8 +1023,8 @@
       }
     ]
   },
-  "Çaycuma": {
-    "Belediye": [
+  "Zonguldak": {
+    "Caycuma": [
       {
         "description": "Uğur Mumcu Caddesi",
         "encoding": "H.264",

@@ -16,11 +16,11 @@ class Caycuma:
     async def getir(self) -> dict[list[dict]]:
         kameralar = await self.kameralar()
 
-        veri = {"Belediye": []}
+        veri = {"Caycuma": []}
         for kamera_veri in kameralar.get("playlist", []):
             latitude, longitude = await str2latlng(f"{kamera_veri['title']}, Çaycuma, Zonguldak, Türkiye")
 
-            veri["Belediye"].append({
+            veri["Caycuma"].append({
                 "description" : kamera_veri["title"],
                 "latitude"    : latitude,
                 "longitude"   : longitude,
@@ -36,22 +36,22 @@ async def basla():
     gelen_veriler = await belediye.getir()
 
     konsol.print(gelen_veriler)
-    konsol.log(f"[yellow][Caycuma] [+] {len(gelen_veriler['Belediye'])} Adet Kamera Bulundu")
+    konsol.log(f"[yellow][Zonguldak][Caycuma] [+] {len(gelen_veriler['Caycuma'])} Adet Kamera Bulundu")
 
     turkey_json = "../cameras/Turkey.json"
 
     with open(turkey_json, "r", encoding="utf-8") as dosya:
         mevcut_veriler = load(dosya)
 
-    if gelen_veriler == mevcut_veriler.get("Çaycuma"):
-        konsol.log("[red][Caycuma] [!] Yeni Veri Yok")
+    if gelen_veriler == mevcut_veriler.get("Zonguldak"):
+        konsol.log("[red][Zonguldak][Caycuma] [!] Yeni Veri Yok")
         return
 
-    if mevcut_veriler.get("Çaycuma"):
-        del mevcut_veriler["Çaycuma"]
-    mevcut_veriler["Çaycuma"] = gelen_veriler
+    if mevcut_veriler.get("Zonguldak"):
+        del mevcut_veriler["Zonguldak"]
+    mevcut_veriler["Zonguldak"] = gelen_veriler
 
     with open(turkey_json, "w", encoding="utf-8") as dosya:
         dosya.write(dumps(mevcut_veriler, sort_keys=True, ensure_ascii=False, indent=2))
 
-    konsol.log(f"[green][Caycuma] [+] {len(gelen_veriler['Belediye'])} Adet Kamera Eklendi")
+    konsol.log(f"[green][Zonguldak][Caycuma] [+] {len(gelen_veriler['Caycuma'])} Adet Kamera Eklendi")

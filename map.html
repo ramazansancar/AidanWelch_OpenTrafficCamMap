@@ -18,6 +18,7 @@
         <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
         <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
         <script src="https://leafletjs.com/examples/choropleth/us-states.js"></script>
+        <script src="assets/glogalStates.js"></script>
         <script src="https://cdn.jsdelivr.net/npm/hls.js@latest/dist/hls.min.js"></script>
         <script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"></script>
         <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.Default.css">
@@ -86,12 +87,12 @@
 
             var cameras = {};
 
-            fetch('./cameras/USA.json').then((response) => {return response.json();}).then((data) => {
+            fetch('./cameras/USA.json?nocache=' + new Date().getTime()).then((response) => {return response.json();}).then((data) => {
                 cameras = {...cameras,...data};
                 DrawClusterMap();
             });
 
-            fetch('./cameras/Turkey.json').then((response) => {return response.json();}).then((data) => {
+            fetch('./cameras/Turkey.json?nocache=' + new Date().getTime()).then((response) => {return response.json();}).then((data) => {
                 cameras = {...cameras,...data};
                 DrawClusterMap();
             });
@@ -216,6 +217,7 @@
 
                 function resetHighlight(e) {
                     geojson.resetStyle(e.target);
+                    geojsonGlobal.resetStyle(e.target);
                 }
 
                 var camera_layer;
@@ -262,6 +264,7 @@
                 }
                 
                 var geojson = L.geoJson(statesData, {style: style, onEachFeature: listener}).addTo(map);
+                var geojsonGlobal = L.geoJson(globalStates, {style: style, onEachFeature: listener}).addTo(map);
             }
 
             map.on('popupopen', (e) => {

@@ -2,12 +2,13 @@
 
 from Kekik.cli import cikis_yap, hata_yakala
 from asyncio   import run
-from Turkey    import alanya, balikesir, caycuma, erzurum, giresun, konya, marmaris, rize, trabzon
+from Turkey    import alanya, balikesir, caycuma, denizli, erzurum, giresun, konya, marmaris, rize, trabzon
 
 async def basla():
     await alanya.basla()
     await balikesir.basla()
     await caycuma.basla()
+    await denizli.basla()
     await erzurum.basla()
     await giresun.basla()
     await konya.basla()
