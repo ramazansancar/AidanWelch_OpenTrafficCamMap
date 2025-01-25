@@ -5,8 +5,8 @@
         "description": "Rıhtım",
         "encoding": "H.264",
         "format": "M3U8",
-        "latitude": 36.541463,
-        "longitude": 32.000939,
+        "latitude": 36.5366001,
+        "longitude": 31.9992643,
         "url": "https://cdn-ipkamera.yayin.com.tr/alanyabeltr/rihtim/playlist.m3u8"
       },
       {
@@ -21,8 +21,8 @@
         "description": "Oba Mah.",
         "encoding": "H.264",
         "format": "M3U8",
-        "latitude": 36.544443,
-        "longitude": 31.995408,
+        "latitude": 36.55003,
+        "longitude": 32.059148,
         "url": "https://cdn-ipkamera.yayin.com.tr/alanyabeltr/obamah/playlist.m3u8"
       },
       {
@@ -61,8 +61,8 @@
         "description": "sahilsanayi",
         "encoding": "H.264",
         "format": "M3U8",
-        "latitude": 0.0,
-        "longitude": 0.0,
+        "latitude": 36.5322261,
+        "longitude": 32.03793040000001,
         "url": "https://cdn-ipkamera.yayin.com.tr/alanyabeltr/sahilsanayi/playlist.m3u8"
       },
       {
@@ -93,8 +93,8 @@
         "description": "sahilkestel",
         "encoding": "H.264",
         "format": "M3U8",
-        "latitude": 36.5178772,
-        "longitude": 32.0581216,
+        "latitude": 36.558003,
+        "longitude": 31.96518,
         "url": "https://cdn-ipkamera.yayin.com.tr/alanyabeltr/sahilkestel/playlist.m3u8"
       },
       {
@@ -513,8 +513,8 @@
         "description": "Dağbaşı",
         "encoding": "H.264",
         "format": "M3U8",
-        "latitude": 41.00363189999999,
-        "longitude": 40.5296709,
+        "latitude": 41.0097554,
+        "longitude": 40.5063248,
         "url": "https://cdn-ipkamera.yayin.com.tr/rizebel/dagbasi/playlist.m3u8"
       }
     ]
