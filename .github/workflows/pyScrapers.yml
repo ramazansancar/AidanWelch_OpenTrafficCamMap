@@ -32,9 +32,7 @@ jobs:
           pip install -Ur requirements.txt
 
       - name : Betiği Çalıştır
-        run  : |
-          cd PyScrapers
-          python scrape.py
+        run  : cd PyScrapers && python scrape.py
 
       - name : Depoyu Güncelle
         uses: stefanzweifel/git-auto-commit-action@v5

@@ -34,7 +34,9 @@ class Denizli:
 
         veri = {"Belediye": []}
         for kamera_veri in kameralar:
-            latitude, longitude = await str2latlng(f"{search(r"(.+?)(?:\s*-\s*.*)?$", kamera_veri['title']).group(1)}, Denizli, Türkiye")
+
+            latlngstring = search(r"(.+?)(?:\s*-\s*.*)?$", kamera_veri['title']).group(1)
+            latitude, longitude = await str2latlng(f"{latlngstring}, Denizli, Türkiye")
 
             veri["Belediye"].append({
                 "description" : kamera_veri["title"],

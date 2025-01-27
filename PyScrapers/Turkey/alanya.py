@@ -20,7 +20,8 @@ class Alanya:
         veri = {"Alanya": []}
         for kamera_veri in kameralar.get("playlist", []):
             
-            latitude, longitude = await str2latlng(f"{search(r"(.+?)\s*\d*$", kamera_veri['title']).group(1)}, Alanya, Antalya, Türkiye")
+            latlngstring = search(r"(.+?)\s*\d*$", kamera_veri['title']).group(1)
+            latitude, longitude = await str2latlng(f"{latlngstring}, Alanya, Antalya, Türkiye")
 
             veri["Alanya"].append({
                 "description" : kamera_veri["title"],

@@ -60,7 +60,8 @@ class Balikesir:
             if not kamera_detay:
                 continue
 
-            latitude, longitude = await str2latlng(f"{search(r"(.+?)\s*\d*$", kamera_adi).group(1)}, Balıkesir, Türkiye")
+            latlngstring = search(r"(.+?)\s*\d*$", kamera_adi).group(1)
+            latitude, longitude = await str2latlng(f"{latlngstring}, Balıkesir, Türkiye")
 
             veri["Belediye"].append({
                 "description" : kamera_adi,

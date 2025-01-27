@@ -45,8 +45,9 @@ class Konya:
             kamera_detay = await self.kamera_detay(kamera_url)
             if not kamera_detay:
                 continue
-
-            latitude, longitude = await str2latlng(f"{search(r"(.+?)\s*\d*$", kamera_adi).group(1)}, Konya, Türkiye")
+            
+            latlngstring = search(r"(.+?)\s*\d*$", kamera_adi).group(1)
+            latitude, longitude = await str2latlng(f"{latlngstring}, Konya, Türkiye")
 
             veri["Belediye"].append({
                 "description" : kamera_adi,
@@ -71,7 +72,7 @@ async def basla():
     with open(turkey_json, "r", encoding="utf-8") as dosya:
         mevcut_veriler = load(dosya)
 
-    if gelen_veriler == mevcut_veriler.get("Balıkesir"):
+    if gelen_veriler == mevcut_veriler.get("Konya"):
         konsol.log("[red][!] [Konya] Yeni Veri Yok")
         return
 

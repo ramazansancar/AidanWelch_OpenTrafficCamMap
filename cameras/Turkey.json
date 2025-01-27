@@ -445,8 +445,8 @@
         "description": "Giresun Kalesi",
         "encoding": "H.264",
         "format": "M3U8",
-        "latitude": 40.92162570000001,
-        "longitude": 38.389149,
+        "latitude": 40.9215233,
+        "longitude": 38.3906066,
         "url": "https://cdn-ipkamera.yayin.com.tr/giresunbel/kale/playlist.m3u8"
       },
       {
@@ -637,8 +637,8 @@
         "description": "MİLLET BAHÇESİ",
         "encoding": "H.264",
         "format": "M3U8",
-        "latitude": 37.8666122,
-        "longitude": 32.4835756,
+        "latitude": 37.8658248,
+        "longitude": 32.4840929,
         "url": "https://content.tvkur.com/l/cei99ovmm25sdv36p5c0/master.m3u8"
       },
       {
@@ -829,8 +829,8 @@
         "description": "MOBİLYACILAR KAVŞAĞI",
         "encoding": "H.264",
         "format": "M3U8",
-        "latitude": 37.9165083,
-        "longitude": 32.507375,
+        "latitude": 37.91604359999999,
+        "longitude": 32.5106964,
         "url": "https://content.tvkur.com/l/c77i96b84cnrb6mljia0/master.m3u8"
       },
       {

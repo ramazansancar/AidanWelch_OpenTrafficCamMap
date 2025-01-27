@@ -39,7 +39,9 @@ class Kahramanmaras:
             kamera_detay = await self.kamera_detay(kamera_url)
             if not kamera_detay:
                 continue
-            latitude, longitude = await str2latlng(f"{search(r"(.+?)\s*\d*$", kamera_adi).group(1)}, Kahramanmaraş, Türkiye")
+
+            latlngstring = search(r"(.+?)\s*\d*$", kamera_adi).group(1)
+            latitude, longitude = await str2latlng(f"{latlngstring}, Kahramanmaraş, Türkiye")
 
             veri["Belediye"].append({
                 "description" : kamera_adi,
