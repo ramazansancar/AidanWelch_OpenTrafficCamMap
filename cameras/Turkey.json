@@ -434,14 +434,6 @@
   "Giresun": {
     "Belediye": [
       {
-        "description": "Atatürk Meydanı",
-        "encoding": "H.264",
-        "format": "M3U8",
-        "latitude": 40.917458,
-        "longitude": 38.383745,
-        "url": "https://cdn-ipkamera.yayin.com.tr/giresunbel/meydan/playlist.m3u8"
-      },
-      {
         "description": "Giresun Kalesi",
         "encoding": "H.264",
         "format": "M3U8",
