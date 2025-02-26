@@ -434,6 +434,14 @@
   "Giresun": {
     "Belediye": [
       {
+        "description": "Atatürk Meydanı",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 40.917458,
+        "longitude": 38.383745,
+        "url": "https://cdn-ipkamera.yayin.com.tr/giresunbel/meydan/playlist.m3u8"
+      },
+      {
         "description": "Giresun Kalesi",
         "encoding": "H.264",
         "format": "M3U8",
@@ -940,14 +948,6 @@
         "latitude": 36.802391,
         "longitude": 28.224899,
         "url": "https://cdn-ipkamera.yayin.com.tr/marmarisbel/icmeler/playlist.m3u8"
-      },
-      {
-        "description": "Atatürk Bulvarı",
-        "encoding": "H.264",
-        "format": "M3U8",
-        "latitude": 36.8769465,
-        "longitude": 28.2671015,
-        "url": "https://cdn-ipkamera.yayin.com.tr/marmarisbel/ataturk/playlist.m3u8"
       },
       {
         "description": "Bozburun",
