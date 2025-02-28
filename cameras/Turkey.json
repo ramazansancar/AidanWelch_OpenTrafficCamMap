@@ -1158,6 +1158,22 @@
         "url": "https://cdn-ipkamera.yayin.com.tr/caycumabeltr/ugurmumcucad/playlist.m3u8"
       },
       {
+        "description": "Cumhuriyet Meydanı",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.427343,
+        "longitude": 32.072631,
+        "url": "https://cdn-ipkamera.yayin.com.tr/caycumabeltr/cumhuriyetmeydani/playlist.m3u8"
+      },
+      {
+        "description": "Atatürk Bulvarı",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.427343,
+        "longitude": 32.072631,
+        "url": "https://cdn-ipkamera.yayin.com.tr/caycumabeltr/ataturkbulvari/playlist.m3u8"
+      },
+      {
         "description": "Sarıkaş Yaya Köprüsü",
         "encoding": "H.264",
         "format": "M3U8",
