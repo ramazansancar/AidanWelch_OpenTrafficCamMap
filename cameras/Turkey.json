@@ -251,7 +251,7 @@
         "format": "M3U8",
         "latitude": 39.643173,
         "longitude": 27.886385,
-        "url": "https://content.tvkur.com/l/crdaoa1pkpqs73a6dfd0/master.m3u8"
+        "url": "https://content.tvkur.com/l/cveqb41pkpqs739cjl3g/master.m3u8"
       },
       {
         "description": "BİGADİÇ MEYDAN",
@@ -440,6 +440,14 @@
         "latitude": 40.9155354,
         "longitude": 38.3826236,
         "url": "https://cdn-ipkamera.yayin.com.tr/giresunbel/balikcibarinak/playlist.m3u8"
+      },
+      {
+        "description": "Gaziler",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 40.9173923,
+        "longitude": 38.32113409999999,
+        "url": "https://cdn-ipkamera.yayin.com.tr/giresunbel/universite/playlist.m3u8"
       }
     ]
   },
