@@ -434,6 +434,14 @@
   "Giresun": {
     "Belediye": [
       {
+        "description": "Atatürk Meydanı",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 40.917458,
+        "longitude": 38.383745,
+        "url": "https://cdn-ipkamera.yayin.com.tr/giresunbel/meydan/playlist.m3u8"
+      },
+      {
         "description": "Cadde Kamera",
         "encoding": "H.264",
         "format": "M3U8",
@@ -456,6 +464,14 @@
         "latitude": 40.9173923,
         "longitude": 38.32113409999999,
         "url": "https://cdn-ipkamera.yayin.com.tr/giresunbel/universite/playlist.m3u8"
+      },
+      {
+        "description": "BotanikPark",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 40.9151964,
+        "longitude": 38.4022453,
+        "url": "https://cdn-ipkamera.yayin.com.tr/giresunbel/botanik/playlist.m3u8"
       }
     ]
   },
