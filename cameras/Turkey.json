@@ -13,8 +13,8 @@
         "description": "Tosmur D-400",
         "encoding": "H.264",
         "format": "M3U8",
-        "latitude": 36.5226494,
-        "longitude": 32.0529989,
+        "latitude": 36.5291966,
+        "longitude": 32.0524936,
         "url": "https://cdn-ipkamera.yayin.com.tr/alanyabeltr/tosmurd400/playlist.m3u8"
       },
       {
@@ -53,8 +53,8 @@
         "description": "dinek",
         "encoding": "H.264",
         "format": "M3U8",
-        "latitude": 36.5614285,
-        "longitude": 31.9487331,
+        "latitude": 36.544443,
+        "longitude": 31.995408,
         "url": "https://cdn-ipkamera.yayin.com.tr/alanyabeltr/dinek/playlist.m3u8"
       },
       {
@@ -69,16 +69,16 @@
         "description": "cleopatra",
         "encoding": "H.264",
         "format": "M3U8",
-        "latitude": 36.5445968,
-        "longitude": 31.986932,
+        "latitude": 36.5533266,
+        "longitude": 31.9728367,
         "url": "https://cdn-ipkamera.yayin.com.tr/alanyabeltr/cleopatra/playlist.m3u8"
       },
       {
         "description": "iskele",
         "encoding": "H.264",
         "format": "M3U8",
-        "latitude": 36.538228,
-        "longitude": 31.99800519999999,
+        "latitude": 36.5385488,
+        "longitude": 31.9984095,
         "url": "https://cdn-ipkamera.yayin.com.tr/alanyabeltr/iskele/playlist.m3u8"
       },
       {
@@ -93,16 +93,16 @@
         "description": "sahilkestel",
         "encoding": "H.264",
         "format": "M3U8",
-        "latitude": 36.5178772,
-        "longitude": 32.0581216,
+        "latitude": 36.558003,
+        "longitude": 31.96518,
         "url": "https://cdn-ipkamera.yayin.com.tr/alanyabeltr/sahilkestel/playlist.m3u8"
       },
       {
         "description": "sahildinek",
         "encoding": "H.264",
         "format": "M3U8",
-        "latitude": 36.558538,
-        "longitude": 31.961724,
+        "latitude": 36.5322261,
+        "longitude": 32.03793040000001,
         "url": "https://cdn-ipkamera.yayin.com.tr/alanyabeltr/sahildinek/playlist.m3u8"
       }
     ]
@@ -233,16 +233,16 @@
         "description": "GÖNEN MEYDAN",
         "encoding": "H.264",
         "format": "M3U8",
-        "latitude": 40.108504,
-        "longitude": 27.650346,
+        "latitude": 40.1034832,
+        "longitude": 27.654213,
         "url": "https://content.tvkur.com/l/co2k95hpkpqs73d9ufjg/master.m3u8"
       },
       {
         "description": "CUNDA LİMAN",
         "encoding": "H.264",
         "format": "M3U8",
-        "latitude": 39.331667,
-        "longitude": 26.6579871,
+        "latitude": 39.3314822,
+        "longitude": 26.6567142,
         "url": "https://content.tvkur.com/l/cvhq821pkpqs739cm6u0/master.m3u8"
       },
       {
@@ -265,8 +265,8 @@
         "description": "BİGADİÇ MEYDAN",
         "encoding": "H.264",
         "format": "M3U8",
-        "latitude": 39.3941711,
-        "longitude": 28.133201,
+        "latitude": 39.4578606,
+        "longitude": 28.2526623,
         "url": "https://content.tvkur.com/l/crdeq61pkpqs73a6dmn0/master.m3u8"
       },
       {
@@ -309,16 +309,16 @@
         "description": "15 Temmuz Delikliçınar Şehitler Meydanı-1",
         "encoding": "H.264",
         "format": "M3U8",
-        "latitude": 37.7732796,
-        "longitude": 29.0868879,
+        "latitude": 37.7894158,
+        "longitude": 29.0294812,
         "url": "http://212.175.207.19:1935/canliyayin/dbbBelediye2.stream/playlist.m3u8"
       },
       {
         "description": "15 Temmuz Delikliçınar Şehitler Meydanı-2",
         "encoding": "H.264",
         "format": "M3U8",
-        "latitude": 37.7732796,
-        "longitude": 29.0868879,
+        "latitude": 37.7894158,
+        "longitude": 29.0294812,
         "url": "http://212.175.207.19:1935/canliyayin/dbbBelediye1.stream/playlist.m3u8"
       },
       {
@@ -365,8 +365,8 @@
         "description": "Üçgen Meydanı",
         "encoding": "H.264",
         "format": "M3U8",
-        "latitude": 37.7842298,
-        "longitude": 29.08408549999999,
+        "latitude": 37.7829359,
+        "longitude": 29.0963365,
         "url": "http://212.175.207.19:1935/canliyayin/dbbOtogar.stream/playlist.m3u8"
       },
       {
@@ -401,8 +401,8 @@
         "description": "Tortum Merkez",
         "encoding": "H.264",
         "format": "M3U8",
-        "latitude": 40.3972934,
-        "longitude": 41.4772703,
+        "latitude": 40.29465099999999,
+        "longitude": 41.549952,
         "url": "https://cdn-ipkamera.yayin.com.tr/erzurumbeltr/Tortum_Merkez/playlist.m3u8"
       },
       {
@@ -629,32 +629,32 @@
         "description": "HAYVAN BAKIM EVİ - 1",
         "encoding": "H.264",
         "format": "M3U8",
-        "latitude": 37.9354586,
-        "longitude": 32.556356,
+        "latitude": 37.7903105,
+        "longitude": 32.2343873,
         "url": "https://content.tvkur.com/l/cg3k53okj84dao8vt0ug/master.m3u8"
       },
       {
         "description": "HAYVAN BAKIM EVİ - 2",
         "encoding": "H.264",
         "format": "M3U8",
-        "latitude": 37.9354586,
-        "longitude": 32.556356,
+        "latitude": 37.7903105,
+        "longitude": 32.2343873,
         "url": "https://content.tvkur.com/l/cg3k64gkj84dao8vt10g/master.m3u8"
       },
       {
         "description": "HAYVAN BAKIM EVİ - 3",
         "encoding": "H.264",
         "format": "M3U8",
-        "latitude": 37.9354586,
-        "longitude": 32.556356,
+        "latitude": 37.7903105,
+        "longitude": 32.2343873,
         "url": "https://content.tvkur.com/l/cg8mckokj84dao9014sg/master.m3u8"
       },
       {
         "description": "HAYVAN BAKIM EVİ - 4",
         "encoding": "H.264",
         "format": "M3U8",
-        "latitude": 37.9354586,
-        "longitude": 32.556356,
+        "latitude": 37.7903105,
+        "longitude": 32.2343873,
         "url": "https://content.tvkur.com/l/cg8mdd0kj84dao9014v0/master.m3u8"
       },
       {
@@ -669,8 +669,8 @@
         "description": "MİLLET BAHÇESİ",
         "encoding": "H.264",
         "format": "M3U8",
-        "latitude": 37.8658248,
-        "longitude": 32.4840929,
+        "latitude": 37.8652053,
+        "longitude": 32.4825466,
         "url": "https://content.tvkur.com/l/cei99ovmm25sdv36p5c0/master.m3u8"
       },
       {
@@ -725,8 +725,8 @@
         "description": "İHSANİYE KAVŞAĞI",
         "encoding": "H.264",
         "format": "M3U8",
-        "latitude": 37.873558,
-        "longitude": 32.4815789,
+        "latitude": 38.221107,
+        "longitude": 32.068073,
         "url": "https://content.tvkur.com/l/c77i62384cnrb6mlji2g/master.m3u8"
       },
       {
@@ -741,8 +741,8 @@
         "description": "KULE KAVŞAĞI",
         "encoding": "H.264",
         "format": "M3U8",
-        "latitude": 37.8887635,
-        "longitude": 32.494413,
+        "latitude": 37.8891802,
+        "longitude": 32.49370260000001,
         "url": "https://content.tvkur.com/l/c77i6qj84cnrb6mlji5g/master.m3u8"
       },
       {
@@ -797,8 +797,8 @@
         "description": "ALAADDİN CADDESİ 2",
         "encoding": "H.264",
         "format": "M3U8",
-        "latitude": 37.8659738,
-        "longitude": 32.5298133,
+        "latitude": 37.8731128,
+        "longitude": 32.4904076,
         "url": "https://content.tvkur.com/l/c77i9rj84cnrb6mljic0/master.m3u8"
       },
       {
@@ -821,8 +821,8 @@
         "description": "KARATAY MEDRESESİ",
         "encoding": "H.264",
         "format": "M3U8",
-        "latitude": 37.8748656,
-        "longitude": 32.4929594,
+        "latitude": 37.8749846,
+        "longitude": 32.4930173,
         "url": "https://content.tvkur.com/l/c77i5e384cnrb6mlji10/master.m3u8"
       },
       {
@@ -837,8 +837,8 @@
         "description": "ALAADDİN CADDESİ 1",
         "encoding": "H.264",
         "format": "M3U8",
-        "latitude": 37.8659738,
-        "longitude": 32.5298133,
+        "latitude": 37.8731128,
+        "longitude": 32.4904076,
         "url": "https://content.tvkur.com/l/c77ia07bb2nj4i0fr84g/master.m3u8"
       },
       {
@@ -861,8 +861,8 @@
         "description": "MOBİLYACILAR KAVŞAĞI",
         "encoding": "H.264",
         "format": "M3U8",
-        "latitude": 37.91604359999999,
-        "longitude": 32.5106964,
+        "latitude": 37.8792794,
+        "longitude": 32.4555561,
         "url": "https://content.tvkur.com/l/c77i96b84cnrb6mljia0/master.m3u8"
       },
       {
@@ -1001,8 +1001,8 @@
         "description": "Kordon Caddesi 2",
         "encoding": "H.264",
         "format": "M3U8",
-        "latitude": 36.8515318,
-        "longitude": 28.2734778,
+        "latitude": 36.8520639,
+        "longitude": 28.2745429,
         "url": "https://cdn-ipkamera.yayin.com.tr/marmarisbel/kordon2/playlist.m3u8"
       },
       {
@@ -1021,8 +1021,8 @@
         "description": "Araştırma Yolu",
         "encoding": "H.264",
         "format": "M3U8",
-        "latitude": 41.025511,
-        "longitude": 40.517666,
+        "latitude": 41.03765,
+        "longitude": 40.571495,
         "url": "https://cdn-ipkamera.yayin.com.tr/rizebel/arastirma_yolu/playlist.m3u8"
       },
       {
@@ -1117,8 +1117,8 @@
         "description": "Boztepe Manzara",
         "encoding": "H.264",
         "format": "M3U8",
-        "latitude": 40.9965616,
-        "longitude": 39.7327862,
+        "latitude": 40.9977633,
+        "longitude": 39.729373,
         "url": "https://cdn-ipkamera.yayin.com.tr/trabzonbeltr/Boztepe/playlist.m3u8"
       },
       {

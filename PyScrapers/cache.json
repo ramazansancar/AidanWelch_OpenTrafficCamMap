@@ -1,7 +1,7 @@
 {
   "15 Temmuz Delikliçınar Şehitler Meydanı, Denizli, Türkiye": [
-    37.7732796,
-    29.0868879
+    37.7894158,
+    29.0294812
   ],
   "Afşin, Kahramanmaraş, Türkiye": [
     38.243802,
@@ -16,8 +16,8 @@
     26.9309968
   ],
   "Alaaddin Caddesi, Konya, Türkiye": [
-    37.8659738,
-    32.5298133
+    37.8731128,
+    32.4904076
   ],
   "Alaeddin Keykubad Camii, Konya, Türkiye": [
     37.8733413,
@@ -48,8 +48,8 @@
     36.349767
   ],
   "Araştırma Yolu, Rize, Türkiye": [
-    41.025511,
-    40.517666
+    41.03765,
+    40.571495
   ],
   "Atatürk Anıtı, Balıkesir, Türkiye": [
     39.643173,
@@ -58,6 +58,10 @@
   "Atatürk Bulvarı, Marmaris, Muğla, Türkiye": [
     36.8769465,
     28.2671015
+  ],
+  "Atatürk Bulvarı, Çaycuma, Zonguldak, Türkiye": [
+    41.427343,
+    32.072631
   ],
   "Atatürk Köşkü, Trabzon, Türkiye": [
     40.9797269,
@@ -96,20 +100,24 @@
     32.5044547
   ],
   "Bigadiç Meydan, Balıkesir, Türkiye": [
-    39.3941711,
-    28.133201
+    39.4578606,
+    28.2526623
   ],
   "Bilim Merkezi, Konya, Türkiye": [
     37.9878382,
     32.5927663
+  ],
+  "Botanikpark, Giresun, Türkiye": [
+    40.9151964,
+    38.4022453
   ],
   "Bozburun, Marmaris, Muğla, Türkiye": [
     36.683674,
     28.0631193
   ],
   "Boztepe Manzara, Trabzon, Türkiye": [
-    40.9965616,
-    39.7327862
+    40.9977633,
+    39.729373
   ],
   "Boğaziçi Kavşağı, Kahramanmaraş, Türkiye": [
     37.5819144,
@@ -120,12 +128,16 @@
     38.398668
   ],
   "Cleopatra, Alanya, Antalya, Türkiye": [
-    36.5445968,
-    31.986932
+    36.5533266,
+    31.9728367
+  ],
+  "Cumhuriyet Meydanı, Çaycuma, Zonguldak, Türkiye": [
+    41.427343,
+    32.072631
   ],
   "Cunda Liman, Balıkesir, Türkiye": [
-    39.331667,
-    26.6579871
+    39.3314822,
+    26.6567142
   ],
   "Damlatas, Alanya, Antalya, Türkiye": [
     36.5418297,
@@ -148,8 +160,8 @@
     39.7434164
   ],
   "Dinek, Alanya, Antalya, Türkiye": [
-    36.5614285,
-    31.9487331
+    36.544443,
+    31.995408
   ],
   "Dursunbey Suçıktı, Balıkesir, Türkiye": [
     39.5975694,
@@ -175,21 +187,25 @@
     37.9031455,
     32.5141454
   ],
+  "Gaziler, Giresun, Türkiye": [
+    40.9173923,
+    38.32113409999999
+  ],
   "Giresun Kalesi, Giresun, Türkiye": [
     40.9215233,
     38.3906066
   ],
   "Göksun Meydan, Kahramanmaraş, Türkiye": [
-    38.1271756,
-    36.5229641
+    38.0218229,
+    36.4989217
   ],
   "Gönen Meydan, Balıkesir, Türkiye": [
-    40.108504,
-    27.650346
+    40.1034832,
+    27.654213
   ],
   "Hayvan Bakım Evi -, Konya, Türkiye": [
-    37.9354586,
-    32.556356
+    37.7903105,
+    32.2343873
   ],
   "Kale, Rize, Türkiye": [
     41.0236649,
@@ -200,8 +216,8 @@
     39.71888819999999
   ],
   "Karatay Medresesi, Konya, Türkiye": [
-    37.8748656,
-    32.4929594
+    37.8749846,
+    32.4930173
   ],
   "Kayalıpark, Konya, Türkiye": [
     37.871582,
@@ -220,12 +236,12 @@
     28.2717698
   ],
   "Kordon Caddesi 2, Marmaris, Muğla, Türkiye": [
-    36.8515318,
-    28.2734778
+    36.8520639,
+    28.2745429
   ],
   "Kule Kavşağı, Konya, Türkiye": [
-    37.8887635,
-    32.494413
+    37.8891802,
+    32.49370260000001
   ],
   "Kültürpark, Konya, Türkiye": [
     37.8751151,
@@ -280,16 +296,16 @@
     40.929983
   ],
   "Millet Bahçesi, Konya, Türkiye": [
-    37.8658248,
-    32.4840929
+    37.8652053,
+    32.4825466
   ],
   "Millet Caddesi, Konya, Türkiye": [
     37.8703187,
     32.4805805
   ],
   "Mobilyacılar Kavşağı, Konya, Türkiye": [
-    37.91604359999999,
-    32.5106964
+    37.8792794,
+    32.4555561
   ],
   "Mola Meydanı, Alanya, Antalya, Türkiye": [
     36.5437269,
@@ -324,12 +340,12 @@
     40.5289733
   ],
   "Sahildinek, Alanya, Antalya, Türkiye": [
-    36.558538,
-    31.961724
+    36.5322261,
+    32.03793040000001
   ],
   "Sahilkestel, Alanya, Antalya, Türkiye": [
-    36.5178772,
-    32.0581216
+    36.558003,
+    31.96518
   ],
   "Sahilsanayi, Alanya, Antalya, Türkiye": [
     36.5322261,
@@ -364,8 +380,8 @@
     41.459689
   ],
   "Tortum Merkez, Erzurum, Türkiye": [
-    40.3972934,
-    41.4772703
+    40.29465099999999,
+    41.549952
   ],
   "Tortum Meydan, Erzurum, Türkiye": [
     40.29465099999999,
@@ -376,8 +392,8 @@
     41.3310934
   ],
   "Tosmur D-, Alanya, Antalya, Türkiye": [
-    36.5226494,
-    32.0529989
+    36.5291966,
+    32.0524936
   ],
   "Tören Alanı, Rize, Türkiye": [
     41.0290957,
@@ -460,12 +476,12 @@
     37.293208
   ],
   "Üçgen Meydanı, Denizli, Türkiye": [
-    37.7842298,
-    29.08408549999999
+    37.7829359,
+    29.0963365
   ],
   "İhsaniye Kavşağı, Konya, Türkiye": [
-    37.873558,
-    32.4815789
+    38.221107,
+    32.068073
   ],
   "İnce Minareli Medrese, Konya, Türkiye": [
     37.8728716,
@@ -476,8 +492,8 @@
     29.0978362
   ],
   "İskele, Alanya, Antalya, Türkiye": [
-    36.538228,
-    31.99800519999999
+    36.5385488,
+    31.9984095
   ],
   "İstanbul Yolu, Konya, Türkiye": [
     37.9687941,

@@ -11,11 +11,11 @@ async def basla():
     await denizli.basla()
     await erzurum.basla()
     await giresun.basla()
-    await kahramanmaras.basla()
     await konya.basla()
     await marmaris.basla()
     await rize.basla()
     await trabzon.basla()
+    await kahramanmaras.basla()
 
 if __name__ == "__main__":
     try:

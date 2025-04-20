@@ -38,5 +38,5 @@ async def str2latlng(str:str) -> tuple[float, float]:
 
         return float(lat) , float(lng)
     except Exception:
-        print(0.0, 0.0, yer_adi)
-        return 0.0, 0.0
+        print('- ',0.0, 0.0, yer_adi)
+        return 36.14207255403557, 31.208844678148807

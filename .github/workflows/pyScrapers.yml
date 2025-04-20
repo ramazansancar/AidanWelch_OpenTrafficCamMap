@@ -39,4 +39,4 @@ jobs:
         with:
           commit_message: pyScrapers
           commit_author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
-          file_pattern: "cameras/*.json"
+          file_pattern: "cameras/*.json PyScrapers/cache.json"
