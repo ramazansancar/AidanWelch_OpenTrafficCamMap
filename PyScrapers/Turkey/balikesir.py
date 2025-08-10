@@ -10,16 +10,23 @@ from helpers   import str2latlng
 class Balikesir:
     def __init__(self):
         self.belediye_url = "https://sehirkamera.balikesir.bel.tr"
-        self.oturum       = AsyncClient(timeout=Timeout(10, connect=10, read=5*60, write=10))
+        self.oturum       = AsyncClient(
+            timeout=Timeout(10, connect=10, read=5*60, write=10),
+            verify=False
+        )
 
     async def kameralar(self) -> dict[str, str]:
-        istek  = await self.oturum.get(self.belediye_url)
-        secici = Selector(istek.text)
+        try:
+            istek  = await self.oturum.get(self.belediye_url)
+            secici = Selector(istek.text)
 
-        return {
-            kamera.css("div.kesfet_kutu_baslik::text").get() : self.belediye_url + kamera.css("a::attr(href)").get()
-                for kamera in secici.css("div#kesfet_kutu_1")
-        }
+            return {
+                kamera.css("div.kesfet_kutu_baslik::text").get() : self.belediye_url + kamera.css("a::attr(href)").get()
+                    for kamera in secici.css("div#kesfet_kutu_1")
+            }
+        except Exception as e:
+            konsol.log(f"[red][Balıkesir] Kameralar alınamadı: {str(e)}")
+            return {}
 
     async def kamera_detay(self, kamera_url:str) -> dict | None:
         istek  = await self.oturum.get(kamera_url)
@@ -53,24 +60,32 @@ class Balikesir:
 
     async def getir(self) -> dict[list[dict]]:
         kameralar = await self.kameralar()
+        
+        if not kameralar:
+            konsol.log("[red][Balıkesir] Kamera listesi alınamadı")
+            return {"Belediye": []}
 
         veri = {"Belediye": []}
         for kamera_adi, kamera_url in kameralar.items():
-            kamera_detay = await self.kamera_detay(kamera_url)
-            if not kamera_detay:
+            try:
+                kamera_detay = await self.kamera_detay(kamera_url)
+                if not kamera_detay:
+                    continue
+
+                latlngstring = search(r"(.+?)\s*\d*$", kamera_adi).group(1)
+                latitude, longitude = await str2latlng(f"{latlngstring}, Balıkesir, Türkiye")
+
+                veri["Belediye"].append({
+                    "description" : kamera_adi,
+                    "latitude"    : latitude,
+                    "longitude"   : longitude,
+                    "url"         : kamera_detay["hls"],
+                    "encoding"    : "H.264",
+                    "format"      : "M3U8"
+                })
+            except Exception as e:
+                konsol.log(f"[red][Balıkesir] {kamera_adi} kamerası işlenirken hata: {str(e)}")
                 continue
-
-            latlngstring = search(r"(.+?)\s*\d*$", kamera_adi).group(1)
-            latitude, longitude = await str2latlng(f"{latlngstring}, Balıkesir, Türkiye")
-
-            veri["Belediye"].append({
-                "description" : kamera_adi,
-                "latitude"    : latitude,
-                "longitude"   : longitude,
-                "url"         : kamera_detay["hls"],
-                "encoding"    : "H.264",
-                "format"      : "M3U8"
-            })
 
         return veri
 
@@ -92,9 +107,9 @@ async def basla():
 
     if mevcut_veriler.get("Balıkesir"):
         del mevcut_veriler["Balıkesir"]
-    mevcut_veriler["Balıkesir"] = gelen_veriler
+    mevcut_veriler["Balıkesir"] = {"Belediye": gelen_veriler["Belediye"]}
 
     with open(turkey_json, "w", encoding="utf-8") as dosya:
         dosya.write(dumps(mevcut_veriler, sort_keys=True, ensure_ascii=False, indent=2))
 
-    konsol.log(f"[green][Balikesir] [+] {len(gelen_veriler['Belediye'])} Adet Kamera Eklendi")
+    konsol.log(f"[green][Balıkesir] [+] {len(gelen_veriler['Belediye'])} Adet Kamera Eklendi")

@@ -2,20 +2,69 @@
 
 from Kekik.cli import cikis_yap, hata_yakala
 from asyncio   import run
-from Turkey    import alanya, balikesir, caycuma, denizli, erzurum, giresun, kahramanmaras, konya, marmaris, rize, trabzon
+from Turkey    import alanya, balikesir, caycuma, denizli, erzurum, giresun, kahramanmaras, konya, marmaris, rize, sindirgi, trabzon
 
 async def basla():
-    await alanya.basla()
-    await balikesir.basla()
-    await caycuma.basla()
-    await denizli.basla()
-    await erzurum.basla()
-    await giresun.basla()
-    await konya.basla()
-    await marmaris.basla()
-    await rize.basla()
-    await trabzon.basla()
-    await kahramanmaras.basla()
+    # Her şehir için ayrı try-catch blokları
+    try:
+        await alanya.basla()
+    except Exception as e:
+        print(f"[HATA] Alanya: {e}")
+    
+    try:
+        await balikesir.basla()
+    except Exception as e:
+        print(f"[HATA] Balıkesir: {e}")
+    
+    try:
+        await caycuma.basla()
+    except Exception as e:
+        print(f"[HATA] Caycuma: {e}")
+    
+    try:
+        await denizli.basla()
+    except Exception as e:
+        print(f"[HATA] Denizli: {e}")
+    
+    try:
+        await erzurum.basla()
+    except Exception as e:
+        print(f"[HATA] Erzurum: {e}")
+    
+    try:
+        await giresun.basla()
+    except Exception as e:
+        print(f"[HATA] Giresun: {e}")
+    
+    try:
+        await konya.basla()
+    except Exception as e:
+        print(f"[HATA] Konya: {e}")
+    
+    try:
+        await marmaris.basla()
+    except Exception as e:
+        print(f"[HATA] Marmaris: {e}")
+    
+    try:
+        await rize.basla()
+    except Exception as e:
+        print(f"[HATA] Rize: {e}")
+    
+    try:
+        await sindirgi.basla()
+    except Exception as e:
+        print(f"[HATA] Sindirgi: {e}")
+    
+    try:
+        await trabzon.basla()
+    except Exception as e:
+        print(f"[HATA] Trabzon: {e}")
+    
+    try:
+        await kahramanmaras.basla()
+    except Exception as e:
+        print(f"[HATA] Kahramanmaras: {e}")
 
 if __name__ == "__main__":
     try:
