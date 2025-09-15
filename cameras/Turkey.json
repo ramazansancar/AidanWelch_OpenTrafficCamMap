@@ -650,7 +650,328 @@
     ]
   },
   "Konya": {
-    "Belediye": []
+    "Belediye": [
+      {
+        "description": "HAYVAN BAKIM EVİ - 1",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.7903105,
+        "longitude": 32.2343873,
+        "url": "https://content.tvkur.com/l/cg3k53okj84dao8vt0ug/master.m3u8"
+      },
+      {
+        "description": "HAYVAN BAKIM EVİ - 2",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.7903105,
+        "longitude": 32.2343873,
+        "url": "https://content.tvkur.com/l/cg3k64gkj84dao8vt10g/master.m3u8"
+      },
+      {
+        "description": "HAYVAN BAKIM EVİ - 3",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.7903105,
+        "longitude": 32.2343873,
+        "url": "https://content.tvkur.com/l/cg8mckokj84dao9014sg/master.m3u8"
+      },
+      {
+        "description": "HAYVAN BAKIM EVİ - 4",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.7903105,
+        "longitude": 32.2343873,
+        "url": "https://content.tvkur.com/l/cg8mdd0kj84dao9014v0/master.m3u8"
+      },
+      {
+        "description": "İSTANBUL YOLU",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.9687941,
+        "longitude": 32.5162372,
+        "url": "https://content.tvkur.com/l/cggk2cokj84dao908mv0/master.m3u8"
+      },
+      {
+        "description": "MİLLET BAHÇESİ",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.8652053,
+        "longitude": 32.4825466,
+        "url": "https://content.tvkur.com/l/cei99ovmm25sdv36p5c0/master.m3u8"
+      },
+      {
+        "description": "ZAFER YÜRÜYÜŞ YOLU",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.8712772,
+        "longitude": 32.4901927,
+        "url": "https://content.tvkur.com/l/cei9a1fmm25sdv36p5d0/master.m3u8"
+      },
+      {
+        "description": "ALAEDDİN KEYKUBAD CAMİİ",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.8733413,
+        "longitude": 32.4928914,
+        "url": "https://content.tvkur.com/l/cei99ifmm25sdv36p5ag/master.m3u8"
+      },
+      {
+        "description": "TÜRBE ÖNÜ",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.871782,
+        "longitude": 32.5046239,
+        "url": "https://content.tvkur.com/l/cei99afmm25sdv36p59g/master.m3u8"
+      },
+      {
+        "description": "VATAN CADDESİ",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.8736669,
+        "longitude": 32.4827542,
+        "url": "https://content.tvkur.com/l/c77i6m384cnrb6mlji4g/master.m3u8"
+      },
+      {
+        "description": "KILIÇARSLAN ŞEHİR MEYDANI",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.875014,
+        "longitude": 32.491967,
+        "url": "https://content.tvkur.com/l/co8041hpkpqs73c116hg/master.m3u8"
+      },
+      {
+        "description": "BELH KAVŞAĞI",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.8961309,
+        "longitude": 32.5044547,
+        "url": "https://content.tvkur.com/l/c77i74vbb2nj4i0fr7u0/master.m3u8"
+      },
+      {
+        "description": "İHSANİYE KAVŞAĞI",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 38.221107,
+        "longitude": 32.068073,
+        "url": "https://content.tvkur.com/l/c77i62384cnrb6mlji2g/master.m3u8"
+      },
+      {
+        "description": "KAYALIPARK",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.871582,
+        "longitude": 32.4978905,
+        "url": "https://content.tvkur.com/l/c77i687bb2nj4i0fr7r0/master.m3u8"
+      },
+      {
+        "description": "KULE KAVŞAĞI",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.8891802,
+        "longitude": 32.49370260000001,
+        "url": "https://content.tvkur.com/l/c77i6qj84cnrb6mlji5g/master.m3u8"
+      },
+      {
+        "description": "İNCE MİNARELİ MEDRESE",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.8728716,
+        "longitude": 32.4899749,
+        "url": "https://content.tvkur.com/l/c77ib8vbb2nj4i0fr8bg/master.m3u8"
+      },
+      {
+        "description": "ZAFER MEYDANI GEDAVET",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.8712772,
+        "longitude": 32.4901927,
+        "url": "https://content.tvkur.com/l/c77ibcnbb2nj4i0fr8cg/master.m3u8"
+      },
+      {
+        "description": "KÜLTÜRPARK",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.8751151,
+        "longitude": 32.4891489,
+        "url": "https://content.tvkur.com/l/c77i6hb84cnrb6mlji3g/master.m3u8"
+      },
+      {
+        "description": "TÜRK YILDIZLARI PARKI",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.9574915,
+        "longitude": 32.5591157,
+        "url": "https://content.tvkur.com/l/c77iannbb2nj4i0fr88g/master.m3u8"
+      },
+      {
+        "description": "GALERİCİLER KAVŞAĞI",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.9031455,
+        "longitude": 32.5141454,
+        "url": "https://content.tvkur.com/l/c77iasnbb2nj4i0fr89g/master.m3u8"
+      },
+      {
+        "description": "KENT PLAZA KAVŞAĞI",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.9057173,
+        "longitude": 32.4948214,
+        "url": "https://content.tvkur.com/l/c77ib57bb2nj4i0fr8ag/master.m3u8"
+      },
+      {
+        "description": "ALAADDİN CADDESİ 2",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.8731128,
+        "longitude": 32.4904076,
+        "url": "https://content.tvkur.com/l/c77i9rj84cnrb6mljic0/master.m3u8"
+      },
+      {
+        "description": "MEVLANA CADDESİ",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.8717173,
+        "longitude": 32.4995236,
+        "url": "https://content.tvkur.com/l/c77ibgfbb2nj4i0fr8dg/master.m3u8"
+      },
+      {
+        "description": "BİLİM MERKEZİ",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.9878382,
+        "longitude": 32.5927663,
+        "url": "https://content.tvkur.com/l/c77iahr84cnrb6mljid0/master.m3u8"
+      },
+      {
+        "description": "KARATAY MEDRESESİ",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.8749846,
+        "longitude": 32.4930173,
+        "url": "https://content.tvkur.com/l/c77i5e384cnrb6mlji10/master.m3u8"
+      },
+      {
+        "description": "ZAFER MEYDANI HAVUZ",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.8712772,
+        "longitude": 32.4901927,
+        "url": "https://content.tvkur.com/l/c77ia4vbb2nj4i0fr85g/master.m3u8"
+      },
+      {
+        "description": "ALAADDİN CADDESİ 1",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.8731128,
+        "longitude": 32.4904076,
+        "url": "https://content.tvkur.com/l/c77ia07bb2nj4i0fr84g/master.m3u8"
+      },
+      {
+        "description": "SİLLE KAVŞAĞI",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.89245,
+        "longitude": 32.4770292,
+        "url": "https://content.tvkur.com/l/c77i70fbb2nj4i0fr7t0/master.m3u8"
+      },
+      {
+        "description": "YENİ MERAM CADDESİ",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.861916,
+        "longitude": 32.4520647,
+        "url": "https://content.tvkur.com/l/c77i6cfbb2nj4i0fr7s0/master.m3u8"
+      },
+      {
+        "description": "MOBİLYACILAR KAVŞAĞI",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.8792794,
+        "longitude": 32.4555561,
+        "url": "https://content.tvkur.com/l/c77i96b84cnrb6mljia0/master.m3u8"
+      },
+      {
+        "description": "İSTİKLAL HARBİ ŞEHİTLERİ ABİDESİ",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.8705727,
+        "longitude": 32.5092739,
+        "url": "https://content.tvkur.com/l/c77ia8vbb2nj4i0fr86g/master.m3u8"
+      },
+      {
+        "description": "MEVLANA KÜLTÜR MERKEZİ",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.8690757,
+        "longitude": 32.5153387,
+        "url": "https://content.tvkur.com/l/c77i79j84cnrb6mlji70/master.m3u8"
+      },
+      {
+        "description": "ESKİ GARAJ",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.8650786,
+        "longitude": 32.5031778,
+        "url": "https://content.tvkur.com/l/c77i7inbb2nj4i0fr7v0/master.m3u8"
+      },
+      {
+        "description": "SARRAFLAR YERALTI ÇARŞISI",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.8715584,
+        "longitude": 32.5003676,
+        "url": "https://content.tvkur.com/l/c77i84vbb2nj4i0fr80g/master.m3u8"
+      },
+      {
+        "description": "OTOGAR KAVŞAĞI",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.9487938,
+        "longitude": 32.5137689,
+        "url": "https://content.tvkur.com/l/c77i91vbb2nj4i0fr81g/master.m3u8"
+      },
+      {
+        "description": "ŞERAFETTİN CAMİİ",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.8733606,
+        "longitude": 32.4984417,
+        "url": "https://content.tvkur.com/l/c77i7dr84cnrb6mlji80/master.m3u8"
+      },
+      {
+        "description": "MEVLANA MEYDANI",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.870807,
+        "longitude": 32.5036811,
+        "url": "https://content.tvkur.com/l/cei9bavbb2nv2u3dv3k0/master.m3u8"
+      },
+      {
+        "description": "MİLLET CADDESİ",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.8703187,
+        "longitude": 32.4805805,
+        "url": "https://content.tvkur.com/l/c77i9cfbb2nj4i0fr82g/master.m3u8"
+      },
+      {
+        "description": "MEVLANA - ÜÇLER KAVŞAĞI",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.8697586,
+        "longitude": 32.5042307,
+        "url": "https://content.tvkur.com/l/c77i7s384cnrb6mlji90/master.m3u8"
+      },
+      {
+        "description": "KONYA BÜYÜKŞEHİR STADYUMU",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.9461947,
+        "longitude": 32.4880881,
+        "url": "https://content.tvkur.com/l/c77i9nfbb2nj4i0fr83g/master.m3u8"
+      }
+    ]
   },
   "Mugla": {
     "Marmaris": [
