@@ -459,6 +459,122 @@
         "longitude": 41.3310934,
         "url": "https://cdn-ipkamera.yayin.com.tr/erzurumbeltr/tortumsenyurt/playlist.m3u8"
       }
+    ],
+    "Ejder": [
+      {
+        "description": "B Lifti",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 39.9104971,
+        "longitude": 41.2706648,
+        "url": "https://cdn-ipkamera.yayin.com.tr/ejder3200/b-lifti/playlist.m3u8"
+      },
+      {
+        "description": "Alt Meydan",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 39.8484902,
+        "longitude": 41.2812434,
+        "url": "https://cdn-ipkamera.yayin.com.tr/ejder3200/alt-meydan/playlist.m3u8"
+      },
+      {
+        "description": "A Lifti",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 39.8605036,
+        "longitude": 41.2754223,
+        "url": "https://cdn-ipkamera.yayin.com.tr/ejder3200/a-lifti/playlist.m3u8"
+      },
+      {
+        "description": "Üst Gondol",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 39.8605036,
+        "longitude": 41.2754223,
+        "url": "https://cdn-ipkamera.yayin.com.tr/ejder3200/ust-gondol/playlist.m3u8"
+      },
+      {
+        "description": "Küre Önü",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 39.8442912,
+        "longitude": 41.2875964,
+        "url": "https://cdn-ipkamera.yayin.com.tr/ejder3200/kure-onu/playlist.m3u8"
+      },
+      {
+        "description": "Kış Bahçesi",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 39.8991003,
+        "longitude": 41.2684407,
+        "url": "https://cdn-ipkamera.yayin.com.tr/ejder3200/kis-bahcesi/playlist.m3u8"
+      }
+    ],
+    "Web": [
+      {
+        "description": "Erzurum Seyir",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 39.9076189,
+        "longitude": 41.2771418,
+        "url": "https://cdn-ipkamera.yayin.com.tr/erzurumbeltr/erzurum/playlist.m3u8"
+      },
+      {
+        "description": "Yakutiye Meydanı",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 39.94233699999999,
+        "longitude": 41.290989,
+        "url": "https://cdn-ipkamera.yayin.com.tr/erzurumbeltr/Yakutiye_Medrese/playlist.m3u8"
+      },
+      {
+        "description": "Havuzbaşı",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 39.9055696,
+        "longitude": 41.2657015,
+        "url": "https://cdn-ipkamera.yayin.com.tr/erzurumbeltr/Havuzbasi/playlist.m3u8"
+      },
+      {
+        "description": "Çifte Minareli Medrese Önü",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 39.9058055,
+        "longitude": 41.2783573,
+        "url": "https://cdn-ipkamera.yayin.com.tr/erzurumbeltr/cifte_Minareler/playlist.m3u8"
+      },
+      {
+        "description": "7/24 Kuran Tilaveti (Mezarlik)",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 36.14207255403557,
+        "longitude": 31.208844678148807,
+        "url": "https://cdn-ipkamera.yayin.com.tr/erzurumbeltr/Mezarlik/playlist.m3u8"
+      },
+      {
+        "description": "Küre Kafe",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 39.8442912,
+        "longitude": 41.2875964,
+        "url": "https://cdn-ipkamera.yayin.com.tr/ejder3200/kure-kafe/playlist.m3u8"
+      },
+      {
+        "description": "Ejder Zirve",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 39.7828035,
+        "longitude": 41.1995297,
+        "url": "https://cdn-ipkamera.yayin.com.tr/ejder3200/ejder-zirve/playlist.m3u8"
+      },
+      {
+        "description": "Tortum",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 40.3972934,
+        "longitude": 41.4772703,
+        "url": "https://cdn-ipkamera.yayin.com.tr/erzurumbeltr/Tortum/playlist.m3u8"
+      }
     ]
   },
   "Giresun": {

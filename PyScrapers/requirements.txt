@@ -3,3 +3,4 @@ wheel==0.45.1
 Kekik==1.6.1
 httpx==0.28.1
 parsel==1.10.0
+beautifulsoup4==4.12.3
