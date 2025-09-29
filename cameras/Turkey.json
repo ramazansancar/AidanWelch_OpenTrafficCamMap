@@ -108,6 +108,16 @@
     ]
   },
   "Balıkesir": {
+    "Bandirma": [
+      {
+        "description": "ido meydan",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 40.3529178,
+        "longitude": 27.9678011,
+        "url": "https://cdn-ipkamera.yayin.com.tr/bandirmabeltr/ido/playlist.m3u8"
+      }
+    ],
     "Belediye": [
       {
         "description": "ALİ HİKMET PAŞA MEYDANI",
