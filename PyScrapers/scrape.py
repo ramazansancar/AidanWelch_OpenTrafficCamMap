@@ -2,7 +2,7 @@
 
 from Kekik.cli import cikis_yap, hata_yakala
 from asyncio   import run
-from Turkey    import alanya, balikesir, caycuma, denizli, erzurum, giresun, kahramanmaras, karacabey, konya, kutahya, marmaris, rize, sindirgi, trabzon
+from Turkey    import alanya, balikesir, caycuma, cayirova, denizli, erzurum, giresun, kahramanmaras, karacabey, konya, kutahya, marmaris, rize, sindirgi, trabzon
 
 async def basla():
     # Her şehir için ayrı try-catch blokları
@@ -20,6 +20,11 @@ async def basla():
         await caycuma.basla()
     except Exception as e:
         print(f"[HATA] Caycuma: {e}")
+    
+    try:
+        await cayirova.basla()
+    except Exception as e:
+        print(f"[HATA] Çayırova: {e}")
     
     try:
         await denizli.basla()
