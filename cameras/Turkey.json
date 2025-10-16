@@ -1410,14 +1410,6 @@
         "url": "https://cdn-ipkamera.yayin.com.tr/marmarisbel/kordon2/playlist.m3u8"
       },
       {
-        "description": "Meydan",
-        "encoding": "H.264",
-        "format": "M3U8",
-        "latitude": 36.8548726,
-        "longitude": 28.2704334,
-        "url": "https://cdn-ipkamera.yayin.com.tr/marmarisbel/meydan/playlist.m3u8"
-      },
-      {
         "description": "İçmeler",
         "encoding": "H.264",
         "format": "M3U8",
