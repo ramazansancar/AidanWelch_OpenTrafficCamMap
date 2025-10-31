@@ -698,6 +698,14 @@
         "url": "https://camstream.kahramanmaras.bel.tr/live/ulucami.stream/playlist.m3u8"
       },
       {
+        "description": "YEDİKUYULAR KAYAK MERKEZİ",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.64478769999999,
+        "longitude": 37.0371653,
+        "url": "https://camstream.kahramanmaras.bel.tr/live/yedikuyular.stream/playlist.m3u8"
+      },
+      {
         "description": "TAVŞANTEPE KAVŞAĞI",
         "encoding": "H.264",
         "format": "M3U8",
@@ -795,7 +803,7 @@
         "format": "M3U8",
         "latitude": 40.82724904305259,
         "longitude": 29.380336434999883,
-        "url": "https://frn.rtsp.me/vjW6xf6Uqpie4j0x3sFDfg/1636813507/hls/9y87kNiF.m3u8"
+        "url": "https://68fff5bda7416.streamlock.net:443/live/cayirova10/playlist.m3u8?DVR"
       },
       {
         "description": "Açelya Parkı (cayirova11)",
@@ -803,7 +811,7 @@
         "format": "M3U8",
         "latitude": 40.82866714375624,
         "longitude": 29.409776077819267,
-        "url": "https://frn.rtsp.me/vjW6xf6Uqpie4j0x3sFDfg/1636813507/hls/N4KYz2n2.m3u8"
+        "url": "https://68fff5bda7416.streamlock.net:443/live/cayirova11/playlist.m3u8?DVR"
       },
       {
         "description": "Ahmet Penbegüllü Parkı (cayirova23)",
@@ -811,7 +819,7 @@
         "format": "M3U8",
         "latitude": 40.82000186412855,
         "longitude": 29.367751905272296,
-        "url": "https://frn.rtsp.me/vjW6xf6Uqpie4j0x3sFDfg/1636813507/hls/d2aiABS2.m3u8"
+        "url": "https://68fff5bda7416.streamlock.net:443/live/cayirova23/playlist.m3u8?DVR"
       },
       {
         "description": "Akasya Parkı 01 - 1 (cayirova25)",
@@ -819,7 +827,7 @@
         "format": "M3U8",
         "latitude": 40.82098092341811,
         "longitude": 29.402715654791436,
-        "url": "https://frn.rtsp.me/vjW6xf6Uqpie4j0x3sFDfg/1636813507/hls/3arQdR7h.m3u8"
+        "url": "https://68fff5bda7416.streamlock.net:443/live/cayirova25/playlist.m3u8?DVR"
       },
       {
         "description": "Akasya Parkı 01 - 2 (cayirova19)",
@@ -827,7 +835,7 @@
         "format": "M3U8",
         "latitude": 40.82098092341811,
         "longitude": 29.402815654791436,
-        "url": "https://frn.rtsp.me/vjW6xf6Uqpie4j0x3sFDfg/1636813507/hls/ZsesQykh.m3u8"
+        "url": "https://68fff5bda7416.streamlock.net:443/live/cayirova19/playlist.m3u8?DVR"
       },
       {
         "description": "Akse Huzur Parkı 01 - 1 (cayirova15)",
@@ -835,7 +843,7 @@
         "format": "M3U8",
         "latitude": 40.83069037379119,
         "longitude": 29.395566654906414,
-        "url": "https://frn.rtsp.me/vjW6xf6Uqpie4j0x3sFDfg/1636813507/hls/Zt5R6yfT.m3u8"
+        "url": "https://68fff5bda7416.streamlock.net:443/live/cayirova15/playlist.m3u8?DVR"
       },
       {
         "description": "Akse Huzur Parkı 01 - 2 (cayirova22)",
@@ -843,7 +851,7 @@
         "format": "M3U8",
         "latitude": 40.83069037379119,
         "longitude": 29.395666654906414,
-        "url": "https://frn.rtsp.me/vjW6xf6Uqpie4j0x3sFDfg/1636813507/hls/QZBKyNSD.m3u8"
+        "url": "https://68fff5bda7416.streamlock.net:443/live/cayirova22/playlist.m3u8?DVR"
       },
       {
         "description": "Akse Semt Meydanı (cayirova8)",
@@ -851,7 +859,7 @@
         "format": "M3U8",
         "latitude": 40.83534006324676,
         "longitude": 29.40092547682407,
-        "url": "https://frn.rtsp.me/vjW6xf6Uqpie4j0x3sFDfg/1636813507/hls/EdyHERGY.m3u8"
+        "url": "https://68fff5bda7416.streamlock.net:443/live/cayirova8/playlist.m3u8?DVR"
       },
       {
         "description": "Aşık Mahzuni Şerif Parkı 01 - 1 (cayirova26)",
@@ -859,7 +867,7 @@
         "format": "M3U8",
         "latitude": 40.821247210380925,
         "longitude": 29.392030638659314,
-        "url": "https://frn.rtsp.me/vjW6xf6Uqpie4j0x3sFDfg/1636813507/hls/Gtb6ArBs.m3u8"
+        "url": "https://68fff5bda7416.streamlock.net:443/live/cayirova26/playlist.m3u8?DVR"
       },
       {
         "description": "Aşık Mahzuni Şerif Parkı 01 - 2 (cayirova20)",
@@ -867,7 +875,7 @@
         "format": "M3U8",
         "latitude": 40.821247210380925,
         "longitude": 29.392130638659314,
-        "url": "https://frn.rtsp.me/vjW6xf6Uqpie4j0x3sFDfg/1636813507/hls/SDHaYrtB.m3u8"
+        "url": "https://68fff5bda7416.streamlock.net:443/live/cayirova20/playlist.m3u8?DVR"
       },
       {
         "description": "Bağlar Parkı (cayirova5)",
@@ -875,7 +883,7 @@
         "format": "M3U8",
         "latitude": 40.82930906807618,
         "longitude": 29.373433256754016,
-        "url": "https://frn.rtsp.me/vjW6xf6Uqpie4j0x3sFDfg/1636813507/hls/T2RRRHk5.m3u8"
+        "url": "https://68fff5bda7416.streamlock.net:443/live/cayirova5/playlist.m3u8?DVR"
       },
       {
         "description": "Çayırova Gençlik Parkı 01 - 1 (cayirova27)",
@@ -883,7 +891,7 @@
         "format": "M3U8",
         "latitude": 40.86273000488585,
         "longitude": 29.368100568044593,
-        "url": "https://frn.rtsp.me/vjW6xf6Uqpie4j0x3sFDfg/1636813507/hls/ZhaEnrHB.m3u8"
+        "url": "https://68fff5bda7416.streamlock.net:443/live/cayirova27/playlist.m3u8?DVR"
       },
       {
         "description": "Çayırova Gençlik Parkı 01 - 2 (cayirova28)",
@@ -891,7 +899,7 @@
         "format": "M3U8",
         "latitude": 40.86273000488585,
         "longitude": 29.368200568044593,
-        "url": "https://frn.rtsp.me/vjW6xf6Uqpie4j0x3sFDfg/1636813507/hls/NQtH9bbT.m3u8"
+        "url": "https://68fff5bda7416.streamlock.net:443/live/cayirova28/playlist.m3u8?DVR"
       },
       {
         "description": "Çayırova Gençlik Parkı 01 - 3 (cayirova29)",
@@ -899,7 +907,7 @@
         "format": "M3U8",
         "latitude": 40.86273000488585,
         "longitude": 29.368300568044592,
-        "url": "https://frn.rtsp.me/vjW6xf6Uqpie4j0x3sFDfg/1636813507/hls/bTf5YaQS.m3u8"
+        "url": "https://68fff5bda7416.streamlock.net:443/live/cayirova29/playlist.m3u8?DVR"
       },
       {
         "description": "Çayırova Gençlik Parkı 01 - 4 (cayirova21)",
@@ -907,7 +915,7 @@
         "format": "M3U8",
         "latitude": 40.86273000488585,
         "longitude": 29.368400568044592,
-        "url": "https://frn.rtsp.me/vjW6xf6Uqpie4j0x3sFDfg/1636813507/hls/GtGs7szk.m3u8"
+        "url": "https://68fff5bda7416.streamlock.net:443/live/cayirova21/playlist.m3u8?DVR"
       },
       {
         "description": "Cezeri Parkı (cayirova13)",
@@ -915,7 +923,7 @@
         "format": "M3U8",
         "latitude": 40.822918316632276,
         "longitude": 29.411492688385398,
-        "url": "https://frn.rtsp.me/vjW6xf6Uqpie4j0x3sFDfg/1636813507/hls/skbNBEz6.m3u8"
+        "url": "https://68fff5bda7416.streamlock.net:443/live/cayirova13/playlist.m3u8?DVR"
       },
       {
         "description": "Cumhuriyet Çocuk Parkı (cayirova9)",
@@ -923,7 +931,7 @@
         "format": "M3U8",
         "latitude": 40.86021298414202,
         "longitude": 29.36750151775768,
-        "url": "https://frn.rtsp.me/vjW6xf6Uqpie4j0x3sFDfg/1636813507/hls/523GQazR.m3u8"
+        "url": "https://68fff5bda7416.streamlock.net:443/live/cayirova9/playlist.m3u8?DVR"
       },
       {
         "description": "Ege Çocuk Parkı 01 - 1 (cayirova30)",
@@ -931,7 +939,7 @@
         "format": "M3U8",
         "latitude": 40.8572859580861,
         "longitude": 29.36668972607204,
-        "url": "https://frn.rtsp.me/vjW6xf6Uqpie4j0x3sFDfg/1636813507/hls/BFZT6EQR.m3u8"
+        "url": "https://68fff5bda7416.streamlock.net:443/live/cayirova30/playlist.m3u8?DVR"
       },
       {
         "description": "Ege Çocuk Parkı 01 - 2 (cayirova31)",
@@ -939,7 +947,7 @@
         "format": "M3U8",
         "latitude": 40.8572859580861,
         "longitude": 29.36678972607204,
-        "url": "https://frn.rtsp.me/vjW6xf6Uqpie4j0x3sFDfg/1636813507/hls/DGnFeBhS.m3u8"
+        "url": "https://68fff5bda7416.streamlock.net:443/live/cayirova31/playlist.m3u8?DVR"
       },
       {
         "description": "Güzeltepe Parkı - 1 (cayirova24)",
@@ -947,7 +955,7 @@
         "format": "M3U8",
         "latitude": 40.826542084964565,
         "longitude": 29.389503283741664,
-        "url": "https://frn.rtsp.me/vjW6xf6Uqpie4j0x3sFDfg/1636813507/hls/AzFAKEa7.m3u8"
+        "url": "https://68fff5bda7416.streamlock.net:443/live/cayirova24/playlist.m3u8?DVR"
       },
       {
         "description": "Güzeltepe Parkı - 2 (cayirova17)",
@@ -955,7 +963,7 @@
         "format": "M3U8",
         "latitude": 40.826542084964565,
         "longitude": 29.389603283741664,
-        "url": "https://frn.rtsp.me/vjW6xf6Uqpie4j0x3sFDfg/1636813507/hls/eR848Hae.m3u8"
+        "url": "https://68fff5bda7416.streamlock.net:443/live/cayirova17/playlist.m3u8?DVR"
       },
       {
         "description": "Güzeltepe Parkı - 3 (cayirova17)",
@@ -963,7 +971,7 @@
         "format": "M3U8",
         "latitude": 40.826542084964565,
         "longitude": 29.389703283741664,
-        "url": "https://frn.rtsp.me/vjW6xf6Uqpie4j0x3sFDfg/1636813507/hls/eR848Hae.m3u8"
+        "url": "https://68fff5bda7416.streamlock.net:443/live/cayirova17/playlist.m3u8?DVR"
       },
       {
         "description": "Muhsin Yazıcıoğlu Parkı 01 - 1 (kb2rHbQ2)",
@@ -979,7 +987,7 @@
         "format": "M3U8",
         "latitude": 40.83821720246098,
         "longitude": 29.392558912577538,
-        "url": "https://frn.rtsp.me/vjW6xf6Uqpie4j0x3sFDfg/1636813507/hls/HRse9G6e.m3u8"
+        "url": "https://68fff5bda7416.streamlock.net:443/live/cayirova32/playlist.m3u8?DVR"
       },
       {
         "description": "Muhsin Yazıcıoğlu Parkı 01 - 3 (cayirova33)",
@@ -987,7 +995,7 @@
         "format": "M3U8",
         "latitude": 40.83821720246098,
         "longitude": 29.392658912577538,
-        "url": "https://frn.rtsp.me/vjW6xf6Uqpie4j0x3sFDfg/1636813507/hls/RitAtkkb.m3u8"
+        "url": "https://68fff5bda7416.streamlock.net:443/live/cayirova33/playlist.m3u8?DVR"
       },
       {
         "description": "Muhsin Yazıcıoğlu Parkı 01 - 4 (cayirova34)",
@@ -995,7 +1003,7 @@
         "format": "M3U8",
         "latitude": 40.83821720246098,
         "longitude": 29.392758912577538,
-        "url": "https://frn.rtsp.me/vjW6xf6Uqpie4j0x3sFDfg/1636813507/hls/N3SF3KTR.m3u8"
+        "url": "https://68fff5bda7416.streamlock.net:443/live/cayirova34/playlist.m3u8?DVR"
       },
       {
         "description": "Özdemir Marangoz Parkı (Qsd4dGbT)",
@@ -1011,7 +1019,7 @@
         "format": "M3U8",
         "latitude": 40.83300299693735,
         "longitude": 29.378279183741892,
-        "url": "https://frn.rtsp.me/vjW6xf6Uqpie4j0x3sFDfg/1636813507/hls/NDKT5ANT.m3u8"
+        "url": "https://68fff5bda7416.streamlock.net:443/live/cayirova18/playlist.m3u8?DVR"
       }
     ]
   },
