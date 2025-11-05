@@ -974,14 +974,6 @@
         "url": "https://68fff5bda7416.streamlock.net:443/live/cayirova17/playlist.m3u8?DVR"
       },
       {
-        "description": "Muhsin Yazıcıoğlu Parkı 01 - 1 (kb2rHbQ2)",
-        "encoding": "H.264",
-        "format": "M3U8",
-        "latitude": 40.83821720246098,
-        "longitude": 29.39245891257754,
-        "url": "https://spb.rtsp.me/T7L10HsGoAV6oQ5Ac-lqvg/1762199706/hls/kb2rHbQ2.m3u8"
-      },
-      {
         "description": "Muhsin Yazıcıoğlu Parkı 01 - 2 (cayirova32)",
         "encoding": "H.264",
         "format": "M3U8",
@@ -1004,14 +996,6 @@
         "latitude": 40.83821720246098,
         "longitude": 29.392758912577538,
         "url": "https://68fff5bda7416.streamlock.net:443/live/cayirova34/playlist.m3u8?DVR"
-      },
-      {
-        "description": "Özdemir Marangoz Parkı (Qsd4dGbT)",
-        "encoding": "H.264",
-        "format": "M3U8",
-        "latitude": 40.826826313087714,
-        "longitude": 29.39182068284216,
-        "url": "https://spb.rtsp.me/T7L10HsGoAV6oQ5Ac-lqvg/1762199706/hls/Qsd4dGbT.m3u8"
       },
       {
         "description": "Seyit Onbaşı Parkı (cayirova18)",
@@ -1384,14 +1368,6 @@
         "latitude": 36.8516581,
         "longitude": 28.2662401,
         "url": "https://cdn-ipkamera.yayin.com.tr/marmarisbel/uzunyali/playlist.m3u8"
-      },
-      {
-        "description": "Atatürk Bulvarı",
-        "encoding": "H.264",
-        "format": "M3U8",
-        "latitude": 36.8769465,
-        "longitude": 28.2671015,
-        "url": "https://cdn-ipkamera.yayin.com.tr/marmarisbel/ataturk/playlist.m3u8"
       },
       {
         "description": "Kordon Caddesi 1",
