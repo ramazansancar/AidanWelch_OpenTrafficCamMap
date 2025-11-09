@@ -1494,6 +1494,14 @@
   "Trabzon": {
     "Belediye": [
       {
+        "description": "Değirmendere",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 40.9970149,
+        "longitude": 39.7434164,
+        "url": "https://cdn-ipkamera.yayin.com.tr/trabzonbeltr/degirmendere/playlist.m3u8"
+      },
+      {
         "description": "Boztepe Manzara",
         "encoding": "H.264",
         "format": "M3U8",
@@ -1542,12 +1550,28 @@
         "url": "https://cdn-ipkamera.yayin.com.tr/trabzonbeltr/ortahisar-2/playlist.m3u8"
       },
       {
+        "description": "Akyazı",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 40.992178,
+        "longitude": 39.6331289,
+        "url": "https://cdn-ipkamera.yayin.com.tr/trabzonbeltr/akyazi/playlist.m3u8"
+      },
+      {
         "description": "Oyuncakistan",
         "encoding": "H.264",
         "format": "M3U8",
         "latitude": 41.0036429,
         "longitude": 39.695121,
         "url": "https://cdn-ipkamera.yayin.com.tr/trabzonbeltr/oyuncakistan/playlist.m3u8"
+      },
+      {
+        "description": "Kanuni Evi",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.0047124,
+        "longitude": 39.71888819999999,
+        "url": "https://cdn-ipkamera.yayin.com.tr/trabzonbeltr/kanunievi/playlist.m3u8"
       },
       {
         "description": "Millet Bahçesi",
