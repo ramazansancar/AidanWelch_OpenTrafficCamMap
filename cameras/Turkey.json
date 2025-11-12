@@ -1370,6 +1370,14 @@
         "url": "https://cdn-ipkamera.yayin.com.tr/marmarisbel/uzunyali/playlist.m3u8"
       },
       {
+        "description": "Atatürk Bulvarı",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 36.8769465,
+        "longitude": 28.2671015,
+        "url": "https://cdn-ipkamera.yayin.com.tr/marmarisbel/ataturk/playlist.m3u8"
+      },
+      {
         "description": "Bozburun",
         "encoding": "H.264",
         "format": "M3U8",
