@@ -320,14 +320,6 @@
         "latitude": 39.2374622,
         "longitude": 28.1742303,
         "url": "https://cdn-ipkamera.yayin.com.tr/sindirgibel/belediye-meydan/playlist.m3u8"
-      },
-      {
-        "description": "Kültür Caddesi",
-        "encoding": "H.264",
-        "format": "M3U8",
-        "latitude": 39.2355264,
-        "longitude": 28.1770094,
-        "url": "https://cdn-ipkamera.yayin.com.tr/sindirgibel/belediye-arkasi/playlist.m3u8"
       }
     ]
   },
