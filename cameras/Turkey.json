@@ -1129,12 +1129,12 @@
   "Mugla": {
     "Marmaris": [
       {
-        "description": "Uzun Yalı",
+        "description": "Meydan",
         "encoding": "H.264",
         "format": "M3U8",
-        "latitude": 36.8516581,
-        "longitude": 28.2662401,
-        "url": "https://cdn-ipkamera.yayin.com.tr/marmarisbel/uzunyali/playlist.m3u8"
+        "latitude": 36.8548726,
+        "longitude": 28.2704334,
+        "url": "https://cdn-ipkamera.yayin.com.tr/marmarisbel/meydan/playlist.m3u8"
       },
       {
         "description": "Atatürk Bulvarı",
@@ -1145,12 +1145,12 @@
         "url": "https://cdn-ipkamera.yayin.com.tr/marmarisbel/ataturk/playlist.m3u8"
       },
       {
-        "description": "Meydan",
+        "description": "Uzun Yalı",
         "encoding": "H.264",
         "format": "M3U8",
-        "latitude": 36.8548726,
-        "longitude": 28.2704334,
-        "url": "https://cdn-ipkamera.yayin.com.tr/marmarisbel/meydan/playlist.m3u8"
+        "latitude": 36.8516581,
+        "longitude": 28.2662401,
+        "url": "https://cdn-ipkamera.yayin.com.tr/marmarisbel/uzunyali/playlist.m3u8"
       },
       {
         "description": "İçmeler",
