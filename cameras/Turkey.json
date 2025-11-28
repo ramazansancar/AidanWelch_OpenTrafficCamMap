@@ -208,6 +208,22 @@
         "url": "https://content.tvkur.com/l/cin6kl9aojt0t6459qmg/master.m3u8"
       },
       {
+        "description": "AKÇAY KORDON",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 39.580535,
+        "longitude": 26.9309968,
+        "url": "https://content.tvkur.com/l/cj69rf5052aveu3s8ls0/master.m3u8"
+      },
+      {
+        "description": "AKÇAY KORDON 2",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 39.580535,
+        "longitude": 26.9309968,
+        "url": "https://content.tvkur.com/l/cj69rut052aveu3s8ltg/master.m3u8"
+      },
+      {
         "description": "ALTINOLUK KORDON",
         "encoding": "H.264",
         "format": "M3U8",
