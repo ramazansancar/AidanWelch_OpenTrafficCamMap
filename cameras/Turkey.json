@@ -1161,6 +1161,14 @@
         "url": "https://cdn-ipkamera.yayin.com.tr/marmarisbel/ataturk/playlist.m3u8"
       },
       {
+        "description": "Kordon Caddesi 1",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 36.8528597,
+        "longitude": 28.2717698,
+        "url": "https://cdn-ipkamera.yayin.com.tr/marmarisbel/kordon1/playlist.m3u8"
+      },
+      {
         "description": "Uzun Yalı",
         "encoding": "H.264",
         "format": "M3U8",
