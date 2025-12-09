@@ -682,22 +682,6 @@
         "url": "https://camstream.kahramanmaras.bel.tr/live/selale.stream/playlist.m3u8"
       },
       {
-        "description": "Ulucami",
-        "encoding": "H.264",
-        "format": "M3U8",
-        "latitude": 37.5844729,
-        "longitude": 36.9269161,
-        "url": "https://camstream.kahramanmaras.bel.tr/live/ulucami.stream/playlist.m3u8"
-      },
-      {
-        "description": "YEDİKUYULAR KAYAK MERKEZİ",
-        "encoding": "H.264",
-        "format": "M3U8",
-        "latitude": 37.64478769999999,
-        "longitude": 37.0371653,
-        "url": "https://camstream.kahramanmaras.bel.tr/live/yedikuyular.stream/playlist.m3u8"
-      },
-      {
         "description": "TAVŞANTEPE KAVŞAĞI",
         "encoding": "H.264",
         "format": "M3U8",
