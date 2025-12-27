@@ -1099,32 +1099,7 @@
     ]
   },
   "Kutahya": {
-    "Belediye": [
-      {
-        "description": "Laleli",
-        "encoding": "H.264",
-        "format": "M3U8",
-        "latitude": 39.42733399999999,
-        "longitude": 29.9641107,
-        "url": "https://kamera.kutahya.bel.tr/hls/laleli_kavsak/index.m3u8"
-      },
-      {
-        "description": "Laleli Belediye",
-        "encoding": "H.264",
-        "format": "M3U8",
-        "latitude": 39.4241717,
-        "longitude": 29.9900156,
-        "url": "https://kamera.kutahya.bel.tr/hls/laleli_belediye/index.m3u8"
-      },
-      {
-        "description": "Belediye Binası",
-        "encoding": "H.264",
-        "format": "M3U8",
-        "latitude": 39.4260235,
-        "longitude": 29.9897072,
-        "url": "https://kamera.kutahya.bel.tr/hls/belediye_onu/index.m3u8"
-      }
-    ]
+    "Belediye": []
   },
   "Mugla": {
     "Marmaris": [
