@@ -663,7 +663,7 @@
         "format": "M3U8",
         "latitude": 37.5821636,
         "longitude": 36.9288421,
-        "url": "https://camstream.kahramanmaras.bel.tr/live/kapalicarsi4.stream/playlist.m3u8"
+        "url": "https://camstream.kahramanmaras.bel.tr/live/kapalicarsi3.stream/playlist.m3u8"
       },
       {
         "description": "Malik Ejder",
@@ -682,6 +682,46 @@
         "url": "https://camstream.kahramanmaras.bel.tr/live/selale.stream/playlist.m3u8"
       },
       {
+        "description": "M.Akif Kültür Merkezi",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.5855907,
+        "longitude": 36.9225458,
+        "url": "https://camstream.kahramanmaras.bel.tr/live/mehmetakif.stream/playlist.m3u8"
+      },
+      {
+        "description": "Teras 1",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.622246,
+        "longitude": 36.8965505,
+        "url": "https://camstream.kahramanmaras.bel.tr/live/terasdogu.stream/playlist.m3u8"
+      },
+      {
+        "description": "Teras 2",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.622246,
+        "longitude": 36.8965505,
+        "url": "https://camstream.kahramanmaras.bel.tr/live/terasbati.stream/playlist.m3u8"
+      },
+      {
+        "description": "Tekir",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.88247399999999,
+        "longitude": 36.620436,
+        "url": "https://camstream.kahramanmaras.bel.tr/live/tekir.stream/playlist.m3u8"
+      },
+      {
+        "description": "Dulkadiroğlu",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.6452813,
+        "longitude": 37.0400339,
+        "url": "https://camstream.kahramanmaras.bel.tr/live/pekeller.stream/playlist.m3u8"
+      },
+      {
         "description": "YEDİKUYULAR KAYAK MERKEZİ",
         "encoding": "H.264",
         "format": "M3U8",
@@ -696,14 +736,6 @@
         "latitude": 37.597767,
         "longitude": 36.898244,
         "url": "https://camstream.kahramanmaras.bel.tr/live/tavsantepe.stream/playlist.m3u8"
-      },
-      {
-        "description": "EXPO",
-        "encoding": "H.264",
-        "format": "M3U8",
-        "latitude": 37.6046241,
-        "longitude": 36.7837829,
-        "url": "https://camstream.kahramanmaras.bel.tr/live/expo.stream/playlist.m3u8"
       },
       {
         "description": "AFŞİN",
@@ -730,12 +762,20 @@
         "url": "https://camstream.kahramanmaras.bel.tr/live/caglayan-cerit.stream/playlist.m3u8"
       },
       {
-        "description": "ELBİSTAN BELEDİYE",
+        "description": "ELBİSTAN",
         "encoding": "H.264",
         "format": "M3U8",
         "latitude": 38.206537,
         "longitude": 37.193076,
         "url": "https://camstream.kahramanmaras.bel.tr/live/elbistan-belediye.stream/playlist.m3u8"
+      },
+      {
+        "description": "Elbistan Giriş",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 36.14207255403557,
+        "longitude": 31.208844678148807,
+        "url": "https://camstream.kahramanmaras.bel.tr/live/elbistanbattalgazi.stream/playlist.m3u8"
       },
       {
         "description": "EKİNÖZÜ",
@@ -746,11 +786,11 @@
         "url": "https://camstream.kahramanmaras.bel.tr/live/ekinozu.stream/playlist.m3u8"
       },
       {
-        "description": "GÖKSUN MEYDAN",
+        "description": "GÖKSUN ",
         "encoding": "H.264",
         "format": "M3U8",
-        "latitude": 38.0218229,
-        "longitude": 36.4989217,
+        "latitude": 38.020382,
+        "longitude": 36.494869,
         "url": "https://camstream.kahramanmaras.bel.tr/live/goksun.stream/playlist.m3u8"
       },
       {
@@ -762,7 +802,7 @@
         "url": "https://camstream.kahramanmaras.bel.tr/live/nurhak.stream/playlist.m3u8"
       },
       {
-        "description": "PAZARCIK MEYDAN",
+        "description": "PAZARCIK ",
         "encoding": "H.264",
         "format": "M3U8",
         "latitude": 37.489462,
