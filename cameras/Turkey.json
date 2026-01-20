@@ -272,16 +272,7 @@
         "url": "https://content.tvkur.com/l/csi7r0um756c73a4lk90/master.m3u8"
       }
     ],
-    "Sındırgı": [
-      {
-        "description": "Cumhuriyet Meydanı",
-        "encoding": "H.264",
-        "format": "M3U8",
-        "latitude": 39.2374622,
-        "longitude": 28.1742303,
-        "url": "https://cdn-ipkamera.yayin.com.tr/sindirgibel/belediye-meydan/playlist.m3u8"
-      }
-    ]
+    "Sındırgı": []
   },
   "Bursa": {
     "Karacabey": [
