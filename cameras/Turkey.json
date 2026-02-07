@@ -1126,6 +1126,14 @@
         "latitude": 36.802391,
         "longitude": 28.224899,
         "url": "https://cdn-ipkamera.yayin.com.tr/marmarisbel/icmeler/playlist.m3u8"
+      },
+      {
+        "description": "Bozburun",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 36.683674,
+        "longitude": 28.0631193,
+        "url": "https://cdn-ipkamera.yayin.com.tr/marmarisbel/bozburun/playlist.m3u8"
       }
     ]
   },
