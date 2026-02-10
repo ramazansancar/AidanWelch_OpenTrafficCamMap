@@ -254,34 +254,9 @@
         "latitude": 39.5975694,
         "longitude": 28.625831,
         "url": "https://content.tvkur.com/l/csi8noem756c73a4m7p0/master.m3u8"
-      },
-      {
-        "description": "İVRİNDİ MEYDAN 1",
-        "encoding": "H.264",
-        "format": "M3U8",
-        "latitude": 39.582007,
-        "longitude": 27.485384,
-        "url": "https://content.tvkur.com/l/csi7rpum756c73a4lkug/master.m3u8"
-      },
-      {
-        "description": "iVRİNDİ MEYDAN 2",
-        "encoding": "H.264",
-        "format": "M3U8",
-        "latitude": 39.582007,
-        "longitude": 27.485384,
-        "url": "https://content.tvkur.com/l/csi7r0um756c73a4lk90/master.m3u8"
       }
     ],
-    "Sındırgı": [
-      {
-        "description": "Cumhuriyet Meydanı",
-        "encoding": "H.264",
-        "format": "M3U8",
-        "latitude": 39.2374622,
-        "longitude": 28.1742303,
-        "url": "https://cdn-ipkamera.yayin.com.tr/sindirgibel/belediye-meydan/playlist.m3u8"
-      }
-    ]
+    "Sındırgı": []
   },
   "Bursa": {
     "Karacabey": [
@@ -542,14 +517,6 @@
   "Giresun": {
     "Belediye": [
       {
-        "description": "Atatürk Meydanı",
-        "encoding": "H.264",
-        "format": "M3U8",
-        "latitude": 40.917458,
-        "longitude": 38.383745,
-        "url": "https://cdn-ipkamera.yayin.com.tr/giresunbel/meydan/playlist.m3u8"
-      },
-      {
         "description": "Giresun Kalesi",
         "encoding": "H.264",
         "format": "M3U8",
@@ -580,14 +547,6 @@
         "latitude": 40.9173923,
         "longitude": 38.32113409999999,
         "url": "https://cdn-ipkamera.yayin.com.tr/giresunbel/universite/playlist.m3u8"
-      },
-      {
-        "description": "BotanikPark",
-        "encoding": "H.264",
-        "format": "M3U8",
-        "latitude": 40.9151964,
-        "longitude": 38.4022453,
-        "url": "https://cdn-ipkamera.yayin.com.tr/giresunbel/botanik/playlist.m3u8"
       }
     ]
   },
