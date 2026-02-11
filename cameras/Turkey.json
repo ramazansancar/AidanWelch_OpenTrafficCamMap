@@ -216,14 +216,6 @@
         "url": "https://content.tvkur.com/l/cvhq821pkpqs739cm6u0/master.m3u8"
       },
       {
-        "description": "ALTINKUM SKATE PARK",
-        "encoding": "H.264",
-        "format": "M3U8",
-        "latitude": 39.5639942,
-        "longitude": 26.9486893,
-        "url": "https://content.tvkur.com/l/cr1j8fhpkpqs73a5rgpg/master.m3u8"
-      },
-      {
         "description": "ATATÜRK ANITI",
         "encoding": "H.264",
         "format": "M3U8",
@@ -703,14 +695,6 @@
         "latitude": 37.9656329,
         "longitude": 37.44744499999999,
         "url": "https://camstream.kahramanmaras.bel.tr/live/nurhak.stream/playlist.m3u8"
-      },
-      {
-        "description": "PAZARCIK ",
-        "encoding": "H.264",
-        "format": "M3U8",
-        "latitude": 37.489462,
-        "longitude": 37.293574,
-        "url": "https://camstream.kahramanmaras.bel.tr/live/pazarcik.stream/playlist.m3u8"
       },
       {
         "description": "TÜRKOĞLU",
