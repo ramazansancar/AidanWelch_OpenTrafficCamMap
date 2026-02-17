@@ -585,30 +585,6 @@
         "url": "https://camstream.kahramanmaras.bel.tr/live/bogazici.stream/playlist.m3u8"
       },
       {
-        "description": "Kapalı Çarşı 1",
-        "encoding": "H.264",
-        "format": "M3U8",
-        "latitude": 37.5821636,
-        "longitude": 36.9288421,
-        "url": "https://camstream.kahramanmaras.bel.tr/live/kapalicarsi1.stream/playlist.m3u8"
-      },
-      {
-        "description": "Kapalı Çarşı 2",
-        "encoding": "H.264",
-        "format": "M3U8",
-        "latitude": 37.5821636,
-        "longitude": 36.9288421,
-        "url": "https://camstream.kahramanmaras.bel.tr/live/kapalicarsi2.stream/playlist.m3u8"
-      },
-      {
-        "description": "Kapalı Çarşı 3",
-        "encoding": "H.264",
-        "format": "M3U8",
-        "latitude": 37.5821636,
-        "longitude": 36.9288421,
-        "url": "https://camstream.kahramanmaras.bel.tr/live/kapalicarsi3.stream/playlist.m3u8"
-      },
-      {
         "description": "Malik Ejder",
         "encoding": "H.264",
         "format": "M3U8",
@@ -695,14 +671,6 @@
         "latitude": 38.206537,
         "longitude": 37.193076,
         "url": "https://camstream.kahramanmaras.bel.tr/live/elbistan-belediye.stream/playlist.m3u8"
-      },
-      {
-        "description": "Elbistan Giriş",
-        "encoding": "H.264",
-        "format": "M3U8",
-        "latitude": 36.14207255403557,
-        "longitude": 31.208844678148807,
-        "url": "https://camstream.kahramanmaras.bel.tr/live/elbistanbattalgazi.stream/playlist.m3u8"
       },
       {
         "description": "EKİNÖZÜ",
