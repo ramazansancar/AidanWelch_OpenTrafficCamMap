@@ -216,14 +216,6 @@
         "url": "https://content.tvkur.com/l/cvhq821pkpqs739cm6u0/master.m3u8"
       },
       {
-        "description": "ALTINKUM SKATE PARK",
-        "encoding": "H.264",
-        "format": "M3U8",
-        "latitude": 39.5639942,
-        "longitude": 26.9486893,
-        "url": "https://content.tvkur.com/l/cr1j8fhpkpqs73a5rgpg/master.m3u8"
-      },
-      {
         "description": "ATATÜRK ANITI",
         "encoding": "H.264",
         "format": "M3U8",
@@ -254,22 +246,6 @@
         "latitude": 39.5975694,
         "longitude": 28.625831,
         "url": "https://content.tvkur.com/l/csi8noem756c73a4m7p0/master.m3u8"
-      },
-      {
-        "description": "İVRİNDİ MEYDAN 1",
-        "encoding": "H.264",
-        "format": "M3U8",
-        "latitude": 39.582007,
-        "longitude": 27.485384,
-        "url": "https://content.tvkur.com/l/csi7rpum756c73a4lkug/master.m3u8"
-      },
-      {
-        "description": "iVRİNDİ MEYDAN 2",
-        "encoding": "H.264",
-        "format": "M3U8",
-        "latitude": 39.582007,
-        "longitude": 27.485384,
-        "url": "https://content.tvkur.com/l/csi7r0um756c73a4lk90/master.m3u8"
       },
       {
         "description": "BURHANİYE MEYDAN",
