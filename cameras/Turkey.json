@@ -272,7 +272,24 @@
         "url": "https://content.tvkur.com/l/d4k1t2iescpc73f37n3g/master.m3u8"
       }
     ],
-    "Sındırgı": []
+    "Sındırgı": [
+      {
+        "description": "Cumhuriyet Meydanı",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 39.2374622,
+        "longitude": 28.1742303,
+        "url": "https://cdn-ipkamera.yayin.com.tr/sindirgibel/belediye-meydan/playlist.m3u8"
+      },
+      {
+        "description": "Balıkesir Caddesi",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 39.2471656,
+        "longitude": 28.1767649,
+        "url": "https://cdn-ipkamera.yayin.com.tr/sindirgibel/balikesir-caddesi/playlist.m3u8"
+      }
+    ]
   },
   "Bursa": {
     "Karacabey": [
@@ -1045,14 +1062,6 @@
         "latitude": 36.8769465,
         "longitude": 28.2671015,
         "url": "https://cdn-ipkamera.yayin.com.tr/marmarisbel/ataturk/playlist.m3u8"
-      },
-      {
-        "description": "Uzun Yalı",
-        "encoding": "H.264",
-        "format": "M3U8",
-        "latitude": 36.8516581,
-        "longitude": 28.2662401,
-        "url": "https://cdn-ipkamera.yayin.com.tr/marmarisbel/uzunyali/playlist.m3u8"
       },
       {
         "description": "İçmeler",
