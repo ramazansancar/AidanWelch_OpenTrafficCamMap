@@ -160,6 +160,14 @@
         "url": "https://content.tvkur.com/l/cin84c1aojt0t6459thg/master.m3u8"
       },
       {
+        "description": "ALTINKUM PLAJI",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 39.571107,
+        "longitude": 26.9407181,
+        "url": "https://content.tvkur.com/l/cin6kl9aojt0t6459qmg/master.m3u8"
+      },
+      {
         "description": "AKÇAY KORDON",
         "encoding": "H.264",
         "format": "M3U8",
@@ -573,6 +581,14 @@
   },
   "Giresun": {
     "Belediye": [
+      {
+        "description": "Atatürk Meydanı",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 40.917458,
+        "longitude": 38.383745,
+        "url": "https://cdn-ipkamera.yayin.com.tr/giresunbel/meydan/playlist.m3u8"
+      },
       {
         "description": "Giresun Kalesi",
         "encoding": "H.264",
