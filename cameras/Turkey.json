@@ -1334,6 +1334,14 @@
         "latitude": 41.427343,
         "longitude": 32.072631,
         "url": "https://cdn-ipkamera.yayin.com.tr/caycumabeltr/ataturkbulvari/playlist.m3u8"
+      },
+      {
+        "description": "Sarıkaş Yaya Köprüsü",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.41569510000001,
+        "longitude": 32.0852305,
+        "url": "https://cdn-ipkamera.yayin.com.tr/caycumabeltr/sarikas/playlist.m3u8"
       }
     ]
   },
