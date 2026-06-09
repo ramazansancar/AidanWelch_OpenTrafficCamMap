@@ -88,14 +88,6 @@
         "url": "https://content.tvkur.com/l/cisjnt1aojt2lfp2k5q0/master.m3u8"
       },
       {
-        "description": "BANDIRMA SAHİL",
-        "encoding": "H.264",
-        "format": "M3U8",
-        "latitude": 40.3587974,
-        "longitude": 27.9703586,
-        "url": "https://content.tvkur.com/l/cukr879pkpqs739bkabg/master.m3u8"
-      },
-      {
         "description": "ZAĞNOS PAŞA CAMİ",
         "encoding": "H.264",
         "format": "M3U8",
@@ -254,14 +246,6 @@
         "latitude": 39.582007,
         "longitude": 27.485384,
         "url": "https://content.tvkur.com/l/csi7r0um756c73a4lk90/master.m3u8"
-      },
-      {
-        "description": "BURHANİYE MEYDAN",
-        "encoding": "H.264",
-        "format": "M3U8",
-        "latitude": 39.5026851,
-        "longitude": 26.9801795,
-        "url": "https://content.tvkur.com/l/d4k1t2iescpc73f37n3g/master.m3u8"
       },
       {
         "description": "BALYA MEYDAN",
