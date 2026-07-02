@@ -441,6 +441,14 @@
         "url": "https://camstream.kahramanmaras.bel.tr/live/malik-ejder.stream/playlist.m3u8"
       },
       {
+        "description": "Şelale Kavşağı",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.5769093,
+        "longitude": 36.9310405,
+        "url": "https://camstream.kahramanmaras.bel.tr/live/selale.stream/playlist.m3u8"
+      },
+      {
         "description": "M.Akif Kültür Merkezi",
         "encoding": "H.264",
         "format": "M3U8",
@@ -519,6 +527,14 @@
         "latitude": 38.206537,
         "longitude": 37.193076,
         "url": "https://camstream.kahramanmaras.bel.tr/live/elbistan-belediye.stream/playlist.m3u8"
+      },
+      {
+        "description": "Elbistan Giriş",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 36.14207255403557,
+        "longitude": 31.208844678148807,
+        "url": "https://camstream.kahramanmaras.bel.tr/live/elbistanbattalgazi.stream/playlist.m3u8"
       },
       {
         "description": "EKİNÖZÜ",
