@@ -114,6 +114,18 @@
       }
     ]
   },
+  "Burdur": {
+    "Yeşilova": [
+      {
+        "description": "Salda Gölü",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.547,
+        "longitude": 29.679,
+        "url": "https://5a1178b42cc03.streamlock.net:443/salda-golu-2/salda_golu_2.stream/playlist.m3u8"
+      }
+    ]
+  },
   "Bursa": {
     "Karacabey": [
       {
@@ -915,6 +927,16 @@
         "longitude": 34.7152248,
         "url": "https://belsis.nevsehir.bel.tr/hls/live/heor20srsBQxVUDpcshHHCdk/index.m3u8"
       }
+    ],
+    "Uçhisar": [
+      {
+        "description": "Uçhisar Kalesi",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 38.6297,
+        "longitude": 34.8053,
+        "url": "https://player.rade.com.tr/live/uchisar1.stream/playlist.m3u8"
+      }
     ]
   },
   "Rize": {
@@ -1050,6 +1072,26 @@
         "latitude": 41.34579799999999,
         "longitude": 36.261912,
         "url": "https://canli.samsun.bel.tr/sehirkameralari/cobanli-iskelesi/index.m3u8"
+      }
+    ]
+  },
+  "Sivas": {
+    "Zara": [
+      {
+        "description": "Zara Dörtyol",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 39.8953,
+        "longitude": 37.7522,
+        "url": "https://server.arvas.com.tr/dortyol.m3u8"
+      },
+      {
+        "description": "Zara Meydan",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 39.8961,
+        "longitude": 37.754,
+        "url": "https://server.arvas.com.tr/meydan.m3u8"
       }
     ]
   },

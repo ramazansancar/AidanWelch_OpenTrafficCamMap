@@ -3,10 +3,27 @@
 from json     import dumps, loads, load
 from httpx    import AsyncClient
 from datetime import datetime
-from os       import environ
+from os       import environ, path
+from ssl      import SSLContext, create_default_context
+from certifi  import where
 import re
+import ssl
 
 TURKEY_JSON = "../cameras/Turkey.json"
+
+# Bazı sunucular ara sertifikayı göndermiyor (eksik zincir); tarayıcılar bunu
+# AIA ile tamamlıyor, Python tamamlamıyor. Eksik ara sertifikalar bu dosyada.
+ARA_SERTIFIKALAR = path.join(path.dirname(path.abspath(__file__)), "ara_sertifikalar.pem")
+
+def ssl_baglami() -> SSLContext:
+    """certifi kökleri + ara_sertifikalar.pem. Doğrulama açık kalır."""
+    baglam = create_default_context(cafile=where())
+    baglam.load_verify_locations(cafile=ARA_SERTIFIKALAR)
+    # Ara sertifika tek başına güven çapası sayılmasın (Python 3.13+ varsayılanı açık):
+    # zincir yine certifi'deki bir köke bağlanmak zorunda.
+    if hasattr(ssl, "VERIFY_X509_PARTIAL_CHAIN"):
+        baglam.verify_flags &= ~ssl.VERIFY_X509_PARTIAL_CHAIN
+    return baglam
 
 class Konsol:
     """Kekik.cli.konsol (rich) yerine küçük çıktı yardımcısı.

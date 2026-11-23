@@ -1,24 +1,9 @@
 # Bu araç @keyiflerolsun tarafından | @KekikAkademi için yazılmıştır.
 
-from httpx     import AsyncClient, Timeout, get
+from httpx     import AsyncClient, Timeout
 from parsel    import Selector
 from re        import sub
-from ssl       import create_default_context
-from certifi   import where
-from helpers   import str2latlng, kaydet
-
-# Sunucu ara sertifikayı göndermiyor (eksik zincir). Ara sertifika, sertifikadaki
-# AIA adresinden alınıp güven deposuna eklenir; doğrulama açık kalır, zincir yine
-# certifi'deki köke bağlanmak zorunda.
-ARA_SERTIFIKA = "http://crt.sectigo.com/SectigoPublicServerAuthenticationCADVR36.crt"
-
-def ssl_baglami():
-    baglam = create_default_context(cafile=where())
-    try:
-        baglam.load_verify_locations(cadata=get(ARA_SERTIFIKA, timeout=15).content)
-    except Exception as hata:
-        print(f"[Nevşehir] Ara sertifika alınamadı: {hata}")
-    return baglam
+from helpers   import str2latlng, kaydet, ssl_baglami
 
 class Nevsehir:
     def __init__(self):
@@ -27,7 +12,7 @@ class Nevsehir:
         self.oturum       = AsyncClient(
             timeout          = Timeout(10, connect=10, read=5*60, write=10),
             follow_redirects = True,
-            verify           = ssl_baglami(),
+            verify           = ssl_baglami(),  # sunucu ara sertifikayı göndermiyor
             headers          = {"User-Agent": "Mozilla/5.0"}
         )
 
