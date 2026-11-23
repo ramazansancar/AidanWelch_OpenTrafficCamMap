@@ -117,7 +117,7 @@
   "Burdur": {
     "Yeşilova": [
       {
-        "description": "Salda Gölü",
+        "description": "Salda Gölü 2",
         "encoding": "H.264",
         "format": "M3U8",
         "latitude": 37.547,
@@ -930,11 +930,11 @@
     ],
     "Uçhisar": [
       {
-        "description": "Uçhisar Kalesi",
+        "description": "Uçhisar Merkez",
         "encoding": "H.264",
         "format": "M3U8",
-        "latitude": 38.6297,
-        "longitude": 34.8053,
+        "latitude": 38.6299062,
+        "longitude": 34.805403,
         "url": "https://player.rade.com.tr/live/uchisar1.stream/playlist.m3u8"
       }
     ]
@@ -1081,16 +1081,16 @@
         "description": "Zara Dörtyol",
         "encoding": "H.264",
         "format": "M3U8",
-        "latitude": 39.8953,
-        "longitude": 37.7522,
+        "latitude": 39.897214,
+        "longitude": 37.76046669999999,
         "url": "https://server.arvas.com.tr/dortyol.m3u8"
       },
       {
         "description": "Zara Meydan",
         "encoding": "H.264",
         "format": "M3U8",
-        "latitude": 39.8961,
-        "longitude": 37.754,
+        "latitude": 39.9013283,
+        "longitude": 37.76027819999999,
         "url": "https://server.arvas.com.tr/meydan.m3u8"
       }
     ]

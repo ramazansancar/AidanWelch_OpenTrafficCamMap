@@ -3,7 +3,7 @@
 from asyncio   import run
 from traceback import print_exc
 from helpers   import konsol
-from Turkey    import alanya, balikesir, bandirma, caycuma, cayirova, denizli, derebucak, erzurum, giresun, kahramanmaras, karacabey, konya, kutahya, marmaris, nevsehir, rize, samsun, sindirgi, statik, trabzon
+from Turkey    import alanya, balikesir, bandirma, caycuma, cayirova, denizli, derebucak, erzurum, giresun, kahramanmaras, karacabey, konya, kutahya, marmaris, nevsehir, rize, salda, samsun, sindirgi, trabzon, uchisar, zara
 
 BETIKLER = {
     "Alanya"        : alanya,
@@ -25,7 +25,9 @@ BETIKLER = {
     "Sındırgı"      : sindirgi,
     "Trabzon"       : trabzon,
     "Kahramanmaraş" : kahramanmaras,
-    "Statik"        : statik,
+    "Salda Gölü"    : salda,
+    "Uçhisar"       : uchisar,
+    "Zara"          : zara,
 }
 
 async def basla():
