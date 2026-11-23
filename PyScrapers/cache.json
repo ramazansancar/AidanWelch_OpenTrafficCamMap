@@ -7,6 +7,10 @@
     39.8605036,
     41.2754223
   ],
+  "Afşin İlçe Meydanı, Kahramanmaraş, Türkiye": [
+    38.244198,
+    36.9150874
+  ],
   "Afşin, Kahramanmaraş, Türkiye": [
     38.243802,
     36.914722
@@ -54,6 +58,14 @@
   "Altınoluk Kordon, Balıkesir, Türkiye": [
     39.566041,
     26.747277
+  ],
+  "Amisos, Samsun, Türkiye": [
+    41.2797031,
+    36.3360667
+  ],
+  "Andırın İlçe Meydanı, Kahramanmaraş, Türkiye": [
+    37.5759232,
+    36.3489865
   ],
   "Andırın, Kahramanmaraş, Türkiye": [
     37.57571799999999,
@@ -119,6 +131,10 @@
     40.3587974,
     27.9703586
   ],
+  "Batıpark, Samsun, Türkiye": [
+    41.3236299,
+    36.3199678
+  ],
   "Bağbaşı Yaylası, Denizli, Türkiye": [
     37.6968506,
     29.1435095
@@ -126,6 +142,14 @@
   "Belediye Binası, Belediye Onu, Kütahya, Türkiye": [
     39.4260235,
     29.9897072
+  ],
+  "Belediye Binası, Derebucak, Konya, Türkiye": [
+    37.394095,
+    31.508978
+  ],
+  "Belediye Parkı, Derebucak, Konya, Türkiye": [
+    37.3954037,
+    31.5064418
   ],
   "Belh Kavşağı, Konya, Türkiye": [
     37.8961309,
@@ -158,6 +182,10 @@
   "Burhaniye Meydan, Balıkesir, Türkiye": [
     39.5026851,
     26.9801795
+  ],
+  "Büyükşehir Belediyesi Kavşağı, Kahramanmaraş, Türkiye": [
+    37.5764076,
+    36.926797
   ],
   "Cadde Kamera, Giresun, Türkiye": [
     40.9123759,
@@ -203,9 +231,25 @@
     36.544443,
     31.995408
   ],
+  "Dr Mustafa Meydanı Batı, Kahramanmaraş, Türkiye": [
+    37.5892375,
+    36.8688922
+  ],
+  "Dr Mustafa Meydanı Doğu, Kahramanmaraş, Türkiye": [
+    37.5892375,
+    36.8688922
+  ],
   "Dulkadiroğlu, Kahramanmaraş, Türkiye": [
     37.6452813,
     37.0400339
+  ],
+  "Durak Dernek Binası, Derebucak, Konya, Türkiye": [
+    37.394095,
+    31.508978
+  ],
+  "Durak Han Önü, Derebucak, Konya, Türkiye": [
+    41.414696,
+    35.056016
   ],
   "Dursunbey Suçıktı, Balıkesir, Türkiye": [
     39.5975694,
@@ -215,13 +259,25 @@
     39.7828035,
     41.1995297
   ],
+  "Ekinözü İlçe Meydanı, Kahramanmaraş, Türkiye": [
+    38.0592781,
+    37.1882721
+  ],
   "Ekinözü, Kahramanmaraş, Türkiye": [
     38.059322,
     37.188692
   ],
+  "Elbistan Battalgazi Mahallesi, Kahramanmaraş, Türkiye": [
+    38.2110886,
+    37.1888225
+  ],
   "Elbistan Belediye, Kahramanmaraş, Türkiye": [
     38.206537,
     37.193076
+  ],
+  "Elbistan Meydan, Kahramanmaraş, Türkiye": [
+    38.1977778,
+    37.1902778
   ],
   "Elbistan, Kahramanmaraş, Türkiye": [
     38.206537,
@@ -255,11 +311,27 @@
     40.9173923,
     38.32113409999999
   ],
+  "Gencek Mahalle Girişi, Derebucak, Konya, Türkiye": [
+    37.447837,
+    31.5430448
+  ],
+  "Gencek Merkez Cami, Derebucak, Konya, Türkiye": [
+    37.44777759999999,
+    31.5483452
+  ],
+  "Geydeş Mahallesi, Derebucak, Konya, Türkiye": [
+    37.394095,
+    31.508978
+  ],
   "Giresun Kalesi, Giresun, Türkiye": [
     40.9215233,
     38.3906066
   ],
   "Göksun Meydan, Kahramanmaraş, Türkiye": [
+    38.0218229,
+    36.4989217
+  ],
+  "Göksun İlçe Meydanı, Kahramanmaraş, Türkiye": [
     38.0218229,
     36.4989217
   ],
@@ -278,6 +350,10 @@
   "Hayvan Bakım Evi -, Konya, Türkiye": [
     37.7903105,
     32.2343873
+  ],
+  "Kale, Kahramanmaraş, Türkiye": [
+    37.586333,
+    36.9257569
   ],
   "Kale, Rize, Türkiye": [
     41.0236649,
@@ -298,6 +374,10 @@
   "Kayalıpark, Konya, Türkiye": [
     37.871582,
     32.4978905
+  ],
+  "Kayaşehir, Nevşehir, Türkiye": [
+    38.619644,
+    34.712518
   ],
   "Kent Plaza Kavşağı, Konya, Türkiye": [
     37.9057173,
@@ -363,13 +443,25 @@
     36.4816517,
     32.1084376
   ],
+  "Malik Ejder Türbesi, Kahramanmaraş, Türkiye": [
+    37.5099926,
+    36.9012925
+  ],
   "Malik Ejder, Kahramanmaraş, Türkiye": [
     37.551149,
     36.9057288
   ],
+  "Mehmet Akif Kültür Merkezi, Kahramanmaraş, Türkiye": [
+    37.58562,
+    36.922523
+  ],
   "Menderes Bulvarı, Rize, Türkiye": [
     41.0258043,
     40.5300346
+  ],
+  "Merkez Cami, Derebucak, Konya, Türkiye": [
+    37.39109699999999,
+    31.5109829
   ],
   "Mevlana - Üçler Kavşağı, Konya, Türkiye": [
     37.8697586,
@@ -395,6 +487,10 @@
     36.8548726,
     28.2704334
   ],
+  "Meydan, Nevşehir, Türkiye": [
+    38.6224983,
+    34.7152248
+  ],
   "Meydan, Rize, Türkiye": [
     40.891759,
     40.929983
@@ -419,6 +515,14 @@
     36.5437269,
     32.001958
   ],
+  "Necip Fazıl Kültür Merkezi, Kahramanmaraş, Türkiye": [
+    37.5854234,
+    36.8982176
+  ],
+  "Nurhak İlçe Meydanı, Kahramanmaraş, Türkiye": [
+    37.96788,
+    37.45356
+  ],
   "Nurhak, Kahramanmaraş, Türkiye": [
     37.9656329,
     37.44744499999999
@@ -426,6 +530,14 @@
   "Oba Mah., Alanya, Antalya, Türkiye": [
     36.55003,
     32.059148
+  ],
+  "Onur Anıtı, Samsun, Türkiye": [
+    41.2890668,
+    36.336451
+  ],
+  "Opera, Samsun, Türkiye": [
+    41.2945719,
+    36.3348243
   ],
   "Otogar Kavşağı, Konya, Türkiye": [
     37.9487938,
@@ -447,9 +559,17 @@
     41.0094012,
     39.7193797
   ],
+  "Pınarbaşı Mahallesi, Derebucak, Konya, Türkiye": [
+    37.407762,
+    31.436863
+  ],
   "Rıhtım, Alanya, Antalya, Türkiye": [
     36.5366001,
     31.9992643
+  ],
+  "Saathane Meydanı, Samsun, Türkiye": [
+    41.2948022,
+    36.3320613
   ],
   "Sahil Cami, Rize, Türkiye": [
     41.0246134,
@@ -467,6 +587,10 @@
     36.5322261,
     32.03793040000001
   ],
+  "Sanat Merkezi, Samsun, Türkiye": [
+    41.3307849,
+    36.2922893
+  ],
   "Sarraflar Yeraltı Çarşısı, Konya, Türkiye": [
     37.8715584,
     32.5003676
@@ -479,9 +603,17 @@
     37.89245,
     32.4770292
   ],
+  "Tarihi Kapalı Çarşı, Kahramanmaraş, Türkiye": [
+    37.582407,
+    36.9286489
+  ],
   "Tavşantepe Kavşağı, Kahramanmaraş, Türkiye": [
     37.597767,
     36.898244
+  ],
+  "Taşlıpınar Mahallesi, Derebucak, Konya, Türkiye": [
+    37.424634,
+    31.567383
   ],
   "Tekir, Kahramanmaraş, Türkiye": [
     37.88247399999999,
@@ -494,6 +626,10 @@
   "Teras, Kahramanmaraş, Türkiye": [
     37.622246,
     36.8965505
+  ],
+  "Tevfik Kadıoğlu Bulvarı, Kahramanmaraş, Türkiye": [
+    37.5788852,
+    36.9448115
   ],
   "Toplu Taşıma Merkezi, Balıkesir, Türkiye": [
     39.6483,
@@ -535,9 +671,17 @@
     37.9574915,
     32.5591157
   ],
+  "Türkoğlu İlçe Meydanı, Kahramanmaraş, Türkiye": [
+    37.585428,
+    36.9209855
+  ],
   "Türkoğlu, Kahramanmaraş, Türkiye": [
     37.384751,
     36.846238
+  ],
+  "Ulu Camii Ve Meydan, Kahramanmaraş, Türkiye": [
+    37.5844868,
+    36.9270498
   ],
   "Ulucami, Kahramanmaraş, Türkiye": [
     37.5844729,
@@ -583,6 +727,10 @@
     39.239841,
     28.177494
   ],
+  "Yukarıkayalar Meydan, Derebucak, Konya, Türkiye": [
+    37.3954037,
+    31.5064418
+  ],
   "Zafer Meydanı Gedavet, Konya, Türkiye": [
     37.8712772,
     32.4901927
@@ -607,6 +755,14 @@
     41.02555,
     40.51755
   ],
+  "Çamlık Hizmet Binası, Derebucak, Konya, Türkiye": [
+    37.3505939,
+    31.6382924
+  ],
+  "Çamlık Kütüphane Binası, Derebucak, Konya, Türkiye": [
+    37.3584309,
+    31.5890572
+  ],
   "Çamlık Parkı, Denizli, Türkiye": [
     37.7420844,
     29.0893722
@@ -615,6 +771,10 @@
     39.646468,
     27.8737268
   ],
+  "Çağlayancerit İlçe Meydanı, Kahramanmaraş, Türkiye": [
+    37.749477,
+    37.289276
+  ],
   "Çağlayancerit, Kahramanmaraş, Türkiye": [
     37.750164,
     37.293208
@@ -622,6 +782,14 @@
   "Çifte Minareli Medrese Önü, Erzurum, Türkiye": [
     39.9058055,
     41.2783573
+  ],
+  "Çobanlı İskelesi, Samsun, Türkiye": [
+    41.34579799999999,
+    36.261912
+  ],
+  "Çocuk Yuvası, Kahramanmaraş, Türkiye": [
+    37.589149,
+    36.879354
   ],
   "Üst Gondol, Palandöken, Erzurum, Türkiye": [
     39.8605036,
@@ -659,6 +827,10 @@
     37.8705727,
     32.5092739
   ],
+  "İstiklal Meydanı, Samsun, Türkiye": [
+    41.2910115,
+    36.3368384
+  ],
   "İvrindi Meydan, Balıkesir, Türkiye": [
     39.582007,
     27.485384
@@ -672,6 +844,10 @@
     27.8948738
   ],
   "Şelale Kavşağı, Kahramanmaraş, Türkiye": [
+    37.5769093,
+    36.9310405
+  ],
+  "Şelale Park Kavşağı, Kahramanmaraş, Türkiye": [
     37.5769093,
     36.9310405
   ],

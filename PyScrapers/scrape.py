@@ -2,89 +2,37 @@
 
 from Kekik.cli import cikis_yap, hata_yakala
 from asyncio   import run
-from Turkey    import alanya, balikesir, bandirma, caycuma, cayirova, denizli, erzurum, giresun, kahramanmaras, karacabey, konya, kutahya, marmaris, rize, sindirgi, trabzon
+from Turkey    import alanya, balikesir, bandirma, caycuma, cayirova, denizli, derebucak, erzurum, giresun, kahramanmaras, karacabey, konya, kutahya, marmaris, nevsehir, rize, samsun, sindirgi, trabzon
+
+BETIKLER = {
+    "Alanya"        : alanya,
+    "Balıkesir"     : balikesir,
+    "Bandırma"      : bandirma,
+    "Çaycuma"       : caycuma,
+    "Çayırova"      : cayirova,
+    "Denizli"       : denizli,
+    "Derebucak"     : derebucak,
+    "Erzurum"       : erzurum,
+    "Giresun"       : giresun,
+    "Konya"         : konya,
+    "Marmaris"      : marmaris,
+    "Karacabey"     : karacabey,
+    "Kütahya"       : kutahya,
+    "Nevşehir"      : nevsehir,
+    "Rize"          : rize,
+    "Samsun"        : samsun,
+    "Sındırgı"      : sindirgi,
+    "Trabzon"       : trabzon,
+    "Kahramanmaraş" : kahramanmaras,
+}
 
 async def basla():
-    # Her şehir için ayrı try-catch blokları
-    try:
-        await alanya.basla()
-    except Exception as e:
-        print(f"[HATA] Alanya: {e}")
-    
-    try:
-        await balikesir.basla()
-    except Exception as e:
-        print(f"[HATA] Balıkesir: {e}")
-    
-    try:
-        await bandirma.basla()
-    except Exception as e:
-        print(f"[HATA] Bandırma: {e}")
-    
-    try:
-        await caycuma.basla()
-    except Exception as e:
-        print(f"[HATA] Caycuma: {e}")
-    
-    try:
-        await cayirova.basla()
-    except Exception as e:
-        print(f"[HATA] Çayırova: {e}")
-    
-    try:
-        await denizli.basla()
-    except Exception as e:
-        print(f"[HATA] Denizli: {e}")
-    
-    try:
-        await erzurum.basla()
-    except Exception as e:
-        print(f"[HATA] Erzurum: {e}")
-    
-    try:
-        await giresun.basla()
-    except Exception as e:
-        print(f"[HATA] Giresun: {e}")
-    
-    try:
-        await konya.basla()
-    except Exception as e:
-        print(f"[HATA] Konya: {e}")
-    
-    try:
-        await marmaris.basla()
-    except Exception as e:
-        print(f"[HATA] Marmaris: {e}")
-    
-    try:
-        await karacabey.basla()
-    except Exception as e:
-        print(f"[HATA] Karacabey: {e}")
-    
-    try:
-        await kutahya.basla()
-    except Exception as e:
-        print(f"[HATA] Kutahya: {e}")
-    
-    try:
-        await rize.basla()
-    except Exception as e:
-        print(f"[HATA] Rize: {e}")
-    
-    try:
-        await sindirgi.basla()
-    except Exception as e:
-        print(f"[HATA] Sindirgi: {e}")
-    
-    try:
-        await trabzon.basla()
-    except Exception as e:
-        print(f"[HATA] Trabzon: {e}")
-    
-    try:
-        await kahramanmaras.basla()
-    except Exception as e:
-        print(f"[HATA] Kahramanmaras: {e}")
+    # Her şehir ayrı: biri hata verirse diğerleri çalışmaya devam eder
+    for ad, betik in BETIKLER.items():
+        try:
+            await betik.basla()
+        except Exception as e:
+            print(f"[HATA] {ad}: {e}")
 
 if __name__ == "__main__":
     try:

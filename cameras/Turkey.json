@@ -407,13 +407,440 @@
     ]
   },
   "Kahramanmaras": {
-    "Belediye": []
+    "Belediye": [
+      {
+        "description": "Büyükşehir Belediyesi Kavşağı",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.5764076,
+        "longitude": 36.926797,
+        "url": "https://camstream.kahramanmaras.bel.tr/live/belediye.stream/playlist.m3u8"
+      },
+      {
+        "description": "Büyükşehir Belediyesi Kavşağı2",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.5764076,
+        "longitude": 36.926797,
+        "url": "https://camstream.kahramanmaras.bel.tr/live/belediye2.stream/playlist.m3u8"
+      },
+      {
+        "description": "Boğaziçi Kavşağı",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.5819144,
+        "longitude": 36.8670632,
+        "url": "https://camstream.kahramanmaras.bel.tr/live/bogazici.stream/playlist.m3u8"
+      },
+      {
+        "description": "Çocuk Yuvası",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.589149,
+        "longitude": 36.879354,
+        "url": "https://camstream.kahramanmaras.bel.tr/live/cocukyuvasi.stream/playlist.m3u8"
+      },
+      {
+        "description": "Dr Mustafa Meydanı Doğu",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.5892375,
+        "longitude": 36.8688922,
+        "url": "https://camstream.kahramanmaras.bel.tr/live/drmustafa.stream/playlist.m3u8"
+      },
+      {
+        "description": "Dr Mustafa Meydanı Batı",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.5892375,
+        "longitude": 36.8688922,
+        "url": "https://camstream.kahramanmaras.bel.tr/live/drmustafa2.stream/playlist.m3u8"
+      },
+      {
+        "description": "Dulkadiroğlu",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.6452813,
+        "longitude": 37.0400339,
+        "url": "https://camstream.kahramanmaras.bel.tr/live/pekeller.stream/playlist.m3u8"
+      },
+      {
+        "description": "Kale",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.586333,
+        "longitude": 36.9257569,
+        "url": "https://camstream.kahramanmaras.bel.tr/live/kale.stream/playlist.m3u8"
+      },
+      {
+        "description": "Tarihi Kapalı Çarşı 1",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.582407,
+        "longitude": 36.9286489,
+        "url": "https://camstream.kahramanmaras.bel.tr/live/kapalicarsi1.stream/playlist.m3u8"
+      },
+      {
+        "description": "Tarihi Kapalı Çarşı 2",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.582407,
+        "longitude": 36.9286489,
+        "url": "https://camstream.kahramanmaras.bel.tr/live/kapalicarsi2.stream/playlist.m3u8"
+      },
+      {
+        "description": "Malik Ejder Türbesi",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.5099926,
+        "longitude": 36.9012925,
+        "url": "https://camstream.kahramanmaras.bel.tr/live/malik-ejder.stream/playlist.m3u8"
+      },
+      {
+        "description": "Mehmet Akif Kültür Merkezi",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.58562,
+        "longitude": 36.922523,
+        "url": "https://camstream.kahramanmaras.bel.tr/live/mehmetakif.stream/playlist.m3u8"
+      },
+      {
+        "description": "Necip Fazıl Kültür Merkezi",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.5854234,
+        "longitude": 36.8982176,
+        "url": "https://camstream.kahramanmaras.bel.tr/live/necipfazil.stream/playlist.m3u8"
+      },
+      {
+        "description": "Şelale Park Kavşağı",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.5769093,
+        "longitude": 36.9310405,
+        "url": "https://camstream.kahramanmaras.bel.tr/live/selale.stream/playlist.m3u8"
+      },
+      {
+        "description": "Tavşantepe Kavşağı",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.597767,
+        "longitude": 36.898244,
+        "url": "https://camstream.kahramanmaras.bel.tr/live/tavsantepe.stream/playlist.m3u8"
+      },
+      {
+        "description": "Tevfik Kadıoğlu Bulvarı",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.5788852,
+        "longitude": 36.9448115,
+        "url": "https://camstream.kahramanmaras.bel.tr/live/tevfikkadioglu.stream/playlist.m3u8"
+      },
+      {
+        "description": "Teras",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.622246,
+        "longitude": 36.8965505,
+        "url": "https://camstream.kahramanmaras.bel.tr/live/terasdogu.stream/playlist.m3u8"
+      },
+      {
+        "description": "Teras 2",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.622246,
+        "longitude": 36.8965505,
+        "url": "https://camstream.kahramanmaras.bel.tr/live/terasbati.stream/playlist.m3u8"
+      },
+      {
+        "description": "Tekir",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.88247399999999,
+        "longitude": 36.620436,
+        "url": "https://camstream.kahramanmaras.bel.tr/live/tekir.stream/playlist.m3u8"
+      },
+      {
+        "description": "Ulu Camii ve Meydan",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.5844868,
+        "longitude": 36.9270498,
+        "url": "https://camstream.kahramanmaras.bel.tr/live/ulucami.stream/playlist.m3u8"
+      },
+      {
+        "description": "Yedikuyular Kayak Merkezi",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.64478769999999,
+        "longitude": 37.0371653,
+        "url": "https://camstream.kahramanmaras.bel.tr/live/yedikuyular.stream/playlist.m3u8"
+      },
+      {
+        "description": "Afşin İlçe Meydanı",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 38.244198,
+        "longitude": 36.9150874,
+        "url": "https://camstream.kahramanmaras.bel.tr/live/afsin.stream/playlist.m3u8"
+      },
+      {
+        "description": "Andırın İlçe Meydanı",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.5759232,
+        "longitude": 36.3489865,
+        "url": "https://camstream.kahramanmaras.bel.tr/live/andirin.stream/playlist.m3u8"
+      },
+      {
+        "description": "Çağlayancerit İlçe Meydanı",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.749477,
+        "longitude": 37.289276,
+        "url": "https://camstream.kahramanmaras.bel.tr/live/caglayan-cerit.stream/playlist.m3u8"
+      },
+      {
+        "description": "Ekinözü İlçe Meydanı",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 38.0592781,
+        "longitude": 37.1882721,
+        "url": "https://camstream.kahramanmaras.bel.tr/live/ekinozu.stream/playlist.m3u8"
+      },
+      {
+        "description": "Elbistan Meydan",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 38.1977778,
+        "longitude": 37.1902778,
+        "url": "https://camstream.kahramanmaras.bel.tr/live/elbistan-meydan.stream/playlist.m3u8"
+      },
+      {
+        "description": "Elbistan Battalgazi Mahallesi",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 38.2110886,
+        "longitude": 37.1888225,
+        "url": "https://camstream.kahramanmaras.bel.tr/live/elbistanbattalgazi.stream/playlist.m3u8"
+      },
+      {
+        "description": "Göksun İlçe Meydanı",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 38.0218229,
+        "longitude": 36.4989217,
+        "url": "https://camstream.kahramanmaras.bel.tr/live/goksun.stream/playlist.m3u8"
+      },
+      {
+        "description": "Nurhak İlçe Meydanı",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.96788,
+        "longitude": 37.45356,
+        "url": "https://camstream.kahramanmaras.bel.tr/live/nurhak.stream/playlist.m3u8"
+      },
+      {
+        "description": "Türkoğlu İlçe Meydanı",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.585428,
+        "longitude": 36.9209855,
+        "url": "https://camstream.kahramanmaras.bel.tr/live/turkoglu.stream/playlist.m3u8"
+      }
+    ]
   },
   "Kocaeli": {
     "Cayirova": []
   },
   "Konya": {
-    "Belediye": []
+    "Belediye": [],
+    "Derebucak": [
+      {
+        "description": "Belediye Binası",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.394095,
+        "longitude": 31.508978,
+        "url": "https://cdn-ipkamera.yayin.com.tr/derebucakbeltr/belediyebina/playlist.m3u8"
+      },
+      {
+        "description": "Belediye Parkı - 1",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.3954037,
+        "longitude": 31.5064418,
+        "url": "https://cdn-ipkamera.yayin.com.tr/derebucakbeltr/belediyepark1/playlist.m3u8"
+      },
+      {
+        "description": "Belediye Parkı - 2",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.3954037,
+        "longitude": 31.5064418,
+        "url": "https://cdn-ipkamera.yayin.com.tr/derebucakbeltr/belediyepark2/playlist.m3u8"
+      },
+      {
+        "description": "Belediye Parkı - 3",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.3954037,
+        "longitude": 31.5064418,
+        "url": "https://cdn-ipkamera.yayin.com.tr/derebucakbeltr/belediyepark3/playlist.m3u8"
+      },
+      {
+        "description": "Merkez Cami - 1",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.39109699999999,
+        "longitude": 31.5109829,
+        "url": "https://cdn-ipkamera.yayin.com.tr/derebucakbeltr/merkezcami1/playlist.m3u8"
+      },
+      {
+        "description": "Merkez Cami - 2",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.39109699999999,
+        "longitude": 31.5109829,
+        "url": "https://cdn-ipkamera.yayin.com.tr/derebucakbeltr/merkezcami2/playlist.m3u8"
+      },
+      {
+        "description": "Merkez Cami - 3",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.39109699999999,
+        "longitude": 31.5109829,
+        "url": "https://cdn-ipkamera.yayin.com.tr/derebucakbeltr/merkezcami3/playlist.m3u8"
+      },
+      {
+        "description": "Çamlık Hizmet Binası - 1",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.3505939,
+        "longitude": 31.6382924,
+        "url": "https://cdn-ipkamera.yayin.com.tr/derebucakbeltr/camlikhizmetbinasi/playlist.m3u8"
+      },
+      {
+        "description": "Çamlık Hizmet Binası - 2",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.3505939,
+        "longitude": 31.6382924,
+        "url": "https://cdn-ipkamera.yayin.com.tr/derebucakbeltr/camlikhizmetbinasi2/playlist.m3u8"
+      },
+      {
+        "description": "Çamlık Kütüphane Binası",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.3584309,
+        "longitude": 31.5890572,
+        "url": "https://cdn-ipkamera.yayin.com.tr/derebucakbeltr/camlikbldkutuphanesi/playlist.m3u8"
+      },
+      {
+        "description": "Durak Dernek Binası",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.394095,
+        "longitude": 31.508978,
+        "url": "https://cdn-ipkamera.yayin.com.tr/derebucakbeltr/durakmahallesi/playlist.m3u8"
+      },
+      {
+        "description": "Durak Han Önü",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.3934,
+        "longitude": 31.5098,
+        "url": "https://cdn-ipkamera.yayin.com.tr/derebucakbeltr/durakmahallesi3/playlist.m3u8"
+      },
+      {
+        "description": "Gencek Merkez Cami -1",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.44777759999999,
+        "longitude": 31.5483452,
+        "url": "https://cdn-ipkamera.yayin.com.tr/derebucakbeltr/gencekmerkezcami/playlist.m3u8"
+      },
+      {
+        "description": "Gencek Merkez Cami -3",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.44777759999999,
+        "longitude": 31.5483452,
+        "url": "https://cdn-ipkamera.yayin.com.tr/derebucakbeltr/gencekmerkezcami3/playlist.m3u8"
+      },
+      {
+        "description": "Gencek Mahalle Girişi",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.447837,
+        "longitude": 31.5430448,
+        "url": "https://cdn-ipkamera.yayin.com.tr/derebucakbeltr/gencekgiris/playlist.m3u8"
+      },
+      {
+        "description": "Taşlıpınar Mahallesi -1",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.424634,
+        "longitude": 31.567383,
+        "url": "https://cdn-ipkamera.yayin.com.tr/derebucakbeltr/taslipinar/playlist.m3u8"
+      },
+      {
+        "description": "Taşlıpınar Mahallesi -2",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.424634,
+        "longitude": 31.567383,
+        "url": "https://cdn-ipkamera.yayin.com.tr/derebucakbeltr/taslipinar2/playlist.m3u8"
+      },
+      {
+        "description": "Pınarbaşı Mahallesi",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.407762,
+        "longitude": 31.436863,
+        "url": "https://cdn-ipkamera.yayin.com.tr/derebucakbeltr/pinarbasi/playlist.m3u8"
+      },
+      {
+        "description": "Pınarbaşı Mahallesi -2",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.407762,
+        "longitude": 31.436863,
+        "url": "https://cdn-ipkamera.yayin.com.tr/derebucakbeltr/pinarbasi2/playlist.m3u8"
+      },
+      {
+        "description": "Geydeş Mahallesi",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.394095,
+        "longitude": 31.508978,
+        "url": "https://cdn-ipkamera.yayin.com.tr/derebucakbeltr/geydes/playlist.m3u8"
+      },
+      {
+        "description": "Yukarıkayalar Giriş",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.3934,
+        "longitude": 31.5098,
+        "url": "https://cdn-ipkamera.yayin.com.tr/derebucakbeltr/yukarikayalar1/playlist.m3u8"
+      },
+      {
+        "description": "Yukarıkayalar Meydan -1",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.3954037,
+        "longitude": 31.5064418,
+        "url": "https://cdn-ipkamera.yayin.com.tr/derebucakbeltr/yukarikayalar2/playlist.m3u8"
+      },
+      {
+        "description": "Yukarıkayalar Meydan -2",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 37.3954037,
+        "longitude": 31.5064418,
+        "url": "https://cdn-ipkamera.yayin.com.tr/derebucakbeltr/yukarikayalar3/playlist.m3u8"
+      }
+    ]
   },
   "Kutahya": {
     "Belediye": []
@@ -451,6 +878,42 @@
         "latitude": 36.683674,
         "longitude": 28.0631193,
         "url": "https://cdn-ipkamera.yayin.com.tr/marmarisbel/bozburun/playlist.m3u8"
+      }
+    ]
+  },
+  "Nevşehir": {
+    "Belediye": [
+      {
+        "description": "Meydan - PTZ",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 38.6224983,
+        "longitude": 34.7152248,
+        "url": "https://belsis.nevsehir.bel.tr/hls/live/X8o7aXINdylwjstgvjyPjSJn/index.m3u8"
+      },
+      {
+        "description": "Kayaşehir - PTZ",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 38.619644,
+        "longitude": 34.712518,
+        "url": "https://belsis.nevsehir.bel.tr/hls/live/3YMi7G2HrU4bK7FITLRKJQZN/index.m3u8"
+      },
+      {
+        "description": "Kayaşehir - Sabit",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 38.619644,
+        "longitude": 34.712518,
+        "url": "https://belsis.nevsehir.bel.tr/hls/live/wWJLT6Oldt7negopFoOmJYPm/index.m3u8"
+      },
+      {
+        "description": "Meydan - Sabit",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 38.6224983,
+        "longitude": 34.7152248,
+        "url": "https://belsis.nevsehir.bel.tr/hls/live/heor20srsBQxVUDpcshHHCdk/index.m3u8"
       }
     ]
   },
@@ -519,6 +982,74 @@
         "latitude": 41.0097554,
         "longitude": 40.5063248,
         "url": "https://cdn-ipkamera.yayin.com.tr/rizebel/dagbasi/playlist.m3u8"
+      }
+    ]
+  },
+  "Samsun": {
+    "Belediye": [
+      {
+        "description": "İstiklal Meydanı",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.2910115,
+        "longitude": 36.3368384,
+        "url": "https://canli.samsun.bel.tr/sehirkameralari/istiklal-meydani/index.m3u8"
+      },
+      {
+        "description": "Saathane Meydanı",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.2948022,
+        "longitude": 36.3320613,
+        "url": "https://canli.samsun.bel.tr/sehirkameralari/saathane-meydani/index.m3u8"
+      },
+      {
+        "description": "Sanat Merkezi",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.3307849,
+        "longitude": 36.2922893,
+        "url": "https://canli.samsun.bel.tr/sehirkameralari/sanat-merkezi/index.m3u8"
+      },
+      {
+        "description": "Onur Anıtı",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.2890668,
+        "longitude": 36.336451,
+        "url": "https://canli.samsun.bel.tr/sehirkameralari/onur-aniti/index.m3u8"
+      },
+      {
+        "description": "Opera",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.2945719,
+        "longitude": 36.3348243,
+        "url": "https://canli.samsun.bel.tr/sehirkameralari/opera/index.m3u8"
+      },
+      {
+        "description": "Batıpark",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.3236299,
+        "longitude": 36.3199678,
+        "url": "https://canli.samsun.bel.tr/sehirkameralari/batipark/index.m3u8"
+      },
+      {
+        "description": "Amisos",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.2797031,
+        "longitude": 36.3360667,
+        "url": "https://canli.samsun.bel.tr/sehirkameralari/amisos/index.m3u8"
+      },
+      {
+        "description": "Çobanlı İskelesi",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.34579799999999,
+        "longitude": 36.261912,
+        "url": "https://canli.samsun.bel.tr/sehirkameralari/cobanli-iskelesi/index.m3u8"
       }
     ]
   },
