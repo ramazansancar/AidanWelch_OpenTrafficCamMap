@@ -7463,6 +7463,1336 @@
         "longitude": "29.012351",
         "url": "https://hls.ibb.gov.tr/tkm2/hls/1034.stream/playlist.m3u8"
       }
+    ],
+    "UYM Yedek": [
+      {
+        "description": "02010 FİRUZKÖY BULVARI",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.006962,
+        "longitude": 28.704878,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/600.stream/playlist.m3u8"
+      },
+      {
+        "description": "02015 AVCILAR YILDIRIM BEYAZIT CAD.",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.003451,
+        "longitude": 28.701329,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/757.stream/playlist.m3u8"
+      },
+      {
+        "description": "02026 AMBARLI DOLUM TESİSLERİ",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 40.984986,
+        "longitude": 28.69865,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/741.stream/playlist.m3u8"
+      },
+      {
+        "description": "03031 ATAKÖY DR. REMZİ",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 40.98588497,
+        "longitude": 28.85655135,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/515.stream/playlist.m3u8"
+      },
+      {
+        "description": "03032 ATAKÖY",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 40.98133141,
+        "longitude": 28.85943943,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/506.stream/playlist.m3u8"
+      },
+      {
+        "description": "03036 ATAKÖY KİLİTBAYIR CAD.",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 40.983111,
+        "longitude": 28.853793,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/836.stream/playlist.m3u8"
+      },
+      {
+        "description": "03054 HİPODROM",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 40.988112,
+        "longitude": 28.8845984,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/513.stream/playlist.m3u8"
+      },
+      {
+        "description": "05009 KOCASİNAN",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 40.99805996,
+        "longitude": 28.8570538,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/499.stream/playlist.m3u8"
+      },
+      {
+        "description": "11022 ALİBEYKÖY KARADOLAP MAH.",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.072321,
+        "longitude": 28.938798,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/816.stream/playlist.m3u8"
+      },
+      {
+        "description": "11035 ALİBEYKÖY CEP OTOGARI",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.088185,
+        "longitude": 28.944214,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/660.stream/playlist.m3u8"
+      },
+      {
+        "description": "12008 HALİÇ SOSYAL TESİSLERİ",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.02805221,
+        "longitude": 28.95664974,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/503.stream/playlist.m3u8"
+      },
+      {
+        "description": "12028 FATİH YAVUZ SELİM",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.02224742,
+        "longitude": 28.94504262,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/494.stream/playlist.m3u8"
+      },
+      {
+        "description": "12042 SARAÇHANE PERTEVNİYAL",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.011941,
+        "longitude": 28.953322,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/277.stream/playlist.m3u8"
+      },
+      {
+        "description": "12043 HIFZISSIHHA",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.01682627,
+        "longitude": 28.95633098,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/495.stream/playlist.m3u8"
+      },
+      {
+        "description": "12409 SİRKECİ GARI",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.014838,
+        "longitude": 28.975483,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/796.stream/playlist.m3u8"
+      },
+      {
+        "description": "15 TEMMUZ ŞEHİTLER KÖP. ANADOLU",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.03330791,
+        "longitude": 29.04612102,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/79.stream/playlist.m3u8"
+      },
+      {
+        "description": "16007 KAĞITHANE İETT PERONU",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.07991881,
+        "longitude": 28.97481555,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/544.stream/playlist.m3u8"
+      },
+      {
+        "description": "16009 KAĞITHANE EMNİYET",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.07674005,
+        "longitude": 28.97006788,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/541.stream/playlist.m3u8"
+      },
+      {
+        "description": "16014 SİLAHTARAĞA TEM BAĞLANTI",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.063658,
+        "longitude": 28.951591,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/791.stream/playlist.m3u8"
+      },
+      {
+        "description": "16039 BAŞAK KONUTLARI 2",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.085609,
+        "longitude": 28.978179,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/906.stream/playlist.m3u8"
+      },
+      {
+        "description": "18021 KÜÇÜKÇEKMECE HAKAN CAD.",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.026653,
+        "longitude": 28.79643,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/780.stream/playlist.m3u8"
+      },
+      {
+        "description": "21038 BORSA İSTANBUL",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.11084024,
+        "longitude": 29.03563437,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/197.stream/playlist.m3u8"
+      },
+      {
+        "description": "21054 ORMAN MÜDÜRLÜĞÜ",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.134908,
+        "longitude": 29.025085,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/705.stream/playlist.m3u8"
+      },
+      {
+        "description": "21055 DERBENT",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.13011814,
+        "longitude": 29.0244359,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/537.stream/playlist.m3u8"
+      },
+      {
+        "description": "26010 ZEYTİNBURNU BOZKURT",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 40.99345274,
+        "longitude": 28.89438883,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/496.stream/playlist.m3u8"
+      },
+      {
+        "description": "26028 MEVLANAKAPI",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.01368849,
+        "longitude": 28.92114234,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/492.stream/playlist.m3u8"
+      },
+      {
+        "description": "29013 BÜYÜKÇEKMECE MERKEZ",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.02204,
+        "longitude": 28.587126,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/755.stream/playlist.m3u8"
+      },
+      {
+        "description": "33020 DERBENT VİLLALARI",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.15247354,
+        "longitude": 28.78702025,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/589.stream/playlist.m3u8"
+      },
+      {
+        "description": "33028 HADIMKÖY ÖMERLİ",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.117362,
+        "longitude": 28.628892,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/731.stream/playlist.m3u8"
+      },
+      {
+        "description": "35019 BEDRETTİN DALAN BULVARI",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.080003,
+        "longitude": 28.793522,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/745.stream/playlist.m3u8"
+      },
+      {
+        "description": "38007 ESENYURT ORMA TEKSTİL",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.050299,
+        "longitude": 28.673079,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/786.stream/playlist.m3u8"
+      },
+      {
+        "description": "38058 ESENYURT SÜLEYMAN DEMİREL CD.",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.0628938,
+        "longitude": 28.67927451,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/528.stream/playlist.m3u8"
+      },
+      {
+        "description": "AKSARAY KÜÇÜK LANGA",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.00698739,
+        "longitude": 28.95367855,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/218.stream/playlist.m3u8"
+      },
+      {
+        "description": "ATAKÖY 9. KISIM",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 40.98642234,
+        "longitude": 28.85260466,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/10.stream/playlist.m3u8"
+      },
+      {
+        "description": "ATATÜRK HAVALİMANI",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 40.98268,
+        "longitude": 28.823428,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/13.stream/playlist.m3u8"
+      },
+      {
+        "description": "B.DERE CD. GÜLTEPE",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.08292007,
+        "longitude": 29.00964369,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/52.stream/playlist.m3u8"
+      },
+      {
+        "description": "BAKIRKÖY DİKİLİTAŞ",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 40.99227268,
+        "longitude": 28.86988161,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/26.stream/playlist.m3u8"
+      },
+      {
+        "description": "BAKIRKÖY İSTANBUL CAD.",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 40.9783758,
+        "longitude": 28.87366321,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/27.stream/playlist.m3u8"
+      },
+      {
+        "description": "BASIN EKSP. GÜNEŞLİ",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.02749668,
+        "longitude": 28.81049539,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/33.stream/playlist.m3u8"
+      },
+      {
+        "description": "BATIŞEHİR ISTOÇ ARKAYOL",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.064951,
+        "longitude": 28.844767,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/838.stream/playlist.m3u8"
+      },
+      {
+        "description": "BAĞ.YOLU AYDINLI",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 40.87876297,
+        "longitude": 29.31456406,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/243.stream/playlist.m3u8"
+      },
+      {
+        "description": "BAĞ.YOLU HARMANDERE",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 40.93065273,
+        "longitude": 29.32813522,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/242.stream/playlist.m3u8"
+      },
+      {
+        "description": "BAĞ.YOLU KAYNARCA",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 40.86906087,
+        "longitude": 29.28194742,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/244.stream/playlist.m3u8"
+      },
+      {
+        "description": "BAĞ.YOLU LİBADİYE",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.00584386,
+        "longitude": 29.07251273,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/366.stream/playlist.m3u8"
+      },
+      {
+        "description": "BAĞ.YOLU M. KEMAL",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.00737469,
+        "longitude": 29.09747705,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/367.stream/playlist.m3u8"
+      },
+      {
+        "description": "D.BAHÇE TAKSİM ÇIKIŞ",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.03863015,
+        "longitude": 28.99637019,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/173.stream/playlist.m3u8"
+      },
+      {
+        "description": "D.BAHÇE TAKSİM İNİŞ",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.03746604,
+        "longitude": 28.99504407,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/174.stream/playlist.m3u8"
+      },
+      {
+        "description": "D100 ACIBADEM",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.01548255,
+        "longitude": 29.05636424,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/66.stream/playlist.m3u8"
+      },
+      {
+        "description": "D100 AVCILAR HACIŞERİF",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 40.97736809,
+        "longitude": 28.73750579,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/73.stream/playlist.m3u8"
+      },
+      {
+        "description": "D100 BEYLİKDÜZÜ",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.00884261,
+        "longitude": 28.65774776,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/168.stream/playlist.m3u8"
+      },
+      {
+        "description": "D100 BOSTANCI",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 40.96424859,
+        "longitude": 29.10535509,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/84.stream/playlist.m3u8"
+      },
+      {
+        "description": "D100 CELALİYE",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.043766,
+        "longitude": 28.413956,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/87.stream/playlist.m3u8"
+      },
+      {
+        "description": "D100 ERCİYESKENT",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.07631182,
+        "longitude": 28.16521498,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/98.stream/playlist.m3u8"
+      },
+      {
+        "description": "D100 GÜLSUYU",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 40.92469869,
+        "longitude": 29.1524655,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/102.stream/playlist.m3u8"
+      },
+      {
+        "description": "D100 GÜMÜŞYAKA 1",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.05498555,
+        "longitude": 28.06528696,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/104.stream/playlist.m3u8"
+      },
+      {
+        "description": "D100 HALİÇ HALICIOĞLU",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.05160018,
+        "longitude": 28.94932035,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/109.stream/playlist.m3u8"
+      },
+      {
+        "description": "D100 HARAMİDERE",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.00563861,
+        "longitude": 28.67400636,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/112.stream/playlist.m3u8"
+      },
+      {
+        "description": "D100 KINALI",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.07510951,
+        "longitude": 28.13408698,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/128.stream/playlist.m3u8"
+      },
+      {
+        "description": "D100 KINALI KAV.",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.06792449,
+        "longitude": 28.10595177,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/129.stream/playlist.m3u8"
+      },
+      {
+        "description": "D100 PENDİK",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 40.88944299,
+        "longitude": 29.23719681,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/149.stream/playlist.m3u8"
+      },
+      {
+        "description": "D100 PİYADE OKULU",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 40.83451922,
+        "longitude": 29.32689071,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/152.stream/playlist.m3u8"
+      },
+      {
+        "description": "D100 S RAMPASI 1",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.02637256,
+        "longitude": 28.61398572,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/153.stream/playlist.m3u8"
+      },
+      {
+        "description": "D100 S RAMPASI 2",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.02520721,
+        "longitude": 28.58992184,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/154.stream/playlist.m3u8"
+      },
+      {
+        "description": "D100 SAADETDERE",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 40.99989204,
+        "longitude": 28.69090282,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/155.stream/playlist.m3u8"
+      },
+      {
+        "description": "D100 SELİMPAŞA",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.05642362,
+        "longitude": 28.36754201,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/156.stream/playlist.m3u8"
+      },
+      {
+        "description": "D100 SOĞANLIK",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 40.91425617,
+        "longitude": 29.18788843,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/88.stream/playlist.m3u8"
+      },
+      {
+        "description": "D100 SİLİVRİ",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.07895005,
+        "longitude": 28.23965289,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/160.stream/playlist.m3u8"
+      },
+      {
+        "description": "D100 SİLİVRİ 1",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.06476401,
+        "longitude": 28.31951169,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/157.stream/playlist.m3u8"
+      },
+      {
+        "description": "D100 SİLİVRİ 2",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.07140356,
+        "longitude": 28.27829557,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/158.stream/playlist.m3u8"
+      },
+      {
+        "description": "D100 SİLİVRİ 3",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.07253805,
+        "longitude": 28.26568992,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/159.stream/playlist.m3u8"
+      },
+      {
+        "description": "D100 TOPKAPI",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.02415602,
+        "longitude": 28.92212524,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/164.stream/playlist.m3u8"
+      },
+      {
+        "description": "D100 TOPKAPI 1",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.02415602,
+        "longitude": 28.92212524,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/165.stream/playlist.m3u8"
+      },
+      {
+        "description": "D100 TUZLA",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 40.84973658,
+        "longitude": 29.29739564,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/166.stream/playlist.m3u8"
+      },
+      {
+        "description": "D100 UZUNÇAYIR KAV.",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 40.99833837,
+        "longitude": 29.0554752,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/167.stream/playlist.m3u8"
+      },
+      {
+        "description": "D100 İNCİRLİ",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 40.99687558,
+        "longitude": 28.86976613,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/117.stream/playlist.m3u8"
+      },
+      {
+        "description": "D100 ŞİRİNEVLER",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 40.99108619,
+        "longitude": 28.85158799,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/161.stream/playlist.m3u8"
+      },
+      {
+        "description": "DAVUTPAŞA",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.02041345,
+        "longitude": 28.90050827,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/171.stream/playlist.m3u8"
+      },
+      {
+        "description": "DOLAPDERE",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.04255846,
+        "longitude": 28.98125402,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/172.stream/playlist.m3u8"
+      },
+      {
+        "description": "EDİRNEKAPI",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.03150192,
+        "longitude": 28.93551353,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/177.stream/playlist.m3u8"
+      },
+      {
+        "description": "ETİLER",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.07744009,
+        "longitude": 29.02434508,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/183.stream/playlist.m3u8"
+      },
+      {
+        "description": "FATİH",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.0197783,
+        "longitude": 28.94758427,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/185.stream/playlist.m3u8"
+      },
+      {
+        "description": "FINDIKLI",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.03203987,
+        "longitude": 28.99028693,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/186.stream/playlist.m3u8"
+      },
+      {
+        "description": "FINDIKZADE",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.01200957,
+        "longitude": 28.93899104,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/188.stream/playlist.m3u8"
+      },
+      {
+        "description": "FLORYA ŞENLİKKÖY",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 40.972555,
+        "longitude": 28.789515,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/643.stream/playlist.m3u8"
+      },
+      {
+        "description": "GÜMÜŞSUYU",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.03546379,
+        "longitude": 28.98737328,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/193.stream/playlist.m3u8"
+      },
+      {
+        "description": "HARBİYE",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.04854924,
+        "longitude": 28.98771523,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/194.stream/playlist.m3u8"
+      },
+      {
+        "description": "HAZNEDAR",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.00648537,
+        "longitude": 28.87068942,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/195.stream/playlist.m3u8"
+      },
+      {
+        "description": "KADIKÖY EVLENDİRME DAİRESİ",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 40.99077797,
+        "longitude": 29.04012533,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/200.stream/playlist.m3u8"
+      },
+      {
+        "description": "KADIKÖY RIHTIM",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 40.99173272,
+        "longitude": 29.02330938,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/201.stream/playlist.m3u8"
+      },
+      {
+        "description": "KARAKÖY",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.022582,
+        "longitude": 28.974908,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/204.stream/playlist.m3u8"
+      },
+      {
+        "description": "KASIMPAŞA BAHRİYE CD.",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.03249732,
+        "longitude": 28.9687332,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/208.stream/playlist.m3u8"
+      },
+      {
+        "description": "KAVACIK MEYDANI",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.09475577,
+        "longitude": 29.09669863,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/211.stream/playlist.m3u8"
+      },
+      {
+        "description": "KIZ KULESİ",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.01786615,
+        "longitude": 29.00866093,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/214.stream/playlist.m3u8"
+      },
+      {
+        "description": "KIZILTOPRAK",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 40.98117957,
+        "longitude": 29.04154941,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/215.stream/playlist.m3u8"
+      },
+      {
+        "description": "KOZYATAĞI İNÖNÜ CD.",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 40.97980976,
+        "longitude": 29.08688609,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/217.stream/playlist.m3u8"
+      },
+      {
+        "description": "LİBADİYE",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.01985114,
+        "longitude": 29.0736302,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/220.stream/playlist.m3u8"
+      },
+      {
+        "description": "MECİDİYEKÖY 1",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.06339743,
+        "longitude": 28.99080674,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/222.stream/playlist.m3u8"
+      },
+      {
+        "description": "MİMAR KEMALETTİN BULVARI",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.109159,
+        "longitude": 28.780084,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/952.stream/playlist.m3u8"
+      },
+      {
+        "description": "MİN. YOLU KUYUBAŞI",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 40.98573101,
+        "longitude": 29.04857752,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/225.stream/playlist.m3u8"
+      },
+      {
+        "description": "MİN. YOLU SAHRAYICEDİD",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 40.98035882,
+        "longitude": 29.07610293,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/224.stream/playlist.m3u8"
+      },
+      {
+        "description": "MİN. YOLU SUADİYE",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 40.9635571,
+        "longitude": 29.08921271,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/226.stream/playlist.m3u8"
+      },
+      {
+        "description": "O-3 ATIŞALANI",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.04727318,
+        "longitude": 28.87753326,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/227.stream/playlist.m3u8"
+      },
+      {
+        "description": "O-3 BAYRAMPAŞA",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.03969586,
+        "longitude": 28.91141831,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/228.stream/playlist.m3u8"
+      },
+      {
+        "description": "O-3 HAL",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.04647452,
+        "longitude": 28.88581858,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/230.stream/playlist.m3u8"
+      },
+      {
+        "description": "O-3 YÜZYIL KÖP.",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.05439188,
+        "longitude": 28.86121692,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/233.stream/playlist.m3u8"
+      },
+      {
+        "description": "ORTAKÖY",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.04911864,
+        "longitude": 29.0287651,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/238.stream/playlist.m3u8"
+      },
+      {
+        "description": "PİYALEPAŞA BULVARI 1",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.03910653,
+        "longitude": 28.96699754,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/247.stream/playlist.m3u8"
+      },
+      {
+        "description": "PİYALEPAŞA BULVARI 3",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.0568618,
+        "longitude": 28.97162399,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/249.stream/playlist.m3u8"
+      },
+      {
+        "description": "PİYALEPAŞA BULVARI 4",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.06514772,
+        "longitude": 28.97791929,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/250.stream/playlist.m3u8"
+      },
+      {
+        "description": "S. YOLU ARNAVUTKÖY",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.06810981,
+        "longitude": 29.04614169,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/257.stream/playlist.m3u8"
+      },
+      {
+        "description": "S. YOLU ATAKÖY 1",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 40.97697373,
+        "longitude": 28.86594073,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/8.stream/playlist.m3u8"
+      },
+      {
+        "description": "S. YOLU ATAKÖY 2",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 40.97640653,
+        "longitude": 28.85223472,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/9.stream/playlist.m3u8"
+      },
+      {
+        "description": "S. YOLU BAKIRKÖY",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 40.97395304,
+        "longitude": 28.87555126,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/258.stream/playlist.m3u8"
+      },
+      {
+        "description": "S. YOLU EMİNÖNÜ SOSYAL TESİSLERİ",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.00618226,
+        "longitude": 28.98569709,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/254.stream/playlist.m3u8"
+      },
+      {
+        "description": "S. YOLU EYÜP",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.05081951,
+        "longitude": 28.9339295,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/184.stream/playlist.m3u8"
+      },
+      {
+        "description": "S. YOLU KÜÇÜK AYASOFYA",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.0022117,
+        "longitude": 28.97332982,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/266.stream/playlist.m3u8"
+      },
+      {
+        "description": "S. YOLU SAMATYA 1",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.002387,
+        "longitude": 28.939584,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/269.stream/playlist.m3u8"
+      },
+      {
+        "description": "S. YOLU SAMATYA 2",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 40.99531542,
+        "longitude": 28.9321077,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/270.stream/playlist.m3u8"
+      },
+      {
+        "description": "S. YOLU SUADİYE",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 40.95451254,
+        "longitude": 29.08189004,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/271.stream/playlist.m3u8"
+      },
+      {
+        "description": "S. YOLU SÜREYYAPAŞA",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 40.92656567,
+        "longitude": 29.12277301,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/272.stream/playlist.m3u8"
+      },
+      {
+        "description": "S. YOLU SİRKECİ",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.0164852,
+        "longitude": 28.97660042,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/282.stream/playlist.m3u8"
+      },
+      {
+        "description": "S. YOLU YEDİKULE",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 40.98883148,
+        "longitude": 28.9193321,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/273.stream/playlist.m3u8"
+      },
+      {
+        "description": "S. YOLU ZEYTİNBURNU 1",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 40.985072,
+        "longitude": 28.909581,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/255.stream/playlist.m3u8"
+      },
+      {
+        "description": "S. YOLU ÇAYIRBAŞI",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.15373485,
+        "longitude": 29.03793234,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/262.stream/playlist.m3u8"
+      },
+      {
+        "description": "S. YOLU İSTİNYE",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.11258658,
+        "longitude": 29.05435593,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/265.stream/playlist.m3u8"
+      },
+      {
+        "description": "SABİHA GÖKÇEN HAVALİMANI",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 40.91460919,
+        "longitude": 29.32503137,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/253.stream/playlist.m3u8"
+      },
+      {
+        "description": "SARIGAZİ",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.00847929,
+        "longitude": 29.21382219,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/279.stream/playlist.m3u8"
+      },
+      {
+        "description": "SİLİVRİ CEZAEVİ",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.09639149,
+        "longitude": 28.15012434,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/281.stream/playlist.m3u8"
+      },
+      {
+        "description": "TAKSİM MEYDANI",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.03753131,
+        "longitude": 28.986322,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/297.stream/playlist.m3u8"
+      },
+      {
+        "description": "TARLABAŞI KARAKOL",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.03575383,
+        "longitude": 28.97706824,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/298.stream/playlist.m3u8"
+      },
+      {
+        "description": "TEM AHMEDİYE",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.09514604,
+        "longitude": 28.51220552,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/301.stream/playlist.m3u8"
+      },
+      {
+        "description": "TEM ALTINŞEHİR 1",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.06062336,
+        "longitude": 28.75481253,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/304.stream/playlist.m3u8"
+      },
+      {
+        "description": "TEM ATAŞEHİR",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 40.99562097,
+        "longitude": 29.1162527,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/306.stream/playlist.m3u8"
+      },
+      {
+        "description": "TEM AYDINLI",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 40.88087573,
+        "longitude": 29.38170547,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/309.stream/playlist.m3u8"
+      },
+      {
+        "description": "TEM BAHÇEŞEHİR",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.05864765,
+        "longitude": 28.69142859,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/310.stream/playlist.m3u8"
+      },
+      {
+        "description": "TEM BÜYÜKÇEKMECE 1",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.089757,
+        "longitude": 28.63274,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/312.stream/playlist.m3u8"
+      },
+      {
+        "description": "TEM BÜYÜKÇEKMECE 3",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.10626409,
+        "longitude": 28.56437928,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/314.stream/playlist.m3u8"
+      },
+      {
+        "description": "TEM CELALİYE 1",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.05167914,
+        "longitude": 28.43528523,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/316.stream/playlist.m3u8"
+      },
+      {
+        "description": "TEM CELALİYE 3",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.06364796,
+        "longitude": 28.40610949,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/318.stream/playlist.m3u8"
+      },
+      {
+        "description": "TEM DUDULLU",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 40.99726139,
+        "longitude": 29.13706436,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/331.stream/playlist.m3u8"
+      },
+      {
+        "description": "TEM DUDULLU KAV.",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 40.99503828,
+        "longitude": 29.15442936,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/332.stream/playlist.m3u8"
+      },
+      {
+        "description": "TEM ESENYURT 2",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.07675403,
+        "longitude": 28.6446789,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/336.stream/playlist.m3u8"
+      },
+      {
+        "description": "TEM ETİLER KATILIMI",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.09009519,
+        "longitude": 29.03816407,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/338.stream/playlist.m3u8"
+      },
+      {
+        "description": "TEM FSM ANADOLU",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.09216694,
+        "longitude": 29.08689418,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/341.stream/playlist.m3u8"
+      },
+      {
+        "description": "TEM FSM GİŞELER",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.09148122,
+        "longitude": 29.03166437,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/345.stream/playlist.m3u8"
+      },
+      {
+        "description": "TEM FİRUZKÖY",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.05418246,
+        "longitude": 28.7202166,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/339.stream/playlist.m3u8"
+      },
+      {
+        "description": "TEM FİRUZKÖY 1",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.05418246,
+        "longitude": 28.7202166,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/340.stream/playlist.m3u8"
+      },
+      {
+        "description": "TEM HALKALI",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.06163857,
+        "longitude": 28.76965569,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/349.stream/playlist.m3u8"
+      },
+      {
+        "description": "TEM HASDAL",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.10003915,
+        "longitude": 28.96680837,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/351.stream/playlist.m3u8"
+      },
+      {
+        "description": "TEM KARAYOLLARI",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.09150638,
+        "longitude": 28.89628137,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/357.stream/playlist.m3u8"
+      },
+      {
+        "description": "TEM KARTAL",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 40.98286411,
+        "longitude": 29.20633235,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/358.stream/playlist.m3u8"
+      },
+      {
+        "description": "TEM KAVACIK",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.08215758,
+        "longitude": 29.09425314,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/359.stream/playlist.m3u8"
+      },
+      {
+        "description": "TEM KAVAKLI",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.09995069,
+        "longitude": 28.33310066,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/360.stream/playlist.m3u8"
+      },
+      {
+        "description": "TEM KURTKÖY",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 40.93624905,
+        "longitude": 29.33151996,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/364.stream/playlist.m3u8"
+      },
+      {
+        "description": "TEM MAHMUTBEY BATI",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.06107242,
+        "longitude": 28.81123277,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/368.stream/playlist.m3u8"
+      },
+      {
+        "description": "TEM MAHMUTBEY DOĞU",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.05996753,
+        "longitude": 28.84244399,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/369.stream/playlist.m3u8"
+      },
+      {
+        "description": "TEM MAHMUTBEY DOĞU 1",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.061468,
+        "longitude": 28.841539,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/370.stream/playlist.m3u8"
+      },
+      {
+        "description": "TEM MASLAK",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.09961885,
+        "longitude": 29.00811922,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/371.stream/playlist.m3u8"
+      },
+      {
+        "description": "TEM ORTAKÖY 2",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.09426093,
+        "longitude": 28.35975096,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/380.stream/playlist.m3u8"
+      },
+      {
+        "description": "TEM SAMANDIRA 2",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 40.97515177,
+        "longitude": 29.24866157,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/384.stream/playlist.m3u8"
+      },
+      {
+        "description": "TEM ÇAMLICA GİŞELER",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 40.99006324,
+        "longitude": 29.18377411,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/321.stream/playlist.m3u8"
+      },
+      {
+        "description": "TEM ÇATALCA GİŞELER",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.08647485,
+        "longitude": 28.51517192,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/326.stream/playlist.m3u8"
+      },
+      {
+        "description": "İKİTELLİ KÖPRÜLÜ KAV.",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.06447104,
+        "longitude": 28.8151213,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/196.stream/playlist.m3u8"
+      },
+      {
+        "description": "ŞÜKRÜ SARAÇOĞLU",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 40.98903432,
+        "longitude": 29.03757358,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/283.stream/playlist.m3u8"
+      },
+      {
+        "description": "ŞİLE YOLU TEPEÜSTÜ",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.02796915,
+        "longitude": 29.1304533,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/292.stream/playlist.m3u8"
+      },
+      {
+        "description": "ŞİLE YOLU ÇAMLIK",
+        "encoding": "H.264",
+        "format": "M3U8",
+        "latitude": 41.01361486,
+        "longitude": 29.19601326,
+        "url": "https://601a55c88ec6d.streamlock.net/hls/289.stream/playlist.m3u8"
+      }
     ]
   },
   "İzmir": {
