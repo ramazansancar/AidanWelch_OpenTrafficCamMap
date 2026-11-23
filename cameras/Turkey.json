@@ -383,6 +383,32 @@
     ]
   },
   "Giresun": {
+    "Alucra": [
+      {
+        "description": "Güce Hareketli Kamera",
+        "encoding": "H.264",
+        "format": "EMBED",
+        "latitude": 40.3189,
+        "longitude": 38.766,
+        "url": "https://www.youtube.com/embed/JSe4fEYSh2U?autoplay=1&mute=1"
+      },
+      {
+        "description": "Güce Meydan",
+        "encoding": "H.264",
+        "format": "EMBED",
+        "latitude": 40.3202203,
+        "longitude": 38.7643375,
+        "url": "https://www.youtube.com/embed/uydB4EjICT0?autoplay=1&mute=1"
+      },
+      {
+        "description": "Alucra Belediye Önü",
+        "encoding": "H.264",
+        "format": "EMBED",
+        "latitude": 40.3181654,
+        "longitude": 38.7674848,
+        "url": "https://www.youtube.com/embed/MKA6FnoTCOY?autoplay=1&mute=1"
+      }
+    ],
     "Belediye": [
       {
         "description": "Atatürk Meydanı",
@@ -415,6 +441,166 @@
         "latitude": 40.9155354,
         "longitude": 38.3826236,
         "url": "https://cdn-ipkamera.yayin.com.tr/giresunbel/balikcibarinak/playlist.m3u8"
+      }
+    ],
+    "Hasan Yayında": [
+      {
+        "description": "Kümbet Yaylası Merkez",
+        "encoding": "H.264",
+        "format": "EMBED",
+        "latitude": 40.5598541,
+        "longitude": 38.4379807,
+        "url": "https://www.youtube.com/embed/ntq3oJehnY8?autoplay=1&mute=1"
+      },
+      {
+        "description": "Eğrianbarköyü Hareketli Kamera",
+        "encoding": "H.264",
+        "format": "EMBED",
+        "latitude": 40.75869429999999,
+        "longitude": 38.4969126,
+        "url": "https://www.youtube.com/embed/h_5G0n7p2J0?autoplay=1&mute=1"
+      },
+      {
+        "description": "Bulancak Meydan",
+        "encoding": "H.264",
+        "format": "EMBED",
+        "latitude": 40.93818,
+        "longitude": 38.231881,
+        "url": "https://www.youtube.com/embed/AyaQrdCgX_s?autoplay=1&mute=1"
+      },
+      {
+        "description": "Kulakkaya Yaylası",
+        "encoding": "H.264",
+        "format": "EMBED",
+        "latitude": 40.6991376,
+        "longitude": 38.3400593,
+        "url": "https://www.youtube.com/embed/gD2CwVY0NmA?autoplay=1&mute=1"
+      },
+      {
+        "description": "Bektaş Yaylası",
+        "encoding": "H.264",
+        "format": "EMBED",
+        "latitude": 40.6515248,
+        "longitude": 38.2404656,
+        "url": "https://www.youtube.com/embed/mcwNJM9qrCs?autoplay=1&mute=1"
+      },
+      {
+        "description": "Bulancak Giresun Manzara",
+        "encoding": "H.264",
+        "format": "EMBED",
+        "latitude": 40.9194946,
+        "longitude": 38.3890106,
+        "url": "https://www.youtube.com/embed/BUj2xI8N-vI?autoplay=1&mute=1"
+      },
+      {
+        "description": "Paşakonağı Yaylası",
+        "encoding": "H.264",
+        "format": "EMBED",
+        "latitude": 40.7369698,
+        "longitude": 38.0735191,
+        "url": "https://www.youtube.com/embed/ORXTMvi90cc?autoplay=1&mute=1"
+      },
+      {
+        "description": "Giresun Kalesi",
+        "encoding": "H.264",
+        "format": "EMBED",
+        "latitude": 40.9215233,
+        "longitude": 38.3906066,
+        "url": "https://www.youtube.com/embed/MMw0F-b-Q7c?autoplay=1&mute=1"
+      }
+    ],
+    "Keşap": [
+      {
+        "description": "KEŞAP",
+        "encoding": "H.264",
+        "format": "EMBED",
+        "latitude": 40.915626,
+        "longitude": 38.513043,
+        "url": "https://www.youtube.com/embed/lfJ4pEI_VBk?autoplay=1&mute=1"
+      }
+    ],
+    "Merkez Köyleri": [
+      {
+        "description": "OKÇU KÖYÜ 2",
+        "encoding": "H.264",
+        "format": "EMBED",
+        "latitude": 40.77248,
+        "longitude": 38.29025499999999,
+        "url": "https://www.youtube.com/embed/fuVPEeydglU?autoplay=1&mute=1"
+      },
+      {
+        "description": "OKÇU KÖYÜ TEPECİK CAMİ 3",
+        "encoding": "H.264",
+        "format": "EMBED",
+        "latitude": 40.7738872,
+        "longitude": 38.2940208,
+        "url": "https://www.youtube.com/embed/xBsiBJzI3iE?autoplay=1&mute=1"
+      },
+      {
+        "description": "OKÇU KÖYÜ TEPECİK CAMİ 2",
+        "encoding": "H.264",
+        "format": "EMBED",
+        "latitude": 40.7738872,
+        "longitude": 38.2940208,
+        "url": "https://www.youtube.com/embed/RmcQMX5cKcw?autoplay=1&mute=1"
+      },
+      {
+        "description": "OKÇU KÖYÜ TEPĞECİK CAMİ 1",
+        "encoding": "H.264",
+        "format": "EMBED",
+        "latitude": 40.7738872,
+        "longitude": 38.2940208,
+        "url": "https://www.youtube.com/embed/IWvUR8-GJfc?autoplay=1&mute=1"
+      },
+      {
+        "description": "OSMANİYE KÖYÜ HAREKETLİ KAMERA",
+        "encoding": "H.264",
+        "format": "EMBED",
+        "latitude": 40.7684232,
+        "longitude": 38.3288834,
+        "url": "https://www.youtube.com/embed/HiTMTb3JrKY?autoplay=1&mute=1"
+      },
+      {
+        "description": "OSMANİYE KÖYÜ 3",
+        "encoding": "H.264",
+        "format": "EMBED",
+        "latitude": 40.7684232,
+        "longitude": 38.3288834,
+        "url": "https://www.youtube.com/embed/WyA98DBL8mc?autoplay=1&mute=1"
+      },
+      {
+        "description": "OSMANİYE KÖYÜ 1",
+        "encoding": "H.264",
+        "format": "EMBED",
+        "latitude": 40.7684232,
+        "longitude": 38.3288834,
+        "url": "https://www.youtube.com/embed/8ypgIWfHgqw?autoplay=1&mute=1"
+      },
+      {
+        "description": "OSMANİYE KÖYÜ 2",
+        "encoding": "H.264",
+        "format": "EMBED",
+        "latitude": 40.7684232,
+        "longitude": 38.3288834,
+        "url": "https://www.youtube.com/embed/dsJbtC4WXF0?autoplay=1&mute=1"
+      },
+      {
+        "description": "OKÇU KÖYÜ 1",
+        "encoding": "H.264",
+        "format": "EMBED",
+        "latitude": 40.77248,
+        "longitude": 38.29025499999999,
+        "url": "https://www.youtube.com/embed/0j0IvBwsCLs?autoplay=1&mute=1"
+      }
+    ],
+    "Şebinkarahisar": [
+      {
+        "description": "ŞEBİNKARAHİSAR",
+        "encoding": "H.264",
+        "format": "EMBED",
+        "latitude": 40.28849599999999,
+        "longitude": 38.422166,
+        "url": "https://www.youtube.com/embed/pIeKqCpbVWA?autoplay=1&mute=1"
       }
     ]
   },
@@ -928,6 +1114,16 @@
         "url": "https://belsis.nevsehir.bel.tr/hls/live/heor20srsBQxVUDpcshHHCdk/index.m3u8"
       }
     ],
+    "Göreme": [
+      {
+        "description": "Cappadocia Hot Air Balloons",
+        "encoding": "H.264",
+        "format": "EMBED",
+        "latitude": 38.6440522,
+        "longitude": 34.830214,
+        "url": "https://www.youtube.com/embed/Eo2CQkXXWWU?autoplay=1&mute=1"
+      }
+    ],
     "Uçhisar": [
       {
         "description": "Uçhisar Merkez",
@@ -1397,6 +1593,122 @@
       }
     ]
   },
+  "Tokat": {
+    "Pınarbeyli": [
+      {
+        "description": "Sokak Kedileri Evi ı Cam 2 - Stray Cats House Broadcast",
+        "encoding": "H.264",
+        "format": "EMBED",
+        "latitude": 40.637,
+        "longitude": 36.537,
+        "url": "https://www.youtube.com/embed/z8MDuwwePIU?autoplay=1&mute=1"
+      },
+      {
+        "description": "Yaban Hayatından camera Batı 2",
+        "encoding": "H.264",
+        "format": "EMBED",
+        "latitude": 40.637,
+        "longitude": 36.537,
+        "url": "https://www.youtube.com/embed/KLf7LvmLIes?autoplay=1&mute=1"
+      },
+      {
+        "description": "YALAK Yaban Hayatından",
+        "encoding": "H.264",
+        "format": "EMBED",
+        "latitude": 40.637,
+        "longitude": 36.537,
+        "url": "https://www.youtube.com/embed/qlw-8HMS2YE?autoplay=1&mute=1"
+      },
+      {
+        "description": "Pınarbeyli köyü",
+        "encoding": "H.264",
+        "format": "EMBED",
+        "latitude": 40.680558,
+        "longitude": 36.779392,
+        "url": "https://www.youtube.com/embed/XiVkV5pH7XY?autoplay=1&mute=1"
+      },
+      {
+        "description": "Pınarbeyli köyü 2",
+        "encoding": "H.264",
+        "format": "EMBED",
+        "latitude": 40.680558,
+        "longitude": 36.779392,
+        "url": "https://www.youtube.com/embed/yHU2nKp7cUU?autoplay=1&mute=1"
+      },
+      {
+        "description": "Yaban Hayatından camera Doğu2",
+        "encoding": "H.264",
+        "format": "EMBED",
+        "latitude": 40.637,
+        "longitude": 36.537,
+        "url": "https://www.youtube.com/embed/Tav31ni-TZM?autoplay=1&mute=1"
+      },
+      {
+        "description": "Tokat / Erbaa - Seyrantepe Aile Çay Bahçesi Kamera 1",
+        "encoding": "H.264",
+        "format": "EMBED",
+        "latitude": 40.637,
+        "longitude": 36.537,
+        "url": "https://www.youtube.com/embed/qUsHfBiVFdE?autoplay=1&mute=1"
+      },
+      {
+        "description": "KUŞ EVİ I - Kamera 2",
+        "encoding": "H.264",
+        "format": "EMBED",
+        "latitude": 40.637,
+        "longitude": 36.537,
+        "url": "https://www.youtube.com/embed/FuR7Ce9UuEc?autoplay=1&mute=1"
+      },
+      {
+        "description": "Karga yuvası ı - Crow Nest broadcast",
+        "encoding": "H.264",
+        "format": "EMBED",
+        "latitude": 40.637,
+        "longitude": 36.537,
+        "url": "https://www.youtube.com/embed/i_fc260y5t0?autoplay=1&mute=1"
+      },
+      {
+        "description": "Mezarlık Yolu cemetery broadcast",
+        "encoding": "H.264",
+        "format": "EMBED",
+        "latitude": 40.6847995,
+        "longitude": 36.5774222,
+        "url": "https://www.youtube.com/embed/2rGZM1s1bVs?autoplay=1&mute=1"
+      },
+      {
+        "description": "Pınarbeyli köyü 3",
+        "encoding": "H.264",
+        "format": "EMBED",
+        "latitude": 40.680558,
+        "longitude": 36.779392,
+        "url": "https://www.youtube.com/embed/-9ZZyg0XNk8?autoplay=1&mute=1"
+      },
+      {
+        "description": "KUŞ EVİ I - Kamera 1",
+        "encoding": "H.264",
+        "format": "EMBED",
+        "latitude": 40.637,
+        "longitude": 36.537,
+        "url": "https://www.youtube.com/embed/ciwO7xPO4DU?autoplay=1&mute=1"
+      },
+      {
+        "description": "Pınarbeyli köyü 4",
+        "encoding": "H.264",
+        "format": "EMBED",
+        "latitude": 40.680558,
+        "longitude": 36.779392,
+        "url": "https://www.youtube.com/embed/jT0Z6hld5fw?autoplay=1&mute=1"
+      },
+      {
+        "description": "Pınarbeyli köyü 5",
+        "encoding": "H.264",
+        "format": "EMBED",
+        "latitude": 40.680558,
+        "longitude": 36.779392,
+        "url": "https://www.youtube.com/embed/vAtayE4QVg4?autoplay=1&mute=1"
+      }
+    ]
+  },
   "Trabzon": {
     "Belediye": [
       {
@@ -1530,6 +1842,16 @@
         "latitude": 41.41569510000001,
         "longitude": 32.0852305,
         "url": "https://cdn-ipkamera.yayin.com.tr/caycumabeltr/sarikas/playlist.m3u8"
+      }
+    ],
+    "Devrek": [
+      {
+        "description": "DEVREK",
+        "encoding": "H.264",
+        "format": "EMBED",
+        "latitude": 41.221412,
+        "longitude": 31.95446699999999,
+        "url": "https://www.youtube.com/embed/Rtnqsu-RRjM?autoplay=1&mute=1"
       }
     ]
   },

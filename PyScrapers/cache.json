@@ -59,6 +59,10 @@
     39.566041,
     26.747277
   ],
+  "Alucra Belediye Önü, Alucra, Giresun, Türkiye": [
+    40.3181654,
+    38.7674848
+  ],
   "Amisos, Samsun, Türkiye": [
     41.2797031,
     36.3360667
@@ -139,6 +143,10 @@
     37.6968506,
     29.1435095
   ],
+  "Bektaş Yaylası, Giresun, Türkiye": [
+    40.6515248,
+    38.2404656
+  ],
   "Belediye Binası, Belediye Onu, Kütahya, Türkiye": [
     39.4260235,
     29.9897072
@@ -179,6 +187,14 @@
     37.5819144,
     36.8670632
   ],
+  "Bulancak Giresun Manzara, Giresun, Türkiye": [
+    40.9194946,
+    38.3890106
+  ],
+  "Bulancak Meydan, Giresun, Türkiye": [
+    40.93818,
+    38.231881
+  ],
   "Burhaniye Meydan, Balıkesir, Türkiye": [
     39.5026851,
     26.9801795
@@ -190,6 +206,10 @@
   "Cadde Kamera, Giresun, Türkiye": [
     40.9123759,
     38.398668
+  ],
+  "Cappadocia Hot Air Balloons, Göreme, Nevşehir, Türkiye": [
+    38.6440522,
+    34.830214
   ],
   "Cleopatra, Alanya, Antalya, Türkiye": [
     36.5533266,
@@ -222,6 +242,10 @@
   "Devlet Hastanesi, Rize, Türkiye": [
     41.0283384,
     40.5144742
+  ],
+  "Devrek, Devrek, Zonguldak, Türkiye": [
+    41.221412,
+    31.95446699999999
   ],
   "Değirmendere, Trabzon, Türkiye": [
     40.9970149,
@@ -295,6 +319,10 @@
     37.6046241,
     36.7837829
   ],
+  "Eğrianbarköyü Hareketli Kamera, Giresun, Türkiye": [
+    40.75869429999999,
+    38.4969126
+  ],
   "Feneriskele, Alanya, Antalya, Türkiye": [
     36.5388728,
     32.0045022
@@ -343,6 +371,10 @@
     40.1034832,
     27.654213
   ],
+  "Güce Meydan, Alucra, Giresun, Türkiye": [
+    40.3202203,
+    38.7643375
+  ],
   "Havuzbaşı, Erzurum, Türkiye": [
     39.9055696,
     41.2657015
@@ -383,6 +415,10 @@
     37.9057173,
     32.4948214
   ],
+  "Keşap, Keşap, Giresun, Türkiye": [
+    40.915626,
+    38.513043
+  ],
   "Konya Büyükşehir Stadyumu, Konya, Türkiye": [
     37.9461947,
     32.4880881
@@ -395,6 +431,10 @@
     36.8520639,
     28.2745429
   ],
+  "Kulakkaya Yaylası, Giresun, Türkiye": [
+    40.6991376,
+    38.3400593
+  ],
   "Kule Kavşağı, Konya, Türkiye": [
     37.8891802,
     32.49370260000001
@@ -406,6 +446,10 @@
   "Kültürpark, Konya, Türkiye": [
     37.8751151,
     32.4891489
+  ],
+  "Kümbet Yaylası Merkez, Giresun, Türkiye": [
+    40.5598541,
+    38.4379807
   ],
   "Küre Kafe, Erzurum, Türkiye": [
     39.8442912,
@@ -495,6 +539,10 @@
     40.891759,
     40.929983
   ],
+  "Mezarlık Yolu Cemetery Broadcast, Pınarbeyli, Erbaa, Tokat, Türkiye": [
+    40.6847995,
+    36.5774222
+  ],
   "Millet Bahçesi, Konya, Türkiye": [
     37.8652053,
     32.4825466
@@ -531,6 +579,26 @@
     36.55003,
     32.059148
   ],
+  "Okçu Köyü 1, Merkez, Giresun, Türkiye": [
+    40.77248,
+    38.29025499999999
+  ],
+  "Okçu Köyü 2, Merkez, Giresun, Türkiye": [
+    40.77248,
+    38.29025499999999
+  ],
+  "Okçu Köyü Tepecik Cami 2, Merkez, Giresun, Türkiye": [
+    40.7738872,
+    38.2940208
+  ],
+  "Okçu Köyü Tepecik Cami 3, Merkez, Giresun, Türkiye": [
+    40.7738872,
+    38.2940208
+  ],
+  "Okçu Köyü Tepğecik Cami 1, Merkez, Giresun, Türkiye": [
+    40.7738872,
+    38.2940208
+  ],
   "Onur Anıtı, Samsun, Türkiye": [
     41.2890668,
     36.336451
@@ -538,6 +606,22 @@
   "Opera, Samsun, Türkiye": [
     41.2945719,
     36.3348243
+  ],
+  "Osmaniye Köyü 1, Merkez, Giresun, Türkiye": [
+    40.7684232,
+    38.3288834
+  ],
+  "Osmaniye Köyü 2, Merkez, Giresun, Türkiye": [
+    40.7684232,
+    38.3288834
+  ],
+  "Osmaniye Köyü 3, Merkez, Giresun, Türkiye": [
+    40.7684232,
+    38.3288834
+  ],
+  "Osmaniye Köyü Hareketli Kamera, Merkez, Giresun, Türkiye": [
+    40.7684232,
+    38.3288834
   ],
   "Otogar Kavşağı, Konya, Türkiye": [
     37.9487938,
@@ -559,9 +643,17 @@
     41.0094012,
     39.7193797
   ],
+  "Paşakonağı Yaylası, Giresun, Türkiye": [
+    40.7369698,
+    38.0735191
+  ],
   "Pınarbaşı Mahallesi, Derebucak, Konya, Türkiye": [
     37.407762,
     31.436863
+  ],
+  "Pınarbeyli Köyü, Pınarbeyli, Erbaa, Tokat, Türkiye": [
+    40.680558,
+    36.779392
   ],
   "Rıhtım, Alanya, Antalya, Türkiye": [
     36.5366001,
@@ -850,6 +942,10 @@
   "İçmeler, Marmaris, Muğla, Türkiye": [
     36.802391,
     28.224899
+  ],
+  "Şebinkarahisar, Şebinkarahisar, Giresun, Türkiye": [
+    40.28849599999999,
+    38.422166
   ],
   "Şehitler Parkı, Balıkesir, Türkiye": [
     39.6595362,
