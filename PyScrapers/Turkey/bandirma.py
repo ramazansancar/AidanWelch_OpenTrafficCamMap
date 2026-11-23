@@ -1,9 +1,7 @@
 # Bu araç @keyiflerolsun tarafından | @KekikAkademi için yazılmıştır.
 
-from Kekik.cli import konsol
 from httpx     import AsyncClient, Timeout
-from json      import load, dumps
-from helpers   import str2latlng
+from helpers   import str2latlng, kaydet
 
 class Bandirma:
     def __init__(self):
@@ -35,24 +33,4 @@ async def basla():
     belediye      = Bandirma()
     gelen_veriler = await belediye.getir()
 
-    konsol.print(gelen_veriler)
-    konsol.log(f"[yellow][Balıkesir][Bandırma] [+] {len(gelen_veriler['Bandirma'])} Adet Kamera Bulundu")
-
-    turkey_json = "../cameras/Turkey.json"
-
-    with open(turkey_json, "r", encoding="utf-8") as dosya:
-        mevcut_veriler = load(dosya)
-
-    if not mevcut_veriler.get("Balıkesir"):
-        mevcut_veriler["Balıkesir"] = {}
-
-    if gelen_veriler["Bandirma"] == mevcut_veriler.get("Balıkesir", {}).get("Bandirma"):
-        konsol.log("[red][Balıkesir][Bandırma] [!] Yeni Veri Yok")
-        return
-
-    mevcut_veriler["Balıkesir"]["Bandirma"] = gelen_veriler["Bandirma"]
-
-    with open(turkey_json, "w", encoding="utf-8") as dosya:
-        dosya.write(dumps(mevcut_veriler, sort_keys=True, ensure_ascii=False, indent=2))
-
-    konsol.log(f"[green][Balıkesir][Bandırma] [+] {len(gelen_veriler['Bandirma'])} Adet Kamera Eklendi")
+    kaydet("Balıkesir", gelen_veriler)

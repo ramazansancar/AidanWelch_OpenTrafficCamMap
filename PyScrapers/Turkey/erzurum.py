@@ -2,8 +2,7 @@
 
 from Kekik.cli import konsol
 from httpx     import AsyncClient, Timeout
-from json      import load, dumps
-from helpers   import str2latlng
+from helpers   import str2latlng, kaydet
 from bs4       import BeautifulSoup
 import re
 
@@ -126,27 +125,4 @@ async def basla():
     belediye      = Erzurum()
     gelen_veriler = await belediye.getir()
 
-    # Toplam kamera sayısını hesapla
-    toplam_kamera = sum(len(kategori) for kategori in gelen_veriler.values())
-    
-    konsol.print(gelen_veriler)
-    konsol.log(f"[yellow][Erzurum] [+] {toplam_kamera} Adet Kamera Bulundu")
-    konsol.log(f"[cyan][Erzurum] Belediye: {len(gelen_veriler.get('Belediye', []))}, Ejder: {len(gelen_veriler.get('Ejder', []))}, Web: {len(gelen_veriler.get('Web', []))}")
-
-    turkey_json = "../cameras/Turkey.json"
-
-    with open(turkey_json, "r", encoding="utf-8") as dosya:
-        mevcut_veriler = load(dosya)
-
-    if gelen_veriler == mevcut_veriler.get("Erzurum"):
-        konsol.log("[red][Erzurum] [!] Yeni Veri Yok")
-        return
-
-    if mevcut_veriler.get("Erzurum"):
-        del mevcut_veriler["Erzurum"]
-    mevcut_veriler["Erzurum"] = gelen_veriler
-
-    with open(turkey_json, "w", encoding="utf-8") as dosya:
-        dosya.write(dumps(mevcut_veriler, sort_keys=True, ensure_ascii=False, indent=2))
-
-    konsol.log(f"[green][Erzurum] [+] {toplam_kamera} Adet Kamera Eklendi")
+    kaydet("Erzurum", gelen_veriler)

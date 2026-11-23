@@ -4,8 +4,7 @@ from Kekik.cli import konsol
 from httpx     import AsyncClient, Timeout
 from parsel    import Selector
 from re        import search, DOTALL
-from json      import load, dumps
-from helpers   import str2latlng
+from helpers   import str2latlng, kaydet
 
 class Cayirova:
     def __init__(self):
@@ -135,26 +134,4 @@ async def basla():
     belediye      = Cayirova()
     gelen_veriler = await belediye.getir()
 
-    konsol.print(gelen_veriler)
-    konsol.log(f"[yellow][Kocaeli][Çayırova] [+] {len(gelen_veriler['Cayirova'])} Adet Kamera Bulundu")
-
-    turkey_json = "../cameras/Turkey.json"
-
-    with open(turkey_json, "r", encoding="utf-8") as dosya:
-        mevcut_veriler = load(dosya)
-
-    if gelen_veriler["Cayirova"] == mevcut_veriler.get("Kocaeli", {}).get("Cayirova"):
-        konsol.log("[red][Kocaeli][Çayırova] [!] Yeni Veri Yok")
-        return
-
-    # Kocaeli anahtarı yoksa oluştur
-    if "Kocaeli" not in mevcut_veriler:
-        mevcut_veriler["Kocaeli"] = {}
-    
-    # Çayırova verilerini doğrudan ekle/güncelle (iç içe yapı değil)
-    mevcut_veriler["Kocaeli"]["Cayirova"] = gelen_veriler["Cayirova"]
-
-    with open(turkey_json, "w", encoding="utf-8") as dosya:
-        dosya.write(dumps(mevcut_veriler, sort_keys=True, ensure_ascii=False, indent=2))
-
-    konsol.log(f"[green][Kocaeli][Çayırova] [+] {len(gelen_veriler['Cayirova'])} Adet Kamera Eklendi")
+    kaydet("Kocaeli", gelen_veriler)
