@@ -1,6 +1,6 @@
 # Bu araç @keyiflerolsun tarafından | @KekikAkademi için yazılmıştır.
 
-from Kekik.cli import konsol
+from helpers   import konsol
 from httpx     import AsyncClient, Timeout
 from helpers   import str2latlng, kaydet
 from bs4       import BeautifulSoup

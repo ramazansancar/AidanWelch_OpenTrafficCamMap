@@ -1,12 +1,63 @@
 # Bu araç @keyiflerolsun tarafından | @KekikAkademi için yazılmıştır.
 
-from json import dumps, loads, load
-from httpx import AsyncClient
-from Kekik import unicode_tr
-from Kekik.cli import konsol
+from json     import dumps, loads, load
+from httpx    import AsyncClient
+from datetime import datetime
+from os       import environ
 import re
 
 TURKEY_JSON = "../cameras/Turkey.json"
+
+class Konsol:
+    """Kekik.cli.konsol (rich) yerine küçük çıktı yardımcısı.
+
+    `[red]...` gibi rich etiketlerini ANSI renge çevirir; `[Konya]` gibi
+    stil olmayan köşeli parantezler olduğu gibi kalır. NO_COLOR ile renk kapanır.
+    """
+    STILLER = {
+        "bold": "1", "red": "31", "green": "32", "yellow": "33",
+        "blue": "34", "purple": "35", "magenta": "35", "cyan": "36", "white": "37",
+    }
+    ETIKET  = re.compile(r"\[(/?)([a-z ]*)\]")
+
+    def __init__(self):
+        self.renkli = "NO_COLOR" not in environ
+
+    def _bicimle(self, metin: str) -> str:
+        def degistir(eslesme: re.Match) -> str:
+            kapanis, kelimeler = eslesme.group(1), eslesme.group(2).split()
+            if kapanis and not kelimeler:
+                return "\033[0m" if self.renkli else ""
+            if not kelimeler or any(k not in self.STILLER for k in kelimeler):
+                return eslesme.group(0)
+            if not self.renkli:
+                return ""
+            return "\033[0m" if kapanis else "\033[" + ";".join(self.STILLER[k] for k in kelimeler) + "m"
+
+        sonuc = self.ETIKET.sub(degistir, metin)
+        return sonuc + "\033[0m" if self.renkli and "\033[" in sonuc else sonuc
+
+    def print(self, *nesneler) -> None:
+        print(*(self._bicimle(n) if isinstance(n, str) else n for n in nesneler), flush=True)
+
+    def log(self, *nesneler) -> None:
+        self.print(f"[{datetime.now():%H:%M:%S}]", *nesneler)
+
+konsol = Konsol()
+
+def tr_baslik(metin: str) -> str:
+    """Kekik.unicode_tr(metin).title() ile aynı sonuç (cache.json anahtarları buna bağlı).
+
+    Her kelime: ilk harf Türkçe büyük (i→İ, ı→I), kalanı Türkçe küçük (I→ı, İ→i);
+    sonra Python str.title() uygulanır.
+    """
+    def buyuk(s: str) -> str:
+        return s.replace("ı", "I").replace("i", "İ").upper()
+
+    def kucuk(s: str) -> str:
+        return s.replace("I", "ı").replace("İ", "i").lower()
+
+    return " ".join(buyuk(k[0]) + kucuk(k[1:]) for k in metin.split()).title()
 
 cache = {}
 
@@ -80,7 +131,7 @@ async def str2latlng(str:str, merkez:tuple[float, float] | None = None, yaricap:
 
 async def _str2latlng(str:str) -> tuple[float, float]:
     oturum  = AsyncClient(headers={"User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}, timeout=15)
-    yer_adi = re.sub(r"\s*\d+$", "", unicode_tr(str).title())
+    yer_adi = re.sub(r"\s*\d+$", "", tr_baslik(str))
 
     if yer_adi in cache:
         return cache[yer_adi]

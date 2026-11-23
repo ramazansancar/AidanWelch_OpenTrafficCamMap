@@ -1,7 +1,8 @@
 # Bu araç @keyiflerolsun tarafından | @KekikAkademi için yazılmıştır.
 
-from Kekik.cli import cikis_yap, hata_yakala
 from asyncio   import run
+from traceback import print_exc
+from helpers   import konsol
 from Turkey    import alanya, balikesir, bandirma, caycuma, cayirova, denizli, derebucak, erzurum, giresun, kahramanmaras, karacabey, konya, kutahya, marmaris, nevsehir, rize, samsun, sindirgi, trabzon
 
 BETIKLER = {
@@ -32,11 +33,13 @@ async def basla():
         try:
             await betik.basla()
         except Exception as e:
-            print(f"[HATA] {ad}: {e}")
+            konsol.log(f"[red][HATA] {ad}: {e}")
 
 if __name__ == "__main__":
     try:
         run(basla())
-        cikis_yap(False)
-    except Exception as hata:
-        hata_yakala(hata)
+    except KeyboardInterrupt:
+        konsol.log("[bold purple]Çıkış Yapıldı..")
+    except Exception:
+        print_exc()
+        raise SystemExit(1)
