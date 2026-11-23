@@ -1005,6 +1005,296 @@
         "longitude": 40.5063248,
         "url": "https://cdn-ipkamera.yayin.com.tr/rizebel/dagbasi/playlist.m3u8"
       }
+    ],
+    "Gölyayla": [
+      {
+        "description": "Gölyayla - Köy Hareketli",
+        "encoding": "H.264",
+        "format": "EMBED",
+        "latitude": 40.614503,
+        "longitude": 40.721534,
+        "url": "https://www.youtube.com/embed/2IKTnkw4YiA?autoplay=1&mute=1"
+      },
+      {
+        "description": "Gölyayla - Yayla Hareketli",
+        "encoding": "H.264",
+        "format": "EMBED",
+        "latitude": 40.632729,
+        "longitude": 40.680413,
+        "url": "https://www.youtube.com/embed/Pje_kodX-bk?autoplay=1&mute=1"
+      },
+      {
+        "description": "Gölyayla - Yanmışlık Hareketli",
+        "encoding": "H.264",
+        "format": "EMBED",
+        "latitude": 40.682024,
+        "longitude": 40.615779,
+        "url": "https://www.youtube.com/embed/jAvjpkh8DeI?autoplay=1&mute=1"
+      },
+      {
+        "description": "Gölyayla - Kapar Hareketli",
+        "encoding": "H.264",
+        "format": "EMBED",
+        "latitude": 40.631854,
+        "longitude": 40.662514,
+        "url": "https://www.youtube.com/embed/f05exr2Mej0?autoplay=1&mute=1"
+      },
+      {
+        "description": "Gölyayla - Köy Giriş Yakın",
+        "encoding": "H.264",
+        "format": "EMBED",
+        "latitude": 40.614503,
+        "longitude": 40.721534,
+        "url": "https://www.youtube.com/embed/4KmQt6rvsps?autoplay=1&mute=1"
+      },
+      {
+        "description": "Gölyayla - Köy Giriş Uzak",
+        "encoding": "H.264",
+        "format": "EMBED",
+        "latitude": 40.614503,
+        "longitude": 40.721534,
+        "url": "https://www.youtube.com/embed/p7QP1TA062U?autoplay=1&mute=1"
+      },
+      {
+        "description": "Gölyayla - Köy Aşağıdan Yukarıya",
+        "encoding": "H.264",
+        "format": "EMBED",
+        "latitude": 40.614503,
+        "longitude": 40.721534,
+        "url": "https://www.youtube.com/embed/W83XQsfVnxQ?autoplay=1&mute=1"
+      },
+      {
+        "description": "Gölyayla - Gavuzoğulları Alt Viraj",
+        "encoding": "H.264",
+        "format": "EMBED",
+        "latitude": 40.661734,
+        "longitude": 40.611726,
+        "url": "https://www.youtube.com/embed/GUV0BioNmfg?autoplay=1&mute=1"
+      },
+      {
+        "description": "Gölyayla - Gavuzoğulları Viraj",
+        "encoding": "H.264",
+        "format": "EMBED",
+        "latitude": 40.661734,
+        "longitude": 40.611726,
+        "url": "https://www.youtube.com/embed/g9w1iXlDYKI?autoplay=1&mute=1"
+      },
+      {
+        "description": "Gölyayla - Köy Aşağı",
+        "encoding": "H.264",
+        "format": "EMBED",
+        "latitude": 40.614503,
+        "longitude": 40.721534,
+        "url": "https://www.youtube.com/embed/OxzbZvIZjtI?autoplay=1&mute=1"
+      },
+      {
+        "description": "Gölyayla - Köy Yukarı",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "latitude": 40.614503,
+        "longitude": 40.721534,
+        "url": "https://i.ytimg.com/vi/lqbNyR2J29o/hqdefault_live.jpg"
+      },
+      {
+        "description": "Gölyayla - Halko",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "latitude": 40.649037,
+        "longitude": 40.626756,
+        "url": "https://i.ytimg.com/vi/qi63Vv1f0yc/hqdefault_live.jpg"
+      },
+      {
+        "description": "Gölyayla - Koğoş",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "latitude": 40.648729,
+        "longitude": 40.634338,
+        "url": "https://i.ytimg.com/vi/JS_SHBzi-HQ/hqdefault_live.jpg"
+      },
+      {
+        "description": "Gölyayla - Merze Aşagı",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "latitude": 40.637562,
+        "longitude": 40.644913,
+        "url": "https://i.ytimg.com/vi/jR9azQ-aMW4/hqdefault_live.jpg"
+      },
+      {
+        "description": "Gölyayla - Merze Yukarı",
+        "encoding": "H.264",
+        "format": "EMBED",
+        "latitude": 40.637562,
+        "longitude": 40.644913,
+        "url": "https://www.youtube.com/embed/sRVRqp5RBEk?autoplay=1&mute=1"
+      },
+      {
+        "description": "Gölyayla - Kuzey Merzeler",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "latitude": 40.637562,
+        "longitude": 40.644913,
+        "url": "https://i.ytimg.com/vi/qvNAQJImtW0/hqdefault_live.jpg"
+      },
+      {
+        "description": "Gölyayla - Kapardan Yayla",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "latitude": 40.631854,
+        "longitude": 40.662514,
+        "url": "https://i.ytimg.com/vi/xLcyRkbVk_c/hqdefault_live.jpg"
+      },
+      {
+        "description": "Gölyayla - Yayla Minare Doğu",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "latitude": 40.632729,
+        "longitude": 40.680413,
+        "url": "https://i.ytimg.com/vi/kDw-fVV0KnA/hqdefault_live.jpg"
+      },
+      {
+        "description": "Gölyayla - Yayla Minare Kuzey",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "latitude": 40.632729,
+        "longitude": 40.680413,
+        "url": "https://i.ytimg.com/vi/mMBTaK3Yqkc/hqdefault_live.jpg"
+      },
+      {
+        "description": "Gölyayla - Yayla Minare Batı",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "latitude": 40.632729,
+        "longitude": 40.680413,
+        "url": "https://i.ytimg.com/vi/EA1mXl2KX1k/hqdefault_live.jpg"
+      },
+      {
+        "description": "Gölyayla - Yayla İçi 1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "latitude": 40.632729,
+        "longitude": 40.680413,
+        "url": "https://i.ytimg.com/vi/ZQub_NI0KZk/hqdefault_live.jpg"
+      },
+      {
+        "description": "Gölyayla - Yayla İçi 2",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "latitude": 40.632729,
+        "longitude": 40.680413,
+        "url": "https://i.ytimg.com/vi/EH_pCZZi_qY/hqdefault_live.jpg"
+      },
+      {
+        "description": "Gölyayla - Yayla İçi 3",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "latitude": 40.632729,
+        "longitude": 40.680413,
+        "url": "https://i.ytimg.com/vi/NMF2dI3Ankw/hqdefault_live.jpg"
+      },
+      {
+        "description": "Gölyayla - Yayla İçi 4",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "latitude": 40.632729,
+        "longitude": 40.680413,
+        "url": "https://i.ytimg.com/vi/TjZ8_JM2rvA/hqdefault_live.jpg"
+      },
+      {
+        "description": "Gölyayla - Yayla İçi 5",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "latitude": 40.632729,
+        "longitude": 40.680413,
+        "url": "https://i.ytimg.com/vi/Zvt4OirRFlg/hqdefault_live.jpg"
+      },
+      {
+        "description": "Gölyayla - Taşköprü Giriş",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "latitude": 40.631156,
+        "longitude": 40.685751,
+        "url": "https://i.ytimg.com/vi/zWlBX1Wp4g0/hqdefault_live.jpg"
+      },
+      {
+        "description": "Gölyayla - Şakodan Yayla",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "latitude": 40.626442,
+        "longitude": 40.68468,
+        "url": "https://i.ytimg.com/vi/SNdRPjibPhk/hqdefault_live.jpg"
+      },
+      {
+        "description": "Gölyayla - Şakodan Samri",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "latitude": 40.626442,
+        "longitude": 40.68468,
+        "url": "https://i.ytimg.com/vi/yiU1js24op4/hqdefault_live.jpg"
+      },
+      {
+        "description": "Gölyayla - Koğoştan Çen",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "latitude": 40.648729,
+        "longitude": 40.634338,
+        "url": "https://i.ytimg.com/vi/OSHTSiTcCAw/hqdefault_live.jpg"
+      },
+      {
+        "description": "Gölyayla - Çen 1",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "latitude": 40.653187,
+        "longitude": 40.636636,
+        "url": "https://i.ytimg.com/vi/7BYnKRK_hR8/hqdefault_live.jpg"
+      },
+      {
+        "description": "Gölyayla - Çen 2",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "latitude": 40.653187,
+        "longitude": 40.636636,
+        "url": "https://i.ytimg.com/vi/fx640Ua5yV8/hqdefault_live.jpg"
+      },
+      {
+        "description": "Gölyayla - Yabani",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "latitude": 40.614503,
+        "longitude": 40.721534,
+        "url": "https://i.ytimg.com/vi/yJq0rkRM4Ws/hqdefault_live.jpg"
+      },
+      {
+        "description": "Gölyayla - Feyizler",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "latitude": 40.63752,
+        "longitude": 40.651928,
+        "url": "https://i.ytimg.com/vi/4T1DdvwnSKo/hqdefault_live.jpg"
+      },
+      {
+        "description": "Gölyayla - Feyizler Köy",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "latitude": 40.63752,
+        "longitude": 40.651928,
+        "url": "https://i.ytimg.com/vi/A8YhYQ-DVRY/hqdefault_live.jpg"
+      },
+      {
+        "description": "Gölyayla - Petrandan Kabahor",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "latitude": 40.623163,
+        "longitude": 40.714001,
+        "url": "https://i.ytimg.com/vi/OMCZ9tfe4VE/hqdefault_live.jpg"
+      },
+      {
+        "description": "Gölyayla - Şakodan Yayla 4K",
+        "encoding": "JPEG",
+        "format": "IMAGE_STREAM",
+        "latitude": 40.626442,
+        "longitude": 40.68468,
+        "url": "https://i.ytimg.com/vi/QoFmDXQVuL0/hqdefault_live.jpg"
+      }
     ]
   },
   "Samsun": {
