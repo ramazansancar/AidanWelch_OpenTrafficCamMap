@@ -1064,6 +1064,16 @@
     "Belediye": []
   },
   "Mugla": {
+    "Fethiye": [
+      {
+        "description": "Ölüdeniz Belcekız Beach Club",
+        "encoding": "H.264",
+        "format": "EMBED",
+        "latitude": 36.5497,
+        "longitude": 29.115,
+        "url": "https://ipcamlive.com/player/player.php?alias=belcekizbeachclub&autoplay=1&mute=1"
+      }
+    ],
     "Marmaris": [
       {
         "description": "Meydan",

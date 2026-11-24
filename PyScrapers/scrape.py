@@ -3,7 +3,7 @@
 from asyncio   import run
 from traceback import print_exc
 from helpers   import konsol
-from Turkey    import alanya, balikesir, bandirma, caycuma, cayirova, denizli, derebucak, erzurum, giresun, golyayla, istanbul, kahramanmaras, karacabey, konya, kutahya, marmaris, nevsehir, rize, salda, samsun, seydisehir, sindirgi, trabzon, uchisar, youtube, zara
+from Turkey    import alanya, balikesir, bandirma, caycuma, cayirova, denizli, derebucak, erzurum, giresun, golyayla, ipcamlive, istanbul, kahramanmaras, karacabey, konya, kutahya, marmaris, nevsehir, rize, salda, samsun, seydisehir, sindirgi, trabzon, uchisar, youtube, zara
 
 BETIKLER = {
     "Alanya"        : alanya,
@@ -31,6 +31,7 @@ BETIKLER = {
     "Uçhisar"       : uchisar,
     "Zara"          : zara,
     "Seydişehir"    : seydisehir,
+    "ipcamlive"     : ipcamlive,
     "YouTube"       : youtube,
 }
 
