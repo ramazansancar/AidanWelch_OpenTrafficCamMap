@@ -4,6 +4,7 @@
 # Her kanalın "Canlı" (streams) sekmesi okunur; o an CANLI rozetli videolar alınır.
 # Yayın yeniden başlayınca video kimliği değişse de kanal üzerinden yenisi bulunur.
 # Gömme açıksa EMBED (iframe), kapalıysa canlı küçük resim (IMAGE_STREAM).
+# Kanal sekmelerinde görünmeyen canlı yayınlar VIDEOLAR tablosunda (video kimliği + sabit konum).
 # Gölyayla kanalları ayrı: golyayla.py.
 
 from asyncio   import Semaphore, gather
@@ -26,6 +27,12 @@ KANALLAR = [
     ("UC3X8M2MY_hcoMvA0DN9-olA", "Osmaniye",  "Karaçay",        "Karaçay, Osmaniye",           (37.1500, 36.2500),     0.5,     None),
     ("UCtjBLnQuaEgrZtyhpNsn9uw", "Antalya",   "Muratpaşa",      "Muratpaşa, Antalya",          (36.8850, 30.7056),     0.3,     None),
     ("UCUwiUvWeYt_YliYWjqBhkeg", "Nevşehir",  "Göreme",         "Göreme, Nevşehir",            (38.6431, 34.8289),     0.3,     r"cappadocia|kapadokya|göreme"),
+]
+
+# Kanal sekmelerinde görünmeyen (listelenmemiş) canlı yayınlar: video kimliğiyle, sabit konum
+VIDEOLAR = [
+    # video kimliği,  il,        alt grup,   açıklama,                      (enlem, boylam)
+    ("whIxfJ1IPoU", "Antalya", "Manavgat", "Kamelya Collection, Side",    (36.7790, 31.3905)),  # otel, kanal UC2R2uusxWPfS2UwTjRqFWqw
 ]
 
 # Başlıktaki yayın sözcükleri, emojiler, sıra numaraları geocode'u bozuyor
@@ -76,6 +83,18 @@ class YouTube:
         gez(loads(veri.group(1)))
         return list(dict.fromkeys(videolar))
 
+    async def video_canli_mi(self, video_id: str) -> bool:
+        """İzleme sayfasındaki oynatıcı yanıtına göre video şu an canlı mı"""
+        async with self.sinir:
+            istek = await self.oturum.get("https://www.youtube.com/watch", params={"v": video_id})
+
+        yanit = search(r"var ytInitialPlayerResponse = (\{.*?\});(?:var |</script>)", istek.text)
+        if not yanit:
+            return False
+
+        veri = loads(yanit.group(1))
+        return bool(veri.get("videoDetails", {}).get("isLive")) and veri.get("playabilityStatus", {}).get("status") == "OK"
+
     async def gomulebilir_mi(self, video_id: str) -> bool:
         async with self.sinir:
             try:
@@ -98,25 +117,40 @@ class YouTube:
 
             ad = temiz_baslik(baslik) or alt
             latitude, longitude = await str2latlng(f"{ad}, {ek}, Türkiye", merkez=merkez, yaricap=yaricap)
-
-            if await self.gomulebilir_mi(video_id):
-                url, bicim, kodlama = f"https://www.youtube.com/embed/{video_id}?autoplay=1&mute=1", "EMBED", "H.264"
-            else:
-                url, bicim, kodlama = f"https://i.ytimg.com/vi/{video_id}/hqdefault_live.jpg", "IMAGE_STREAM", "JPEG"
-
-            kameralar.append({
-                "description" : ad,
-                "latitude"    : latitude,
-                "longitude"   : longitude,
-                "url"         : url,
-                "encoding"    : kodlama,
-                "format"      : bicim
-            })
+            kameralar.append(await self.kamera(video_id, ad, latitude, longitude))
 
         return il, alt, kameralar
 
+    async def kamera(self, video_id: str, ad: str, latitude: float, longitude: float) -> dict:
+        if await self.gomulebilir_mi(video_id):
+            url, bicim, kodlama = f"https://www.youtube.com/embed/{video_id}?autoplay=1&mute=1", "EMBED", "H.264"
+        else:
+            url, bicim, kodlama = f"https://i.ytimg.com/vi/{video_id}/hqdefault_live.jpg", "IMAGE_STREAM", "JPEG"
+
+        return {
+            "description" : ad,
+            "latitude"    : latitude,
+            "longitude"   : longitude,
+            "url"         : url,
+            "encoding"    : kodlama,
+            "format"      : bicim
+        }
+
+    async def video_getir(self, video_id, il, alt, ad, konum) -> tuple[str, str, list[dict]]:
+        try:
+            if not await self.video_canli_mi(video_id):
+                return il, alt, []
+        except Exception as hata:
+            konsol.log(f"[red][YouTube][{alt}] Video okunamadı: {hata}")
+            return il, alt, []
+
+        return il, alt, [await self.kamera(video_id, ad, *konum)]
+
     async def getir(self) -> dict[str, dict[str, list[dict]]]:
-        sonuclar = await gather(*(self.kanal_getir(*satir) for satir in KANALLAR))
+        sonuclar = await gather(
+            *(self.kanal_getir(*satir) for satir in KANALLAR),
+            *(self.video_getir(*satir) for satir in VIDEOLAR),
+        )
 
         iller: dict[str, dict[str, list[dict]]] = {}
         for il, alt, kameralar in sonuclar:

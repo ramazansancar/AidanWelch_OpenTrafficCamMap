@@ -65,6 +65,16 @@
         "longitude": 32.0045022,
         "url": "https://cdn-ipkamera.yayin.com.tr/alanyabeltr/feneriskele/playlist.m3u8"
       }
+    ],
+    "Manavgat": [
+      {
+        "description": "Kamelya Collection, Side",
+        "encoding": "H.264",
+        "format": "EMBED",
+        "latitude": 36.779,
+        "longitude": 31.3905,
+        "url": "https://www.youtube.com/embed/whIxfJ1IPoU?autoplay=1&mute=1"
+      }
     ]
   },
   "Balıkesir": {
@@ -445,14 +455,6 @@
     ],
     "Hasan Yayında": [
       {
-        "description": "Kümbet Yaylası Merkez",
-        "encoding": "H.264",
-        "format": "EMBED",
-        "latitude": 40.5598541,
-        "longitude": 38.4379807,
-        "url": "https://www.youtube.com/embed/ntq3oJehnY8?autoplay=1&mute=1"
-      },
-      {
         "description": "Eğrianbarköyü Hareketli Kamera",
         "encoding": "H.264",
         "format": "EMBED",
@@ -520,14 +522,6 @@
       }
     ],
     "Merkez Köyleri": [
-      {
-        "description": "OKÇU KÖYÜ 2",
-        "encoding": "H.264",
-        "format": "EMBED",
-        "latitude": 40.77248,
-        "longitude": 38.29025499999999,
-        "url": "https://www.youtube.com/embed/fuVPEeydglU?autoplay=1&mute=1"
-      },
       {
         "description": "OKÇU KÖYÜ TEPECİK CAMİ 3",
         "encoding": "H.264",
