@@ -86,6 +86,18 @@ async def canli_mi(oturum: AsyncClient, hls_url: str) -> bool:
     except Exception:
         return False
 
+async def mjpeg_canli_mi(oturum: AsyncClient, url: str) -> bool:
+    """MJPEG / anlık resim adresi şu an görüntü veriyor mu.
+
+    MJPEG (multipart/x-mixed-replace) akışı hiç bitmez; yalnız başlıklar okunup bağlantı kapatılır.
+    """
+    try:
+        async with oturum.stream("GET", url) as istek:
+            tur = istek.headers.get("content-type", "").lower()
+            return istek.status_code == 200 and tur.startswith(("multipart/x-mixed-replace", "image/"))
+    except Exception:
+        return False
+
 def kaydet(il: str, gelen_veriler: dict[str, list[dict]]) -> None:
     """Bir ilin alt gruplarını (ilçe / kaynak) Turkey.json'a yazar.
 

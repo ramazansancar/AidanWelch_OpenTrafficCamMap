@@ -102,9 +102,14 @@
                 let m = L.marker([cam.latitude, cam.longitude]);
                 var cam_view = (() => {
                     if(cam.url){
+						// An http stream on an https page is blocked as mixed content, so offer a direct link too
+						const httpLink = (location.protocol === 'https:' && cam.url.startsWith('http:'))
+							? `<br><a href="${cam.url}" target="_blank" rel="noopener noreferrer">Open stream in a new tab (HTTP)</a>`
+							: '';
 						switch( cam.format ) {
 							case "IMAGE_STREAM":
-								return `<img src="${cam.url}" width="320" height="240" alt="Camera Stream">`;
+								// Also plays MJPEG (multipart/x-mixed-replace) streams natively
+								return `<img src="${cam.url}" width="320" height="240" alt="Camera Stream">` + httpLink;
 							case "M3U8":
 							case "M3U9":
 								return '<video id="video" width="320" height="240" autoplay muted></video>';
@@ -115,7 +120,8 @@
 								return `The Colorado DOT for an unknowable reason implements <a href="https://en.wikipedia.org/wiki/Digital_rights_management">DRM</a> making streaming on this site very difficult.
 									So, this should redirect you to a map of Colorado by the state DOT that does work: <a href="https://www.cotrip.org/map.htm#/default">Link</a>`;
                             case "EMBED":
-                                return `<iframe src="${cam.url}" width="320" height="240" frameborder="0" scrolling="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`;
+                            case "IFRAME":
+                                return `<iframe src="${cam.url}" width="320" height="240" frameborder="0" scrolling="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>` + httpLink;
 							default:
 								return "An error has occurred";
 						}

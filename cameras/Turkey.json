@@ -1032,6 +1032,32 @@
         "longitude": 31.5064418,
         "url": "https://cdn-ipkamera.yayin.com.tr/derebucakbeltr/yukarikayalar3/playlist.m3u8"
       }
+    ],
+    "Seydişehir": [
+      {
+        "description": "Seyyid Harun Veli Camii",
+        "encoding": "MJPEG",
+        "format": "IMAGE_STREAM",
+        "latitude": 37.4168878,
+        "longitude": 31.8463628,
+        "url": "http://78.187.169.182:5004/control/faststream.jpg?stream=full"
+      },
+      {
+        "description": "Milli İrade Meydanı",
+        "encoding": "MJPEG",
+        "format": "IMAGE_STREAM",
+        "latitude": 37.4198442,
+        "longitude": 31.8448038,
+        "url": "http://78.187.169.182:5001/control/faststream.jpg?stream=full"
+      },
+      {
+        "description": "Kuğulu",
+        "encoding": "MJPEG",
+        "format": "IMAGE_STREAM",
+        "latitude": 37.3908929,
+        "longitude": 31.8404456,
+        "url": "http://78.187.169.182:5003/control/faststream.jpg?stream=full"
+      }
     ]
   },
   "Kutahya": {

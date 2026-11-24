@@ -41,6 +41,7 @@ Encoding standards should be consistently named, if you contribute a stream enco
 | VP8 |
 | VP9 |
 | JPEG |
+| MJPEG |
 
 ## Format
 
@@ -48,13 +49,14 @@ Not only can the stream be encoded in various ways, it can be sent and requested
 
 | Format | Description |
 | -------|------------ |
-| IMAGE_STREAM | A format for a stream of images where the most recent one is sent on each request. |
+| IMAGE_STREAM | A format for a stream of images where the most recent one is sent on each request. MJPEG (`multipart/x-mixed-replace`) streams also use this format, with the encoding `MJPEG`. |
 | IMAGE_STREAM_BY_EPOCH_IN_MILLISECONDS | A format for a stream of images requested by epoch time in milliseconds. |
 | M3U8 | A format which points to a chunklist which points to chunks, using m3u8 standard. |
 | M3U9 | A format which points to a chunklist which points to chunks, using m3u9 standard. |
 | UNIQUE_TEXASDOT | They just had to be special, didn't they? Well, you have to post the following object: ```{"arguments": "[the cameras URL],[literally anything or nothing, only the comma was needed]"}``` to [this page.](https://its.txdot.gov/ITS_WEB/FrontEnd/svc/DataRequestWebService.svc/GetCctvContent) A list seperated by commas that can't be split by commas will be returned. The 4th element and everything that follows is the Base64 image, I recommend just slicing from the index of the start of the word "data". You also have to remove all forward slashes(`\`). All this should be shown [here.](./examples/streaming/UNIQUE_TEXASDOT.js) |
 | UNIQUE_COLORADODOT | Not exactly worth it to try to stream. The DRM implemented is a significant hassle for only a few cameras. The example for streaming is not a high priority issue. |
 | UNIQUE_NEWJERSEYDOT | An example for this is yet to be implemented but it is described [here.](./compilation/NewJerseyDot.js) It requires WOWZA keys and is M3U8. |
+| EMBED | A format where the stream is a player page embedded in an iframe (e.g. a YouTube embed URL). `IFRAME` is accepted as an alias. |
 | IFRAME | A format where the stream is embedded in an iframe. |
 
 ## Compilation
